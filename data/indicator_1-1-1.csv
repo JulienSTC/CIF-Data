@@ -1,7 +1,50 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Geography,Persons,Value
+2015,Canada,All persons,14.5
+2016,Canada,All persons,12.8
+2017,Canada,All persons,11.7
+2018,Canada,All persons,11
+2015,Canada,Persons under 18 years,16.4
+2016,Canada,Persons under 18 years,14
+2017,Canada,Persons under 18 years,11.6
+2018,Canada,Persons under 18 years,10.8
+2015,Canada,Persons 18 to 64 years,15.7
+2016,Canada,Persons 18 to 64 years,14
+2017,Canada,Persons 18 to 64 years,13.2
+2018,Canada,Persons 18 to 64 years,12.5
+2015,Canada,Persons 65 years and over,7
+2016,Canada,Persons 65 years and over,7
+2017,Canada,Persons 65 years and over,6
+2018,Canada,Persons 65 years and over,5.6
+2015,Canada,Males,14.2
+2016,Canada,Males,12.3
+2017,Canada,Males,11.5
+2018,Canada,Males,11.1
+2015,Canada,Males, under 18 years,16.1
+2016,Canada,Males, under 18 years,13
+2017,Canada,Males, under 18 years,11.5
+2018,Canada,Males, under 18 years,11.3
+2015,Canada,Males, 18 to 64 years,15.4
+2016,Canada,Males, 18 to 64 years,13.5
+2017,Canada,Males, 18 to 64 years,12.9
+2018,Canada,Males, 18 to 64 years,12.5
+2015,Canada,Males, 65 years and over,6
+2016,Canada,Males, 65 years and over,6.3
+2017,Canada,Males, 65 years and over,5.4
+2018,Canada,Males, 65 years and over,5
+2015,Canada,Females,14.8
+2016,Canada,Females,13.3
+2017,Canada,Females,11.9
+2018,Canada,Females,10.9
+2015,Canada,Females, under 18 years,16.8
+2016,Canada,Females, under 18 years,15.1
+2017,Canada,Females, under 18 years,11.8
+2018,Canada,Females, under 18 years,10.2
+2015,Canada,Females, 18 to 64 years,16
+2016,Canada,Females, 18 to 64 years,14.4
+2017,Canada,Females, 18 to 64 years,13.5
+2018,Canada,Females, 18 to 64 years,12.4
+2015,Canada,Females, 65 years and over,7.9
+2016,Canada,Females, 65 years and over,7.5
+2017,Canada,Females, 65 years and over,6.5
+2018,Canada,Females, 65 years and over,6.2
+
