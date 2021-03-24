@@ -68,10 +68,10 @@ inputs:
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: master
+    tag: 1.2.0
   - class: TranslationInputSdgTranslations
     source: https://github.com/JulienSTC/cif-translations.git
-    tag: master
+    tag: 1.2.0
 
 # Reporting status extra fields
 # -----------------------------
