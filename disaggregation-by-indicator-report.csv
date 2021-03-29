@@ -85,6 +85,8 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-2,"Geography, Fuel type, Demand characteristics",3
 #7-2-1,"Geography, Type of electricity generation",2
 #7-3-1,Group,1
+#8-5-1,Group,1
+#8-5-2,Group,1
 #8-6-1,Group,1
 #8-7-1,Group,1
 #8-8-1,Group,1
@@ -93,3 +95,4 @@ Indicator,Disaggregations,Number of disaggregations
 #8-9-2,Group,1
 #8-a-1,Group,1
 #8-b-1,Group,1
+#9-a-1,Group,1
