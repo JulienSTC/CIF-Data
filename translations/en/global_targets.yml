@@ -2,140 +2,185 @@
   <p>Ambition - Reduce poverty in Canada in all its forms
   <br>Target - By 2030, 50% reduction of the poverty rate compared to 2015</p>
 1-2-title:
-  - Canadian ambition - Reduce poverty in Canada in all its forms      Canadian target - No target specified OR Not specific target
-10-1-title: Canadians live free of discrimination and inequalities are reduced
-10-2-title: Canadians live free of discrimination and inequalities are reduced
-10-3-title: Canadians live free of discrimination and inequalities are reduced
-10-4-title: Adopt policies, especially fiscal, wage and social protection policies,
-  and progressively achieve greater equality
-11-1-title: Reduce chronic homelessness by 50% by fiscal year 2027-2028
-11-2-title: No target
-11-3-title: By 2030, enhance inclusive and sustainable urbanization and capacity for
-  participatory, integrated and sustainable human settlement planning and management
-  in all countries
-11-4-title: Strengthen efforts to protect and safeguard the world’s cultural and natural
-  heritage
-11-5-title: By 2030, significantly reduce the number of deaths and the number of people
-  affected and substantially decrease the direct economic losses relative to global
-  gross domestic product caused by disasters, including water-related disasters, with
-  a focus on protecting the poor and people in vulnerable situations
-12-1-title: Zero-emission vehicles represent 10% of new light duty vehicle sales by 2025, 30% by 2030 and 100% by 2040
-12-2-title: No target
-12-3-title: By 2030, halve per capita global food waste at the retail and consumer
-  levels and reduce food losses along production and supply chains, including post-harvest
-  losses
-12-4-title: By 2020, achieve the environmentally sound management of chemicals and
-  all wastes throughout their life cycle, in accordance with agreed international
-  frameworks, and significantly reduce their release to air, water and soil in order
-  to minimize their adverse impacts on human health and the environment
-12-5-title: By 2030, substantially reduce waste generation through prevention, reduction,
-  recycling and reuse
-13-1-title: By 2030, reduce Canada's total greenhouse gas emissions by 30%, relative to 2005 emission levels; By 2050, achieve net-zero emissions.
-13-2-title: Integrate climate change measures into national policies, strategies and
-  planning
-13-3-title: Improve education, awareness-raising and human and institutional capacity
-  on climate change mitigation, adaptation, impact reduction and early warning
-14-1-title: By 2025, a plan is introduced to conserve 25% of Canada’s oceans, working towards 30% by 2030
-14-2-title: All major fish and invertebrate stocks are managed and harvested at levels considered to be sustainable, starting at 96% in 2016, by 2023
-14-3-title: Minimize and address the impacts of ocean acidification, including through
-  enhanced scientific cooperation at all levels
-14-4-title: By 2020, effectively regulate harvesting and end overfishing, illegal,
-  unreported and unregulated fishing and destructive fishing practices and implement
-  science-based management plans, in order to restore fish stocks in the shortest
-  time feasible, at least to levels that can produce maximum sustainable yield as
-  determined by their biological characteristics
-15-1-title: No target
-15-2-title: By 2020, promote the implementation of sustainable management of all types
-  of forests, halt deforestation, restore degraded forests and substantially increase
-  afforestation and reforestation globally
-15-3-title: By 2030, combat desertification, restore degraded land and soil, including
-  land affected by desertification, drought and floods, and strive to achieve a land
-  degradation-neutral world
-15-4-title: By 2030, ensure the conservation of mountain ecosystems, including their
-  biodiversity, in order to enhance their capacity to provide benefits that are essential
-  for sustainable development
-15-5-title: Take urgent and significant action to reduce the degradation of natural
-  habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction
-  of threatened species
-15-6-title: Promote fair and equitable sharing of the benefits arising from the utilization
-  of genetic resources and promote appropriate access to such resources, as internationally
-  agreed
-16-1-title: No target
-16-2-title: End abuse, exploitation, trafficking and all forms of violence against
-  and torture of children
-16-3-title: Promote the rule of law at the national and international levels and ensure
-  equal access to justice for all
-16-4-title: By 2030, significantly reduce illicit financial and arms flows, strengthen
-  the recovery and return of stolen assets and combat all forms of organized crime
-16-5-title: Substantially reduce corruption and bribery in all their forms
-16-6-title: Develop effective, accountable and transparent institutions at all levels
-17-1-title: Strengthen domestic resource mobilization, including through international
-  support to developing countries, to improve domestic capacity for tax and other
-  revenue collection
-17-2-title: No target
-17-3-title: Mobilize additional financial resources for developing countries from
-  multiple sources
-17-4-title: Assist developing countries in attaining long-term debt sustainability
-  through coordinated policies aimed at fostering debt financing, debt relief and
-  debt restructuring, as appropriate, and address the external debt of highly indebted
-  poor countries to reduce debt distress
-17-5-title: Adopt and implement investment promotion regimes for least developed countries
-17-6-title: Enhance North-South, South-South and triangular regional and international
-  cooperation on and access to science, technology and innovation and enhance knowledge-sharing
-  on mutually agreed terms, including through improved coordination among existing
-  mechanisms, in particular at the United Nations level, and through a global technology
-  facilitation mechanism
-2-1-title: Canadians have access to sufficient, affordable and nutritious food  
-2-2-title: Canadian agriculture is sustainable
+  <p>Ambition - Reduce poverty in Canada in all its forms
+  <br>Target - No specific target</p>
+10-1-title: 
+  <p>Ambition - Canadians live free of discrimination and inequalities are reduced
+  <br> - No specific target</p>
+10-2-title: 
+  <p>Ambition - Canadians live free of discrimination and inequalities are reduced
+  <br>Target - No specific target</p>
+10-3-title: 
+  <p>Ambition - Canadians live free of discrimination and inequalities are reduced
+  <br>Target - No specific target</p>
+11-1-title: 
+  <p>Ambition - Canadians have access to quality housing
+  <br>Target - Reduce chronic homelessness by 50% by fiscal year 2027-2028</p>
+11-2-title: 
+  <p>Ambition - Canadians have access to quality housing
+  <br>Target - No specific target</p>
+11-3-title: 
+  <p>Ambition - Canadians live in healthy, accessible, and sustainable cities and communities
+  <br>Target - No specific target</p>
+11-4-title: 
+  <p>Ambition - Canadians live in healthy, accessible, and sustainable cities and communities
+  <br>Target - No specific target</p>
+11-5-title: 
+  <p>Ambition - Canadians live in healthy, accessible, and sustainable cities and communities
+  <br>Target - By 2030, acheive 22%</p>
+11-6-title: 
+  <p>Ambition - Canadians live in healthy, accessible, and sustainable cities and communities
+  <br>Target - By 2030, acheive a 30% reduction, or 1.4 kg/day/capita</p>
+12-1-title: 
+  <p>Ambition - Canadians consume in a sustainable manner
+  <br>Target - Zero-emission vehicles represent 10% of new light duty vehicle sales by 2025, 30% by 2030 and 100% by 2040</p>
+12-2-title:
+  <p>Ambition - Canadians consume in a sustainable manner
+  <br>Target - No specific target</p>
+12-3-title: 
+  <p>Ambition - Canadians consume in a sustainable manner
+  <br>Target - No specific target</p>
+13-1-title: 
+  <p>Ambition - Canadians reduce their GHG emissions
+  <br>Target - By 2030, reduce Canada's total greenhouse gas emissions by 30%, relative to 2005 emission levels; By 2050, achieve net-zero emissions</p>
+13-2-title: 
+  <p>Ambition - Canadians are well-equipped and resilient to face the effects of Climate change
+  <br>Target - No specific target</p>
+13-3-title: 
+  <p>Ambition - Canadians are well-equipped and resilient to face the effects of Climate change
+  <br>Target - No specific target</p>
+13-4-title: 
+  <p>Ambition - Canadians are well-equipped and resilient to face the effects of Climate change
+  <br>Target - No specific target</p>
+14-1-title: 
+  <p>Ambition - Canada protects and conserves marine areas and sustainably manages ocean fish stocks
+  <br>Target - By 2025, a plan is introduced to conserve 25% of Canada’s oceans, working towards 30% by 2030</p>
+14-2-title: 
+  <p>Ambition - Canada protects and conserves marine areas and sustainably manages ocean fish stocks
+  <br>Target - All major fish and invertebrate stocks are managed and harvested at levels considered to be sustainable, starting at 96% in 2016, by 2023</p>
+15-1-title: 
+  <p>Ambition - Canada ensures all species have a healthy and viable population
+  <br>Target - No specific target</p>
+15-2-title: 
+  <p>Ambition - Canada ensures all species have a healthy and viable population
+  <br>Target - No specific target</p>
+15-3-title: 
+  <p>Ambition - Canada conserves and restores ecosystems and habitat
+  <br>Target - No specific target</p>
+15-4-title: 
+  <p>Ambition - Canada conserves and restores ecosystems and habitat
+  <br>Target - No specific target</p>
+15-5-title: 
+  <p>Ambition - Canada sustainably manages forests, lakes and rivers
+  <br>Target - No specific target</p>
+15-6-title: 
+  <p>Ambition - Canada sustainably manages forests, lakes and rivers
+  <br>Target - No specific target</p>
+16-1-title: 
+  <p>Ambition - Canadians are safe and secure, in person and online
+  <br>Target - No specific target</p>
+16-2-title: 
+  <p>Ambition - Canadians are safe and secure, in person and online
+  <br>Target - No specific target</p>
+16-3-title: 
+  <p>Ambition - Canadians are safe and secure, in person and online
+  <br>Target - No specific target</p>
+16-4-title: 
+  <p>Ambition - Canadians have equal access to justice
+  <br>Target - No specific target</p>
+16-5-title: 
+  <p>Ambition - Canadians have equal access to justice
+  <br>Target - No specific target</p>
+16-6-title: 
+  <p>Ambition - Canadians have equal access to justice
+  <br>Target - No specific target</p>
+16-7-title: 
+  <p>Ambition - Canadians are supported by effective, accountable, and transparent institutions
+  <br>Target - No specific target</p>
+17-1-title: 
+  <p>Ambition - Canada fosters collaboration and partnerships to advance the SDGs
+  <br>Target - No specific target</p>
+17-2-title: 
+  <p>Ambition - Canada fosters collaboration and partnerships to advance the SDGs
+  <br>Target - No specific target</p>
+2-1-title: 
+  <p>Ambition - Canadians have access to sufficient, affordable and nutritious food 
+  <br>Target - No specific target</p>
+2-2-title: 
+  <p>Ambition - Canadian agriculture is sustainable
+  <br>Target - By 2030, support improvement in the environmental performance of the agriculture sector by achieving a score of 71 or higher for the Index of Agri-Environmental Sustainability</p>
 3-1-title: Canadians adopt healthy behaviours
 3-2-title: Canadians have healthy and satisfying lives
 3-3-title: Canada prevents causes of premature death
-4-1-title: Canadians have access to inclusive and quality education throughout their lives
-4-2-title: Canadians have access to inclusive and quality education throughout their lives
-5-1-title: End all forms of discrimination against all women and girls everywhere
-5-2-title: No target
-5-3-title: Eliminate all harmful practices, such as child, early and forced marriage
-  and female genital mutilation
-5-4-title: Recognize and value unpaid care and domestic work through the provision
-  of public services, infrastructure and social protection policies and the promotion
-  of shared responsibility within the household and the family as nationally appropriate
-5-5-title: Ensure women’s full and effective participation and equal opportunities
-  for leadership at all levels of decision-making in political, economic and public
-  life
-6-1-title: By March 31, 2021, all of the long-term drinking water advisories on public systems on reserve are to be resolved
-6-2-title: No target
-6-3-title: Promote the conservation and wise use of water to achieve a 30% reduction or increased efficiency in water use in various sectors by 2025 (based on 2009 water use levels)
-6-4-title: By 2030, substantially increase water-use efficiency across all sectors
-  and ensure sustainable withdrawals and supply of freshwater to address water scarcity
-  and substantially reduce the number of people suffering from water scarcity
-7-1-title: By 2030, 600 petajoules of total annual energy savings will be achieved as a result of adoption of energy efficiency codes, standards and practices from a baseline savings of 20.0 petajoules in 2017 to 2018
-7-2-title: Canadians have access to clean and renewable energy
-7-3-title: By 2030, 90% and in the long term, 100% of Canada's electricity is generated from renewable and non-emitting sources
-8-1-title: No target
-8-2-title: Achieve higher levels of economic productivity through diversification,
-  technological upgrading and innovation, including through a focus on high-value
-  added and labour-intensive sectors
-8-3-title: Promote development-oriented policies that support productive activities,
-  decent job creation, entrepreneurship, creativity and innovation, and encourage
-  the formalization and growth of micro-, small- and medium-sized enterprises, including
-  through access to financial services
-8-4-title: Improve progressively, through 2030, global resource efficiency in consumption
-  and production and endeavour to decouple economic growth from environmental degradation,
-  in accordance with the 10‐Year Framework of Programmes on Sustainable Consumption
-  and Production, with developed countries taking the lead
-9-1-title: Develop quality, reliable, sustainable and resilient infrastructure, including
-  regional and transborder infrastructure, to support economic development and human
-  well-being, with a focus on affordable and equitable access for all
-9-2-title: Promote inclusive and sustainable industrialization and, by 2030, significantly
-  raise industry’s share of employment and gross domestic product, in line with national
-  circumstances, and double its share in least developed countries
-9-3-title: By 2026, 98% Canadian homes and small businesses have access to speeds of 50 Mbps download / 10 Mbps upload, with the goal of connecting all Canadians to these speeds by 2030
-9-4-title: By 2030, upgrade infrastructure and retrofit industries to make them sustainable,
-  with increased resource-use efficiency and greater adoption of clean and environmentally
-  sound technologies and industrial processes, with all countries taking action in
-  accordance with their respective capabilities
-9-5-title: Enhance scientific research, upgrade the technological capabilities of
-  industrial sectors in all countries, in particular developing countries, including,
-  by 2030, encouraging innovation and substantially increasing the number of research
-  and development workers per 1 million people and public and private research and
-  development spending
+4-1-title: 
+  <p>Ambition - Canadians have access to inclusive and quality education throughout their lives
+  <br>Target - No specific target</p>
+4-2-title: 
+  <p>Ambition - Canadians have access to inclusive and quality education throughout their lives
+  <br>Target - No specific target</p>
+5-1-title: 
+  <p>Ambition - Canadians are well represented at all levels of decision making
+  <br>Target - No specific target</p>
+5-2-title: 
+  <p>Ambition - Canadians share responsibilities within households and families
+  <br>Target - No specific target</p>
+5-3-title: 
+  <p>Ambition - Gender-based violence placeholder
+  <br>Target - No specific target</p>
+6-1-title: 
+  <p>Ambition - Canadians have access to drinking water and use it in a sustainable manner
+  <br>Target - By March 31, 2021, all of the long-term drinking water advisories on public systems on reserve are to be resolved</p>
+6-2-title:
+  <p>Ambition - Canadians have access to drinking water and use it in a sustainable manner
+  <br>Target - No specific target</p>
+6-3-title: 
+  <p>Ambition - Canadians have access to drinking water and use it in a sustainable manner
+  <br>Target - Promote the conservation and wise use of water to achieve a 30% reduction or increased efficiency in water use in various sectors by 2025 (based on 2009 water use levels)</p>
+7-1-title: 
+  <p>Ambition - Canadians reduce their energy consumption
+  <br>Target - By 2030, 600 petajoules of total annual energy savings will be achieved as a result of adoption of energy efficiency codes, standards and practices from a baseline savings of 20.0 petajoules in 2017 to 2018</p>
+7-2-title: 
+  <p>Ambition - Canadians reduce their energy consumption
+  <br>Target - No specific target</p>
+7-3-title: 
+  <p>Ambition - Canadians have access to clean and renewable energy
+  <br>Target - By 2030, 90% and in the long term, 100% of Canada's electricity is generated from renewable and non-emitting sources</p>Canadians have access to clean and renewable energy
+8-1-title: 
+  <p>Ambition - Canadians have access to quality jobs
+  <br>Target - No specific target</p>
+8-2-title: 
+  <p>Ambition - Canadians have access to quality jobs
+  <br>Target - No specific target</p>
+8-3-title: 
+  <p>Ambition - Canadians have access to quality jobs
+  <br>Target - No specific target</p>
+8-4-title: 
+  <p>Ambition - Canadians have access to quality jobs
+  <br>Target - No specific target</p>
+8-5-title: 
+  <p>Ambition - Canadians contribute to and benefit from sustainable economic growth
+  <br>Target - No specific target</p>
+8-6-title: 
+  <p>Ambition - Canadians contribute to and benefit from sustainable economic growth
+  <br>Target - No specific target</p>
+9-1-title: 
+  <p>Ambition - Canada fosters sustainable research and innovation
+  <br>Target - No specific target</p>
+9-2-title: 
+  <p>Ambition - Canada fosters sustainable research and innovation
+  <br>Target - No specific target</p>
+9-3-title: 
+  <p>Ambition - Canadians have access to modern and sustainable infrastructures
+  <br>Target - By 2026, 98% Canadian homes and small businesses have access to speeds of 50 Mbps download / 10 Mbps upload, with the goal of connecting all Canadians to these speeds by 2030</p>
+9-4-title: 
+  <p>Ambition - Canadians have access to modern and sustainable infrastructures
+  <br>Target - Improved access to the latest mobile wireless services</p>
+9-5-title: 
+  <p>Ambition - Canadians have access to modern and sustainable infrastructures
+  <br>Target - No specific target</p>
+9-6-title: 
+  <p>Ambition - Canadians have access to modern and sustainable infrastructures
+  <br>Target - No specific target</p>
+9-7-title: 
+  <p>Ambition - Canadians have access to modern and sustainable infrastructures
+  <br>Target - Placeholder for charging stations</p>
