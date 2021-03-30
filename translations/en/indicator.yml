@@ -1,106 +1,111 @@
-# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-other_info: Other information
-# A label describing information - any calculations that were used in the production of a dataset
-computation_calculations: Calculations
-# A label describing information - a list of definitions of terms used within other metadata fields
-computation_definitions: Definitions
+select_all: Select all
+clear_all: Clear all
+clear_selections: Clear selections
+variable_hint: Available when '%field' is selected
+no_data_hint: No options available because of filters above
+download_headline: Download Headline CSV
+download_headline_title: Download headline data as CSV
+download_source: Download Source CSV
+download_source_title: Download source data as CSV
+download_source_sdmx: Download Source SDMX
+download_source_sdmx_title: Download source data as SDMX
+download_chart: Download Chart CSV
+download_table: Download Table CSV
+download_csv: Download CSV
+download_csv_title: Download as CSV
+download_chart_image: Download Chart Image
+download_chart_image_title: Download chart as image
+download_geojson: Download GeoJSON
+download_geojson_title: Download as GeoJSON
+# A label describing information - where some data originally came from
+source: Source
+# A button that displays information about where some data originally came from
+sources: Sources
+# A label describing information - a description of the geographical area covered by a dataset
+geographical_area: Geographical Area
 # A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: Unit of measurement
-# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
-goal_meta_link: Link to UN metadata
-# A label describing information - the numeric code for a particular indicator
-indicator: Indicator number
-# A label describing information - the definition for a particular indicator - as provided by the United Nations
-indicator_definition: Global indicator description
-# A label describing information - the name of a particular indicator
-indicator_name: Indicator name
-indicator_sort_order: Indicator display order (within Goal page)
-national_data_update_url: Data last updated
-# A label describing information - the geographical area covered by a dataset
-national_geographical_coverage: Geographical coverage
-national_indicator_available: Indicator available
-national_indicator_description: Indicator description
-national_metadata_update_url: Metadata last updated
-# A label describing information - contact information for the person or agency that provided data
-source_contact_1: Contact details
-source_contact_2: Contact details
-source_contact_3: Contact details
-source_contact_4: Contact details
-source_contact_5: Contact details
-source_contact_6: Contact details
-# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
-source_earliest_available_1: Earliest available data
-source_earliest_available_2: Earliest available data
-source_earliest_available_3: Earliest available data
-source_earliest_available_4: Earliest available data
-source_earliest_available_5: Earliest available data
-source_earliest_available_6: Earliest available data
-# A label describing information - the geographical area covered in the data provided by a particular person or agency
-source_geographical_coverage_1: Geographical coverage
-source_geographical_coverage_2: Geographical coverage
-source_geographical_coverage_3: Geographical coverage
-source_geographical_coverage_4: Geographical coverage
-source_geographical_coverage_5: Geographical coverage
-source_geographical_coverage_6: Geographical coverage
-# A label describing information - the date at which a particular person or agency plans to update their provided data
-source_next_release_1: Next release
-source_next_release_2: Next release
-source_next_release_3: Next release
-source_next_release_4: Next release
-source_next_release_5: Next release
-source_next_release_6: Next release
-# A label describing information - the name of any organization associated with some provided data
-source_organisation_1: Organisation
-source_organisation_2: Organisation
-source_organisation_3: Organisation
-source_organisation_4: Organisation
-source_organisation_5: Organisation
-source_organisation_6: Organisation
-# A label describing information - any other information about a particular source of data for a particular indicator
-source_other_info_1: Other information
-source_other_info_2: Other information
-source_other_info_3: Other information
-source_other_info_4: Other information
-source_other_info_5: Other information
-source_other_info_6: Other information
-# A label describing information - the frequency with which a particular source of data will provide updates
-source_periodicity_1: Periodicity
-source_periodicity_2: Periodicity
-source_periodicity_3: Periodicity
-source_periodicity_4: Periodicity
-source_periodicity_5: Periodicity
-source_periodicity_6: Periodicity
-# A label describing information - The date at which a particular source provided their data
-source_release_date_1: Release date
-source_release_date_2: Release date
-source_release_date_3: Release date
-source_release_date_4: Release date
-source_release_date_5: Release date
-source_release_date_6: Release date
-# A label describing information - some classification of a particular source of data for a particular indicator
-source_statistical_classification_1: Statistical classification
-source_statistical_classification_2: Statistical classification
-source_statistical_classification_3: Statistical classification
-source_statistical_classification_4: Statistical classification
-source_statistical_classification_5: Statistical classification
-source_statistical_classification_6: Statistical classification
-source_url_1: Link to data source
-source_url_2: Link to data source
-source_url_3: Link to data source
-source_url_4: Link to data source
-source_url_5: Link to data source
-source_url_6: Link to data source
-# A label describing information - the overall SDG target associated with a particular indicator
-target: Target name
-# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
-target_id: Target number
-# A label describing information - the United Nations custodian agency associated with a particular indicator
-un_custodian_agency: UN custodian agency
-# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
-un_designated_tier: UN designated tier
-quality_assurance: Quality assurance
-international_comparability: Comparability with international data/standards
-comments_limitations: Comments and limitations
-rationale_interpretation: Rational and interpretation
-rational_interpretation: Rational and interpretation
-copyright: Copyright
+unit_of_measurement: Unit of Measurement
+# A shorter version of the "Unit" label.
+unit: Unit
+# A label describing information - any general information about a dataset - displayed below the data visualization on the page
+footnote: Footnote
+# The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
+units_type: Units type
+# The label of a widget that allows the user to change the series that is being represented in a data visualization
+series: Series
+dataset_size_warning: There are too many datasets to show on the chart. Not all
+  will be shown until you remove some selections.
+view_indicator_list: View this goal's indicator list
+# A label describing a section of the page that allows the user to filter data by sub-category
+sub_categories: Sub-categories
+# A label of "Show sub-categories" to display before a particular sub-category's name
+sub_categories_show: "Show sub-categories:"
+series_help: Choose categories from the dropdowns below to see different
+  breakdowns of the data. Some will not be available until a higher level is
+  chosen.
+legend_help: Click on the legend to remove individual lines from the chart.
+# A button that displays some data in the form of a chart
+chart: Chart
+# A button that displays some data in the form of a table (rows and columns)
+table: Table
+# A button that displays some data in the form of a map
+map: Map
+loading: Loading
+loading_map: Loading map
+# A button that displays the national metadata about a particular indicator - as provided by that country
+national_metadata: National Metadata
+national_metadata_blurb: This table provides metadata for the actual indicator
+  available from %country_name statistics closest to the corresponding
+  global SDG indicator. Please note that even when the global SDG indicator is
+  fully available from %country_adjective statistics, this table
+  should be consulted for information on national methodology and other
+  %country_adjective-specific metadata information.
+# A button that displays the global metadata about a particular indicator - as provided by the United Nations
+global_metadata: Global Metadata
+global_metadata_blurb: This table provides information on metadata for SDG
+  indicators as defined by the UN Statistical Commission.
+  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
+  is provided by the UN Statistics Division.
+# A button for editing some content
+edit: Edit
+# A button for editing data
+edit_data: Edit Data
+# A button for editing metadata
+edit_metadata: Edit Metadata
+# A button for editing configuration
+edit_configuration: Edit Configuration
+# A message that displays when a chart has no data to display because of the
+# user's choices.
+data_not_available: This data is not available. Please choose alternative data to display.
+# A message that is announced when there is no data on the chart/table
+announce_data_not_available: Chart and table shows no data.
+# A message that is announced when the data is added to the chart/table
+announce_data_added: Chart and table updated to include data.
+# A message that is announced when the data is removed from the chart/table
+announce_data_removed: Chart and table updated to exclude data.
+# A message that points out an alternative display for visual data
+data_tabular_alternative: For tabular data alternative see Table tab.
+# Instructions for navigating data with a keyboard
+data_keyboard_navigation: Press enter to browse data points with left and right arrow keys.
+# Description of the "plot legend" which displays beneath charts
+plot_legend_description: "Plot legend: list of lines included in chart"
+# Common annotation displayed on graphs for the 2030 target.
+annotation_2030_target: 2030 Target
+# Label describing an annotation on a chart/graph.
+chart_annotation: Chart annotation
+# Description of the year slider on maps.
+map_year_slider: Year slider
+# Description of a search field on maps.
+map_search: Search
+# Description of a button that hides the search field on maps.
+map_search_hide: Hide search
+# Description of a button that shows the search field on maps.
+map_search_show: Show search
+# Instructions for using the data table columns for sorting.
+table_column_sort: Click to sort by this column
+# Label describing the status of an indicator
+status: Indicator status
+# Label describing the "tags" for an indicator
+tags: Tags
+previous: Previous indicator
+next: Next indicator
