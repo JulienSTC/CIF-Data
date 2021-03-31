@@ -3,6 +3,6 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-1,"Geography, Living arrangement, Household food security status",3
 #2-2-1,"Aggregate Index, Index, Indicator",3
 #7-1-1,Energy Savings,1
-#7-2-1,"Geography, Fuel type, Demand characteristics",3
-#7-3-1,"Geography, Type of electricity generation",2
+#7-1-2,"Geography, Fuel type, Demand characteristics",3
+#7-2-1,"Geography, Type of electricity generation",2
 #8-5-1,Group,1
