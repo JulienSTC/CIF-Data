@@ -1,2 +1,3 @@
 From,To
-Geography,Type of electricity generation
+Geography,Fuel type
+Fuel type,Demand characteristics
