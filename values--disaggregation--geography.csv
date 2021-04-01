@@ -1,16 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Alberta,225,6
-British Columbia,225,7
-Canada,240,8
-Manitoba,218,7
-New Brunswick,223,6
-Newfoundland and Labrador,211,6
+Alberta,228,7
+British Columbia,228,8
+Canada,243,9
+Manitoba,221,8
+New Brunswick,226,7
+Newfoundland and Labrador,214,7
 Northwest Territories,178,4
-Nova Scotia,203,5
+Nova Scotia,206,6
 NovaScotia,18,1
 Nunavut,164,4
-Ontario,234,7
-Prince Edward Island,210,6
-Quebec,222,6
-Saskatchewan,221,7
+Ontario,237,8
+Prince Edward Island,213,7
+Quebec,225,7
+Saskatchewan,224,8
+"Yukon, Northwest Territories and Nunavut",3,1
 Yukon,174,4
