@@ -1,9 +1,11 @@
 instructions: Click on each goal to access the data
 heading: Welcome to the Canadian Indicator Framework for the Sustainable Development Goals Data Hub
 download_all: Download all data
-second_text: Sustainable Development Goals Data Hub
+second_header: Sustainable Development Goals Data Hub
+second_text: Access Data Hub
 second_link: https://www144.statcan.gc.ca/sdg-odd/index-eng.htm
-third_text: Gender, diversity and inclusion statistics
+third_header: Gender, diversity and inclusion statistics
+third_text: Access Data Hub
 third_link: https://www.statcan.gc.ca/eng/topics-start/gender_diversity_and_inclusion
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
