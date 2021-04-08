@@ -15,10 +15,10 @@ Year,Geography,Persons,Value
 2016,Canada,Persons 65 years and over,7
 2017,Canada,Persons 65 years and over,6
 2018,Canada,Persons 65 years and over,5.6
-2015,Canada,Males,14.2
-2016,Canada,Males,12.3
-2017,Canada,Males,11.5
-2018,Canada,Males,11.1
+2015,Canada,Hommes,14.2
+2016,Canada,Hommes,12.3
+2017,Canada,Hommes,11.5
+2018,Canada,Hommes,11.1
 2015,Canada,Males under 18 years,16.1
 2016,Canada,Males under 18 years,13
 2017,Canada,Males under 18 years,11.5
@@ -31,10 +31,10 @@ Year,Geography,Persons,Value
 2016,Canada,Males 65 years and over,6.3
 2017,Canada,Males 65 years and over,5.4
 2018,Canada,Males 65 years and over,5
-2015,Canada,Females,14.8
-2016,Canada,Females,13.3
-2017,Canada,Females,11.9
-2018,Canada,Females,10.9
+2015,Canada,Femmes,14.8
+2016,Canada,Femmes,13.3
+2017,Canada,Femmes,11.9
+2018,Canada,Femmes,10.9
 2015,Canada,Females under 18 years,16.8
 2016,Canada,Females under 18 years,15.1
 2017,Canada,Females under 18 years,11.8
@@ -63,10 +63,10 @@ Year,Geography,Persons,Value
 2016,Newfoundland and Labrador,Persons 65 years and over,8
 2017,Newfoundland and Labrador,Persons 65 years and over,6.7
 2018,Newfoundland and Labrador,Persons 65 years and over,4.1
-2015,Newfoundland and Labrador,Males,11.6
-2016,Newfoundland and Labrador,Males,11.1
-2017,Newfoundland and Labrador,Males,9.9
-2018,Newfoundland and Labrador,Males,11.6
+2015,Newfoundland and Labrador,Hommes,11.6
+2016,Newfoundland and Labrador,Hommes,11.1
+2017,Newfoundland and Labrador,Hommes,9.9
+2018,Newfoundland and Labrador,Hommes,11.6
 2015,Newfoundland and Labrador,Males under 18 years,13.9
 2016,Newfoundland and Labrador,Males under 18 years,13.9
 2017,Newfoundland and Labrador,Males under 18 years,11.5
@@ -79,10 +79,10 @@ Year,Geography,Persons,Value
 2016,Newfoundland and Labrador,Males 65 years and over,7.2
 2017,Newfoundland and Labrador,Males 65 years and over,5.1
 2018,Newfoundland and Labrador,Males 65 years and over,2.4
-2015,Newfoundland and Labrador,Females,14.6
-2016,Newfoundland and Labrador,Females,13.6
-2017,Newfoundland and Labrador,Females,12.9
-2018,Newfoundland and Labrador,Females,10.8
+2015,Newfoundland and Labrador,Femmes,14.6
+2016,Newfoundland and Labrador,Femmes,13.6
+2017,Newfoundland and Labrador,Femmes,12.9
+2018,Newfoundland and Labrador,Femmes,10.8
 2015,Newfoundland and Labrador,Females under 18 years,16.9
 2016,Newfoundland and Labrador,Females under 18 years,13
 2017,Newfoundland and Labrador,Females under 18 years,12.6
@@ -111,10 +111,10 @@ Year,Geography,Persons,Value
 2016,Prince Edward Island,Persons 65 years and over,7.9
 2017,Prince Edward Island,Persons 65 years and over,10.1
 2018,Prince Edward Island,Persons 65 years and over,10.1
-2015,Prince Edward Island,Males,14.2
-2016,Prince Edward Island,Males,9.8
-2017,Prince Edward Island,Males,13.3
-2018,Prince Edward Island,Males,12.3
+2015,Prince Edward Island,Hommes,14.2
+2016,Prince Edward Island,Hommes,9.8
+2017,Prince Edward Island,Hommes,13.3
+2018,Prince Edward Island,Hommes,12.3
 2015,Prince Edward Island,Males under 18 years,15.3
 2016,Prince Edward Island,Males under 18 years,11.9
 2017,Prince Edward Island,Males under 18 years,15.1
@@ -127,10 +127,10 @@ Year,Geography,Persons,Value
 2016,Prince Edward Island,Males 65 years and over,F
 2017,Prince Edward Island,Males 65 years and over,10.8
 2018,Prince Edward Island,Males 65 years and over,7.3
-2015,Prince Edward Island,Females,15.4
-2016,Prince Edward Island,Females,13.6
-2017,Prince Edward Island,Females,13.3
-2018,Prince Edward Island,Females,11.5
+2015,Prince Edward Island,Femmes,15.4
+2016,Prince Edward Island,Femmes,13.6
+2017,Prince Edward Island,Femmes,13.3
+2018,Prince Edward Island,Femmes,11.5
 2015,Prince Edward Island,Females under 18 years,15
 2016,Prince Edward Island,Females under 18 years,18.2
 2017,Prince Edward Island,Females under 18 years,11.3
@@ -159,10 +159,10 @@ Year,Geography,Persons,Value
 2016,Nova Scotia,Persons 65 years and over,7.9
 2017,Nova Scotia,Persons 65 years and over,6.9
 2018,Nova Scotia,Persons 65 years and over,8.1
-2015,Nova Scotia,Males,16.5
-2016,Nova Scotia,Males,17
-2017,Nova Scotia,Males,13.5
-2018,Nova Scotia,Males,13
+2015,Nova Scotia,Hommes,16.5
+2016,Nova Scotia,Hommes,17
+2017,Nova Scotia,Hommes,13.5
+2018,Nova Scotia,Hommes,13
 2015,Nova Scotia,Males under 18 years,19.3
 2016,Nova Scotia,Males under 18 years,20.4
 2017,Nova Scotia,Males under 18 years,17.4
@@ -175,10 +175,10 @@ Year,Geography,Persons,Value
 2016,Nova Scotia,Males 65 years and over,8
 2017,Nova Scotia,Males 65 years and over,5
 2018,Nova Scotia,Males 65 years and over,5.7
-2015,Nova Scotia,Females,17.5
-2016,Nova Scotia,Females,15.4
-2017,Nova Scotia,Females,16.3
-2018,Nova Scotia,Females,13.6
+2015,Nova Scotia,Femmes,17.5
+2016,Nova Scotia,Femmes,15.4
+2017,Nova Scotia,Femmes,16.3
+2018,Nova Scotia,Femmes,13.6
 2015,Nova Scotia,Females under 18 years,22.3
 2016,Nova Scotia,Females under 18 years,17.6
 2017,Nova Scotia,Females under 18 years,21.6
@@ -207,10 +207,10 @@ Year,Geography,Persons,Value
 2016,New Brunswick,Persons 65 years and over,9.6
 2017,New Brunswick,Persons 65 years and over,6.3
 2018,New Brunswick,Persons 65 years and over,5.3
-2015,New Brunswick,Males,15.9
-2016,New Brunswick,Males,12.1
-2017,New Brunswick,Males,11.2
-2018,New Brunswick,Males,9.7
+2015,New Brunswick,Hommes,15.9
+2016,New Brunswick,Hommes,12.1
+2017,New Brunswick,Hommes,11.2
+2018,New Brunswick,Hommes,9.7
 2015,New Brunswick,Males under 18 years,21.8
 2016,New Brunswick,Males under 18 years,17.2
 2017,New Brunswick,Males under 18 years,14.9
@@ -223,10 +223,10 @@ Year,Geography,Persons,Value
 2016,New Brunswick,Males 65 years and over,7
 2017,New Brunswick,Males 65 years and over,5.1
 2018,New Brunswick,Males 65 years and over,4.4
-2015,New Brunswick,Females,16.3
-2016,New Brunswick,Females,14.9
-2017,New Brunswick,Females,13
-2018,New Brunswick,Females,10.3
+2015,New Brunswick,Femmes,16.3
+2016,New Brunswick,Femmes,14.9
+2017,New Brunswick,Femmes,13
+2018,New Brunswick,Femmes,10.3
 2015,New Brunswick,Females under 18 years,18.5
 2016,New Brunswick,Females under 18 years,15.7
 2017,New Brunswick,Females under 18 years,15.8
@@ -255,10 +255,10 @@ Year,Geography,Persons,Value
 2016,Quebec,Persons 65 years and over,7.2
 2017,Quebec,Persons 65 years and over,5.9
 2018,Quebec,Persons 65 years and over,5.4
-2015,Quebec,Males,13.7
-2016,Quebec,Males,11
-2017,Quebec,Males,10.7
-2018,Quebec,Males,9.6
+2015,Quebec,Hommes,13.7
+2016,Quebec,Hommes,11
+2017,Quebec,Hommes,10.7
+2018,Quebec,Hommes,9.6
 2015,Quebec,Males under 18 years,15.1
 2016,Quebec,Males under 18 years,10
 2017,Quebec,Males under 18 years,10.1
@@ -271,10 +271,10 @@ Year,Geography,Persons,Value
 2016,Quebec,Males 65 years and over,6.7
 2017,Quebec,Males 65 years and over,4.8
 2018,Quebec,Males 65 years and over,4.4
-2015,Quebec,Females,13.8
-2016,Quebec,Females,10.9
-2017,Quebec,Females,10.8
-2018,Quebec,Females,9.9
+2015,Quebec,Femmes,13.8
+2016,Quebec,Femmes,10.9
+2017,Quebec,Femmes,10.8
+2018,Quebec,Femmes,9.9
 2015,Quebec,Females under 18 years,13
 2016,Quebec,Females under 18 years,11.4
 2017,Quebec,Females under 18 years,10.1
@@ -303,10 +303,10 @@ Year,Geography,Persons,Value
 2016,Ontario,Persons 65 years and over,6.5
 2017,Ontario,Persons 65 years and over,5.4
 2018,Ontario,Persons 65 years and over,5.4
-2015,Ontario,Males,14.8
-2016,Ontario,Males,12.5
-2017,Ontario,Males,12.1
-2018,Ontario,Males,11.9
+2015,Ontario,Hommes,14.8
+2016,Ontario,Hommes,12.5
+2017,Ontario,Hommes,12.1
+2018,Ontario,Hommes,11.9
 2015,Ontario,Males under 18 years,18
 2016,Ontario,Males under 18 years,13.1
 2017,Ontario,Males under 18 years,11.8
@@ -319,10 +319,10 @@ Year,Geography,Persons,Value
 2016,Ontario,Males 65 years and over,5.9
 2017,Ontario,Males 65 years and over,5.1
 2018,Ontario,Males 65 years and over,5.3
-2015,Ontario,Females,15.5
-2016,Ontario,Females,14.7
-2017,Ontario,Females,12.2
-2018,Ontario,Females,11.4
+2015,Ontario,Femmes,15.5
+2016,Ontario,Femmes,14.7
+2017,Ontario,Femmes,12.2
+2018,Ontario,Femmes,11.4
 2015,Ontario,Females under 18 years,18.5
 2016,Ontario,Females under 18 years,17.8
 2017,Ontario,Females under 18 years,12.8
@@ -351,10 +351,10 @@ Year,Geography,Persons,Value
 2016,Manitoba,Persons 65 years and over,4.9
 2017,Manitoba,Persons 65 years and over,5.4
 2018,Manitoba,Persons 65 years and over,5.8
-2015,Manitoba,Males,14.4
-2016,Manitoba,Males,12.4
-2017,Manitoba,Males,10.7
-2018,Manitoba,Males,11
+2015,Manitoba,Hommes,14.4
+2016,Manitoba,Hommes,12.4
+2017,Manitoba,Hommes,10.7
+2018,Manitoba,Hommes,11
 2015,Manitoba,Males under 18 years,22.8
 2016,Manitoba,Males under 18 years,16.7
 2017,Manitoba,Males under 18 years,11.5
@@ -367,10 +367,10 @@ Year,Geography,Persons,Value
 2016,Manitoba,Males 65 years and over,3.9
 2017,Manitoba,Males 65 years and over,4.6
 2018,Manitoba,Males 65 years and over,4.9
-2015,Manitoba,Females,13.5
-2016,Manitoba,Females,12.2
-2017,Manitoba,Females,11.4
-2018,Manitoba,Females,10.7
+2015,Manitoba,Femmes,13.5
+2016,Manitoba,Femmes,12.2
+2017,Manitoba,Femmes,11.4
+2018,Manitoba,Femmes,10.7
 2015,Manitoba,Females under 18 years,15.4
 2016,Manitoba,Females under 18 years,14.3
 2017,Manitoba,Females under 18 years,13.8
@@ -399,10 +399,10 @@ Year,Geography,Persons,Value
 2016,Saskatchewan,Persons 65 years and over,7
 2017,Saskatchewan,Persons 65 years and over,5.4
 2018,Saskatchewan,Persons 65 years and over,4.6
-2015,Saskatchewan,Males,11.3
-2016,Saskatchewan,Males,10.6
-2017,Saskatchewan,Males,11.9
-2018,Saskatchewan,Males,11
+2015,Saskatchewan,Hommes,11.3
+2016,Saskatchewan,Hommes,10.6
+2017,Saskatchewan,Hommes,11.9
+2018,Saskatchewan,Hommes,11
 2015,Saskatchewan,Males under 18 years,15.7
 2016,Saskatchewan,Males under 18 years,11.5
 2017,Saskatchewan,Males under 18 years,14.3
@@ -415,10 +415,10 @@ Year,Geography,Persons,Value
 2016,Saskatchewan,Males 65 years and over,6.2
 2017,Saskatchewan,Males 65 years and over,4.7
 2018,Saskatchewan,Males 65 years and over,3.2
-2015,Saskatchewan,Females,14.2
-2016,Saskatchewan,Females,12.3
-2017,Saskatchewan,Females,12.5
-2018,Saskatchewan,Females,11.5
+2015,Saskatchewan,Femmes,14.2
+2016,Saskatchewan,Femmes,12.3
+2017,Saskatchewan,Femmes,12.5
+2018,Saskatchewan,Femmes,11.5
 2015,Saskatchewan,Females under 18 years,18.4
 2016,Saskatchewan,Females under 18 years,13.4
 2017,Saskatchewan,Females under 18 years,14.7
@@ -447,10 +447,10 @@ Year,Geography,Persons,Value
 2016,Alberta,Persons 65 years and over,4.5
 2017,Alberta,Persons 65 years and over,2.9
 2018,Alberta,Persons 65 years and over,3.5
-2015,Alberta,Males,9.5
-2016,Alberta,Males,10.5
-2017,Alberta,Males,8.2
-2018,Alberta,Males,9.6
+2015,Alberta,Hommes,9.5
+2016,Alberta,Hommes,10.5
+2017,Alberta,Hommes,8.2
+2018,Alberta,Hommes,9.6
 2015,Alberta,Males under 18 years,10.1
 2016,Alberta,Males under 18 years,11.2
 2017,Alberta,Males under 18 years,7.4
@@ -463,10 +463,10 @@ Year,Geography,Persons,Value
 2016,Alberta,Males 65 years and over,4.7
 2017,Alberta,Males 65 years and over,2.7
 2018,Alberta,Males 65 years and over,2.5
-2015,Alberta,Females,10.5
-2016,Alberta,Females,11.2
-2017,Alberta,Females,9.7
-2018,Alberta,Females,9.2
+2015,Alberta,Femmes,10.5
+2016,Alberta,Femmes,11.2
+2017,Alberta,Femmes,9.7
+2018,Alberta,Femmes,9.2
 2015,Alberta,Females under 18 years,15.9
 2016,Alberta,Females under 18 years,11.6
 2017,Alberta,Females under 18 years,8.4
@@ -495,10 +495,10 @@ Year,Geography,Persons,Value
 2016,British Columbia,Persons 65 years and over,8.9
 2017,British Columbia,Persons 65 years and over,9.2
 2018,British Columbia,Persons 65 years and over,7.7
-2015,British Columbia,Males,17.7
-2016,British Columbia,Males,15.5
-2017,British Columbia,Males,13.6
-2018,British Columbia,Males,12.5
+2015,British Columbia,Hommes,17.7
+2016,British Columbia,Hommes,15.5
+2017,British Columbia,Hommes,13.6
+2018,British Columbia,Hommes,12.5
 2015,British Columbia,Males under 18 years,14.9
 2016,British Columbia,Males under 18 years,17.1
 2017,British Columbia,Males under 18 years,14.3
@@ -511,10 +511,10 @@ Year,Geography,Persons,Value
 2016,British Columbia,Males 65 years and over,7.8
 2017,British Columbia,Males 65 years and over,8.8
 2018,British Columbia,Males 65 years and over,7.2
-2015,British Columbia,Females,17.8
-2016,British Columbia,Females,15.1
-2017,British Columbia,Females,13.7
-2018,British Columbia,Females,11.8
+2015,British Columbia,Femmes,17.8
+2016,British Columbia,Femmes,15.1
+2017,British Columbia,Femmes,13.7
+2018,British Columbia,Femmes,11.8
 2015,British Columbia,Females under 18 years,18.4
 2016,British Columbia,Females under 18 years,17
 2017,British Columbia,Females under 18 years,11.7
