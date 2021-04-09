@@ -1,0 +1,721 @@
+Year,data.Geography,data.Age,data.Sex,Value
+2015,data.Canada,"data.Total, 15 years and over",data.Both sexes,12.5
+2015,data.Canada,"data.Total, 15 years and over",data.Male,10
+2015,data.Canada,"data.Total, 15 years and over",data.Female,15
+2015,data.Canada,data.15 to 24 years,data.Both sexes,5.4
+2015,data.Canada,data.15 to 24 years,data.Male,4.6
+2015,data.Canada,data.15 to 24 years,data.Female,6.7
+2015,data.Canada,data.25 to 54 years,data.Both sexes,13.3
+2015,data.Canada,data.25 to 54 years,data.Male,10.4
+2015,data.Canada,data.25 to 54 years,data.Female,16.3
+2015,data.Canada,data.25 to 34 years,data.Both sexes,12.1
+2015,data.Canada,data.25 to 34 years,data.Male,7.9
+2015,data.Canada,data.25 to 34 years,data.Female,15.8
+2015,data.Canada,data.35 to 44 years,data.Both sexes,15
+2015,data.Canada,data.35 to 44 years,data.Male,11.7
+2015,data.Canada,data.35 to 44 years,data.Female,17.9
+2015,data.Canada,data.45 to 54 years,data.Both sexes,13.3
+2015,data.Canada,data.45 to 54 years,data.Male,11.3
+2015,data.Canada,data.45 to 54 years,data.Female,15.4
+2015,data.Canada,data.55 to 64 years,data.Both sexes,14.2
+2015,data.Canada,data.55 to 64 years,data.Male,12.1
+2015,data.Canada,data.55 to 64 years,data.Female,16.3
+2015,data.Canada,data.65 years and over,data.Both sexes,15
+2015,data.Canada,data.65 years and over,data.Male,13.3
+2015,data.Canada,data.65 years and over,data.Female,16.7
+2015,data.Canada,"data.Total, 15 years and over",data.Both sexes,8.8
+2015,data.Canada,"data.Total, 15 years and over",data.Male,7.1
+2015,data.Canada,"data.Total, 15 years and over",data.Female,10
+2015,data.Canada,data.15 to 24 years,data.Both sexes,3.8
+2015,data.Canada,data.15 to 24 years,data.Male,3.3
+2015,data.Canada,data.15 to 24 years,data.Female,4.2
+2015,data.Canada,data.25 to 54 years,data.Both sexes,8.3
+2015,data.Canada,data.25 to 54 years,data.Male,6.7
+2015,data.Canada,data.25 to 54 years,data.Female,10
+2015,data.Canada,data.25 to 34 years,data.Both sexes,6.7
+2015,data.Canada,data.25 to 34 years,data.Male,5
+2015,data.Canada,data.25 to 34 years,data.Female,8.3
+2015,data.Canada,data.35 to 44 years,data.Both sexes,8.3
+2015,data.Canada,data.35 to 44 years,data.Male,6.7
+2015,data.Canada,data.35 to 44 years,data.Female,10
+2015,data.Canada,data.45 to 54 years,data.Both sexes,10
+2015,data.Canada,data.45 to 54 years,data.Male,8.8
+2015,data.Canada,data.45 to 54 years,data.Female,11.3
+2015,data.Canada,data.55 to 64 years,data.Both sexes,10.8
+2015,data.Canada,data.55 to 64 years,data.Male,9.6
+2015,data.Canada,data.55 to 64 years,data.Female,12.1
+2015,data.Canada,data.65 years and over,data.Both sexes,11.7
+2015,data.Canada,data.65 years and over,data.Male,10
+2015,data.Canada,data.65 years and over,data.Female,13.3
+2015,data.Canada,"data.Total, 15 years and over",data.Both sexes,1.7
+2015,data.Canada,"data.Total, 15 years and over",data.Male,1.3
+2015,data.Canada,"data.Total, 15 years and over",data.Female,2.1
+2015,data.Canada,data.15 to 24 years,data.Both sexes,0.4
+2015,data.Canada,data.15 to 24 years,data.Male,
+2015,data.Canada,data.15 to 24 years,data.Female,0.4
+2015,data.Canada,data.25 to 54 years,data.Both sexes,2.9
+2015,data.Canada,data.25 to 54 years,data.Male,2.1
+2015,data.Canada,data.25 to 54 years,data.Female,3.8
+2015,data.Canada,data.25 to 34 years,data.Both sexes,3.3
+2015,data.Canada,data.25 to 34 years,data.Male,1.7
+2015,data.Canada,data.25 to 34 years,data.Female,5
+2015,data.Canada,data.35 to 44 years,data.Both sexes,4.2
+2015,data.Canada,data.35 to 44 years,data.Male,3.3
+2015,data.Canada,data.35 to 44 years,data.Female,5.4
+2015,data.Canada,data.45 to 54 years,data.Both sexes,1.3
+2015,data.Canada,data.45 to 54 years,data.Male,0.8
+2015,data.Canada,data.45 to 54 years,data.Female,1.3
+2015,data.Canada,data.55 to 64 years,data.Both sexes,0.4
+2015,data.Canada,data.55 to 64 years,data.Male,
+2015,data.Canada,data.55 to 64 years,data.Female,0.4
+2015,data.Canada,data.65 years and over,data.Both sexes,0.4
+2015,data.Canada,data.65 years and over,data.Male,0.4
+2015,data.Canada,data.65 years and over,data.Female,0.4
+2015,data.Canada,"data.Total, 15 years and over",data.Both sexes,
+2015,data.Canada,"data.Total, 15 years and over",data.Male,
+2015,data.Canada,"data.Total, 15 years and over",data.Female,
+2015,data.Canada,data.15 to 24 years,data.Both sexes,
+2015,data.Canada,data.15 to 24 years,data.Male,
+2015,data.Canada,data.15 to 24 years,data.Female,0
+2015,data.Canada,data.25 to 54 years,data.Both sexes,
+2015,data.Canada,data.25 to 54 years,data.Male,
+2015,data.Canada,data.25 to 54 years,data.Female,
+2015,data.Canada,data.25 to 34 years,data.Both sexes,
+2015,data.Canada,data.25 to 34 years,data.Male,
+2015,data.Canada,data.25 to 34 years,data.Female,
+2015,data.Canada,data.35 to 44 years,data.Both sexes,
+2015,data.Canada,data.35 to 44 years,data.Male,
+2015,data.Canada,data.35 to 44 years,data.Female,
+2015,data.Canada,data.45 to 54 years,data.Both sexes,
+2015,data.Canada,data.45 to 54 years,data.Male,
+2015,data.Canada,data.45 to 54 years,data.Female,
+2015,data.Canada,data.55 to 64 years,data.Both sexes,
+2015,data.Canada,data.55 to 64 years,data.Male,
+2015,data.Canada,data.55 to 64 years,data.Female,0.4
+2015,data.Canada,data.65 years and over,data.Both sexes,
+2015,data.Canada,data.65 years and over,data.Male,
+2015,data.Canada,data.65 years and over,data.Female,
+2015,data.Canada,"data.Total, 15 years and over",data.Both sexes,2.1
+2015,data.Canada,"data.Total, 15 years and over",data.Male,1.7
+2015,data.Canada,"data.Total, 15 years and over",data.Female,2.5
+2015,data.Canada,data.15 to 24 years,data.Both sexes,1.3
+2015,data.Canada,data.15 to 24 years,data.Male,0.8
+2015,data.Canada,data.15 to 24 years,data.Female,1.7
+2015,data.Canada,data.25 to 54 years,data.Both sexes,1.7
+2015,data.Canada,data.25 to 54 years,data.Male,1.3
+2015,data.Canada,data.25 to 54 years,data.Female,2.1
+2015,data.Canada,data.25 to 34 years,data.Both sexes,1.7
+2015,data.Canada,data.25 to 34 years,data.Male,1.3
+2015,data.Canada,data.25 to 34 years,data.Female,2.1
+2015,data.Canada,data.35 to 44 years,data.Both sexes,1.7
+2015,data.Canada,data.35 to 44 years,data.Male,1.7
+2015,data.Canada,data.35 to 44 years,data.Female,2.1
+2015,data.Canada,data.45 to 54 years,data.Both sexes,2.1
+2015,data.Canada,data.45 to 54 years,data.Male,1.7
+2015,data.Canada,data.45 to 54 years,data.Female,2.5
+2015,data.Canada,data.55 to 64 years,data.Both sexes,2.5
+2015,data.Canada,data.55 to 64 years,data.Male,2.1
+2015,data.Canada,data.55 to 64 years,data.Female,2.9
+2015,data.Canada,data.65 years and over,data.Both sexes,2.5
+2015,data.Canada,data.65 years and over,data.Male,2.5
+2015,data.Canada,data.65 years and over,data.Female,2.9
+2015,data.Atlantic,"data.Total, 15 years and over",data.Both sexes,13.3
+2015,data.Atlantic,"data.Total, 15 years and over",data.Male,11.3
+2015,data.Atlantic,"data.Total, 15 years and over",data.Female,15.4
+2015,data.Atlantic,data.15 to 24 years,data.Both sexes,5.8
+2015,data.Atlantic,data.15 to 24 years,data.Male,5.4
+2015,data.Atlantic,data.15 to 24 years,data.Female,6.3
+2015,data.Atlantic,data.25 to 54 years,data.Both sexes,13.8
+2015,data.Atlantic,data.25 to 54 years,data.Male,11.3
+2015,data.Atlantic,data.25 to 54 years,data.Female,16.3
+2015,data.Atlantic,data.25 to 34 years,data.Both sexes,12.5
+2015,data.Atlantic,data.25 to 34 years,data.Male,8.8
+2015,data.Atlantic,data.25 to 34 years,data.Female,15.8
+2015,data.Atlantic,data.35 to 44 years,data.Both sexes,14.6
+2015,data.Atlantic,data.35 to 44 years,data.Male,12.5
+2015,data.Atlantic,data.35 to 44 years,data.Female,17.1
+2015,data.Atlantic,data.45 to 54 years,data.Both sexes,14.2
+2015,data.Atlantic,data.45 to 54 years,data.Male,11.7
+2015,data.Atlantic,data.45 to 54 years,data.Female,16.3
+2015,data.Atlantic,data.55 to 64 years,data.Both sexes,15.4
+2015,data.Atlantic,data.55 to 64 years,data.Male,13.3
+2015,data.Atlantic,data.55 to 64 years,data.Female,17.5
+2015,data.Atlantic,data.65 years and over,data.Both sexes,15
+2015,data.Atlantic,data.65 years and over,data.Male,13.3
+2015,data.Atlantic,data.65 years and over,data.Female,16.7
+2015,data.Atlantic,"data.Total, 15 years and over",data.Both sexes,9.2
+2015,data.Atlantic,"data.Total, 15 years and over",data.Male,8.3
+2015,data.Atlantic,"data.Total, 15 years and over",data.Female,10.4
+2015,data.Atlantic,data.15 to 24 years,data.Both sexes,4.2
+2015,data.Atlantic,data.15 to 24 years,data.Male,4.6
+2015,data.Atlantic,data.15 to 24 years,data.Female,3.8
+2015,data.Atlantic,data.25 to 54 years,data.Both sexes,8.8
+2015,data.Atlantic,data.25 to 54 years,data.Male,7.5
+2015,data.Atlantic,data.25 to 54 years,data.Female,10
+2015,data.Atlantic,data.25 to 34 years,data.Both sexes,6.7
+2015,data.Atlantic,data.25 to 34 years,data.Male,5.4
+2015,data.Atlantic,data.25 to 34 years,data.Female,7.9
+2015,data.Atlantic,data.35 to 44 years,data.Both sexes,8.8
+2015,data.Atlantic,data.35 to 44 years,data.Male,7.1
+2015,data.Atlantic,data.35 to 44 years,data.Female,10.4
+2015,data.Atlantic,data.45 to 54 years,data.Both sexes,10.4
+2015,data.Atlantic,data.45 to 54 years,data.Male,9.6
+2015,data.Atlantic,data.45 to 54 years,data.Female,11.7
+2015,data.Atlantic,data.55 to 64 years,data.Both sexes,12.1
+2015,data.Atlantic,data.55 to 64 years,data.Male,10.8
+2015,data.Atlantic,data.55 to 64 years,data.Female,12.9
+2015,data.Atlantic,data.65 years and over,data.Both sexes,11.7
+2015,data.Atlantic,data.65 years and over,data.Male,10
+2015,data.Atlantic,data.65 years and over,data.Female,13.3
+2015,data.Atlantic,"data.Total, 15 years and over",data.Both sexes,1.3
+2015,data.Atlantic,"data.Total, 15 years and over",data.Male,0.8
+2015,data.Atlantic,"data.Total, 15 years and over",data.Female,1.7
+2015,data.Atlantic,data.15 to 24 years,data.Both sexes,
+2015,data.Atlantic,data.15 to 24 years,data.Male,
+2015,data.Atlantic,data.15 to 24 years,data.Female,
+2015,data.Atlantic,data.25 to 54 years,data.Both sexes,2.5
+2015,data.Atlantic,data.25 to 54 years,data.Male,2.1
+2015,data.Atlantic,data.25 to 54 years,data.Female,3.3
+2015,data.Atlantic,data.25 to 34 years,data.Both sexes,3.8
+2015,data.Atlantic,data.25 to 34 years,data.Male,1.7
+2015,data.Atlantic,data.25 to 34 years,data.Female,5.8
+2015,data.Atlantic,data.35 to 44 years,data.Both sexes,3.8
+2015,data.Atlantic,data.35 to 44 years,data.Male,3.3
+2015,data.Atlantic,data.35 to 44 years,data.Female,4.2
+2015,data.Atlantic,data.45 to 54 years,data.Both sexes,0.8
+2015,data.Atlantic,data.45 to 54 years,data.Male,0.8
+2015,data.Atlantic,data.45 to 54 years,data.Female,0.8
+2015,data.Atlantic,data.55 to 64 years,data.Both sexes,0.4
+2015,data.Atlantic,data.55 to 64 years,data.Male,
+2015,data.Atlantic,data.55 to 64 years,data.Female,0.4
+2015,data.Atlantic,data.65 years and over,data.Both sexes,
+2015,data.Atlantic,data.65 years and over,data.Male,
+2015,data.Atlantic,data.65 years and over,data.Female,
+2015,data.Atlantic,"data.Total, 15 years and over",data.Both sexes,
+2015,data.Atlantic,"data.Total, 15 years and over",data.Male,
+2015,data.Atlantic,"data.Total, 15 years and over",data.Female,
+2015,data.Atlantic,data.15 to 24 years,data.Both sexes,0
+2015,data.Atlantic,data.15 to 24 years,data.Male,0
+2015,data.Atlantic,data.15 to 24 years,data.Female,0
+2015,data.Atlantic,data.25 to 54 years,data.Both sexes,
+2015,data.Atlantic,data.25 to 54 years,data.Male,
+2015,data.Atlantic,data.25 to 54 years,data.Female,
+2015,data.Atlantic,data.25 to 34 years,data.Both sexes,
+2015,data.Atlantic,data.25 to 34 years,data.Male,
+2015,data.Atlantic,data.25 to 34 years,data.Female,
+2015,data.Atlantic,data.35 to 44 years,data.Both sexes,
+2015,data.Atlantic,data.35 to 44 years,data.Male,0
+2015,data.Atlantic,data.35 to 44 years,data.Female,
+2015,data.Atlantic,data.45 to 54 years,data.Both sexes,
+2015,data.Atlantic,data.45 to 54 years,data.Male,
+2015,data.Atlantic,data.45 to 54 years,data.Female,
+2015,data.Atlantic,data.55 to 64 years,data.Both sexes,
+2015,data.Atlantic,data.55 to 64 years,data.Male,
+2015,data.Atlantic,data.55 to 64 years,data.Female,
+2015,data.Atlantic,data.65 years and over,data.Both sexes,0.4
+2015,data.Atlantic,data.65 years and over,data.Male,
+2015,data.Atlantic,data.65 years and over,data.Female,
+2015,data.Atlantic,"data.Total, 15 years and over",data.Both sexes,2.1
+2015,data.Atlantic,"data.Total, 15 years and over",data.Male,1.7
+2015,data.Atlantic,"data.Total, 15 years and over",data.Female,2.5
+2015,data.Atlantic,data.15 to 24 years,data.Both sexes,0.8
+2015,data.Atlantic,data.15 to 24 years,data.Male,
+2015,data.Atlantic,data.15 to 24 years,data.Female,1.3
+2015,data.Atlantic,data.25 to 54 years,data.Both sexes,2.1
+2015,data.Atlantic,data.25 to 54 years,data.Male,1.3
+2015,data.Atlantic,data.25 to 54 years,data.Female,2.5
+2015,data.Atlantic,data.25 to 34 years,data.Both sexes,1.7
+2015,data.Atlantic,data.25 to 34 years,data.Male,1.3
+2015,data.Atlantic,data.25 to 34 years,data.Female,2.1
+2015,data.Atlantic,data.35 to 44 years,data.Both sexes,2.1
+2015,data.Atlantic,data.35 to 44 years,data.Male,1.7
+2015,data.Atlantic,data.35 to 44 years,data.Female,2.1
+2015,data.Atlantic,data.45 to 54 years,data.Both sexes,2.1
+2015,data.Atlantic,data.45 to 54 years,data.Male,0.8
+2015,data.Atlantic,data.45 to 54 years,data.Female,3.3
+2015,data.Atlantic,data.55 to 64 years,data.Both sexes,2.5
+2015,data.Atlantic,data.55 to 64 years,data.Male,1.7
+2015,data.Atlantic,data.55 to 64 years,data.Female,2.9
+2015,data.Atlantic,data.65 years and over,data.Both sexes,2.9
+2015,data.Atlantic,data.65 years and over,data.Male,2.9
+2015,data.Atlantic,data.65 years and over,data.Female,2.5
+2015,data.Quebec,"data.Total, 15 years and over",data.Both sexes,12.5
+2015,data.Quebec,"data.Total, 15 years and over",data.Male,10.4
+2015,data.Quebec,"data.Total, 15 years and over",data.Female,14.6
+2015,data.Quebec,data.15 to 24 years,data.Both sexes,5.4
+2015,data.Quebec,data.15 to 24 years,data.Male,4.6
+2015,data.Quebec,data.15 to 24 years,data.Female,5.8
+2015,data.Quebec,data.25 to 54 years,data.Both sexes,13.3
+2015,data.Quebec,data.25 to 54 years,data.Male,10.8
+2015,data.Quebec,data.25 to 54 years,data.Female,15.8
+2015,data.Quebec,data.25 to 34 years,data.Both sexes,12.1
+2015,data.Quebec,data.25 to 34 years,data.Male,8.8
+2015,data.Quebec,data.25 to 34 years,data.Female,15.8
+2015,data.Quebec,data.35 to 44 years,data.Both sexes,15
+2015,data.Quebec,data.35 to 44 years,data.Male,12.9
+2015,data.Quebec,data.35 to 44 years,data.Female,17.1
+2015,data.Quebec,data.45 to 54 years,data.Both sexes,12.5
+2015,data.Quebec,data.45 to 54 years,data.Male,10.8
+2015,data.Quebec,data.45 to 54 years,data.Female,14.6
+2015,data.Quebec,data.55 to 64 years,data.Both sexes,13.8
+2015,data.Quebec,data.55 to 64 years,data.Male,11.7
+2015,data.Quebec,data.55 to 64 years,data.Female,15.8
+2015,data.Quebec,data.65 years and over,data.Both sexes,14.2
+2015,data.Quebec,data.65 years and over,data.Male,11.7
+2015,data.Quebec,data.65 years and over,data.Female,16.3
+2015,data.Quebec,"data.Total, 15 years and over",data.Both sexes,8.8
+2015,data.Quebec,"data.Total, 15 years and over",data.Male,7.5
+2015,data.Quebec,"data.Total, 15 years and over",data.Female,9.6
+2015,data.Quebec,data.15 to 24 years,data.Both sexes,3.3
+2015,data.Quebec,data.15 to 24 years,data.Male,3.8
+2015,data.Quebec,data.15 to 24 years,data.Female,3.3
+2015,data.Quebec,data.25 to 54 years,data.Both sexes,8.3
+2015,data.Quebec,data.25 to 54 years,data.Male,7.1
+2015,data.Quebec,data.25 to 54 years,data.Female,9.2
+2015,data.Quebec,data.25 to 34 years,data.Both sexes,6.3
+2015,data.Quebec,data.25 to 34 years,data.Male,4.6
+2015,data.Quebec,data.25 to 34 years,data.Female,7.9
+2015,data.Quebec,data.35 to 44 years,data.Both sexes,8.8
+2015,data.Quebec,data.35 to 44 years,data.Male,7.9
+2015,data.Quebec,data.35 to 44 years,data.Female,10
+2015,data.Quebec,data.45 to 54 years,data.Both sexes,9.6
+2015,data.Quebec,data.45 to 54 years,data.Male,8.8
+2015,data.Quebec,data.45 to 54 years,data.Female,10.4
+2015,data.Quebec,data.55 to 64 years,data.Both sexes,10.4
+2015,data.Quebec,data.55 to 64 years,data.Male,9.2
+2015,data.Quebec,data.55 to 64 years,data.Female,12.1
+2015,data.Quebec,data.65 years and over,data.Both sexes,11.3
+2015,data.Quebec,data.65 years and over,data.Male,9.2
+2015,data.Quebec,data.65 years and over,data.Female,12.9
+2015,data.Quebec,"data.Total, 15 years and over",data.Both sexes,1.7
+2015,data.Quebec,"data.Total, 15 years and over",data.Male,1.3
+2015,data.Quebec,"data.Total, 15 years and over",data.Female,2.1
+2015,data.Quebec,data.15 to 24 years,data.Both sexes,
+2015,data.Quebec,data.15 to 24 years,data.Male,
+2015,data.Quebec,data.15 to 24 years,data.Female,
+2015,data.Quebec,data.25 to 54 years,data.Both sexes,2.9
+2015,data.Quebec,data.25 to 54 years,data.Male,2.1
+2015,data.Quebec,data.25 to 54 years,data.Female,3.8
+2015,data.Quebec,data.25 to 34 years,data.Both sexes,4.2
+2015,data.Quebec,data.25 to 34 years,data.Male,2.5
+2015,data.Quebec,data.25 to 34 years,data.Female,5.8
+2015,data.Quebec,data.35 to 44 years,data.Both sexes,3.8
+2015,data.Quebec,data.35 to 44 years,data.Male,2.9
+2015,data.Quebec,data.35 to 44 years,data.Female,5
+2015,data.Quebec,data.45 to 54 years,data.Both sexes,0.8
+2015,data.Quebec,data.45 to 54 years,data.Male,0.8
+2015,data.Quebec,data.45 to 54 years,data.Female,0.8
+2015,data.Quebec,data.55 to 64 years,data.Both sexes,
+2015,data.Quebec,data.55 to 64 years,data.Male,
+2015,data.Quebec,data.55 to 64 years,data.Female,
+2015,data.Quebec,data.65 years and over,data.Both sexes,0.4
+2015,data.Quebec,data.65 years and over,data.Male,
+2015,data.Quebec,data.65 years and over,data.Female,
+2015,data.Quebec,"data.Total, 15 years and over",data.Both sexes,
+2015,data.Quebec,"data.Total, 15 years and over",data.Male,
+2015,data.Quebec,"data.Total, 15 years and over",data.Female,
+2015,data.Quebec,data.15 to 24 years,data.Both sexes,
+2015,data.Quebec,data.15 to 24 years,data.Male,
+2015,data.Quebec,data.15 to 24 years,data.Female,0
+2015,data.Quebec,data.25 to 54 years,data.Both sexes,
+2015,data.Quebec,data.25 to 54 years,data.Male,
+2015,data.Quebec,data.25 to 54 years,data.Female,
+2015,data.Quebec,data.25 to 34 years,data.Both sexes,
+2015,data.Quebec,data.25 to 34 years,data.Male,
+2015,data.Quebec,data.25 to 34 years,data.Female,
+2015,data.Quebec,data.35 to 44 years,data.Both sexes,
+2015,data.Quebec,data.35 to 44 years,data.Male,
+2015,data.Quebec,data.35 to 44 years,data.Female,
+2015,data.Quebec,data.45 to 54 years,data.Both sexes,
+2015,data.Quebec,data.45 to 54 years,data.Male,
+2015,data.Quebec,data.45 to 54 years,data.Female,
+2015,data.Quebec,data.55 to 64 years,data.Both sexes,
+2015,data.Quebec,data.55 to 64 years,data.Male,
+2015,data.Quebec,data.55 to 64 years,data.Female,
+2015,data.Quebec,data.65 years and over,data.Both sexes,
+2015,data.Quebec,data.65 years and over,data.Male,
+2015,data.Quebec,data.65 years and over,data.Female,
+2015,data.Quebec,"data.Total, 15 years and over",data.Both sexes,2.1
+2015,data.Quebec,"data.Total, 15 years and over",data.Male,1.7
+2015,data.Quebec,"data.Total, 15 years and over",data.Female,2.5
+2015,data.Quebec,data.15 to 24 years,data.Both sexes,1.3
+2015,data.Quebec,data.15 to 24 years,data.Male,0.8
+2015,data.Quebec,data.15 to 24 years,data.Female,1.7
+2015,data.Quebec,data.25 to 54 years,data.Both sexes,1.7
+2015,data.Quebec,data.25 to 54 years,data.Male,1.3
+2015,data.Quebec,data.25 to 54 years,data.Female,2.1
+2015,data.Quebec,data.25 to 34 years,data.Both sexes,1.7
+2015,data.Quebec,data.25 to 34 years,data.Male,1.3
+2015,data.Quebec,data.25 to 34 years,data.Female,2.1
+2015,data.Quebec,data.35 to 44 years,data.Both sexes,1.7
+2015,data.Quebec,data.35 to 44 years,data.Male,1.3
+2015,data.Quebec,data.35 to 44 years,data.Female,2.1
+2015,data.Quebec,data.45 to 54 years,data.Both sexes,2.1
+2015,data.Quebec,data.45 to 54 years,data.Male,1.3
+2015,data.Quebec,data.45 to 54 years,data.Female,2.9
+2015,data.Quebec,data.55 to 64 years,data.Both sexes,2.5
+2015,data.Quebec,data.55 to 64 years,data.Male,2.1
+2015,data.Quebec,data.55 to 64 years,data.Female,2.5
+2015,data.Quebec,data.65 years and over,data.Both sexes,2.5
+2015,data.Quebec,data.65 years and over,data.Male,2.1
+2015,data.Quebec,data.65 years and over,data.Female,2.5
+2015,data.Ontario,"data.Total, 15 years and over",data.Both sexes,12.5
+2015,data.Ontario,"data.Total, 15 years and over",data.Male,10
+2015,data.Ontario,"data.Total, 15 years and over",data.Female,15
+2015,data.Ontario,data.15 to 24 years,data.Both sexes,5.4
+2015,data.Ontario,data.15 to 24 years,data.Male,4.6
+2015,data.Ontario,data.15 to 24 years,data.Female,6.3
+2015,data.Ontario,data.25 to 54 years,data.Both sexes,13.3
+2015,data.Ontario,data.25 to 54 years,data.Male,10
+2015,data.Ontario,data.25 to 54 years,data.Female,16.3
+2015,data.Ontario,data.25 to 34 years,data.Both sexes,11.7
+2015,data.Ontario,data.25 to 34 years,data.Male,7.1
+2015,data.Ontario,data.25 to 34 years,data.Female,15.8
+2015,data.Ontario,data.35 to 44 years,data.Both sexes,15
+2015,data.Ontario,data.35 to 44 years,data.Male,11.7
+2015,data.Ontario,data.35 to 44 years,data.Female,18.3
+2015,data.Ontario,data.45 to 54 years,data.Both sexes,12.9
+2015,data.Ontario,data.45 to 54 years,data.Male,10.4
+2015,data.Ontario,data.45 to 54 years,data.Female,15
+2015,data.Ontario,data.55 to 64 years,data.Both sexes,14.6
+2015,data.Ontario,data.55 to 64 years,data.Male,11.7
+2015,data.Ontario,data.55 to 64 years,data.Female,17.5
+2015,data.Ontario,data.65 years and over,data.Both sexes,15.4
+2015,data.Ontario,data.65 years and over,data.Male,13.3
+2015,data.Ontario,data.65 years and over,data.Female,17.5
+2015,data.Ontario,"data.Total, 15 years and over",data.Both sexes,8.8
+2015,data.Ontario,"data.Total, 15 years and over",data.Male,7.1
+2015,data.Ontario,"data.Total, 15 years and over",data.Female,10
+2015,data.Ontario,data.15 to 24 years,data.Both sexes,3.3
+2015,data.Ontario,data.15 to 24 years,data.Male,2.9
+2015,data.Ontario,data.15 to 24 years,data.Female,3.8
+2015,data.Ontario,data.25 to 54 years,data.Both sexes,7.9
+2015,data.Ontario,data.25 to 54 years,data.Male,6.3
+2015,data.Ontario,data.25 to 54 years,data.Female,9.6
+2015,data.Ontario,data.25 to 34 years,data.Both sexes,6.3
+2015,data.Ontario,data.25 to 34 years,data.Male,4.2
+2015,data.Ontario,data.25 to 34 years,data.Female,7.9
+2015,data.Ontario,data.35 to 44 years,data.Both sexes,8.3
+2015,data.Ontario,data.35 to 44 years,data.Male,6.7
+2015,data.Ontario,data.35 to 44 years,data.Female,10.4
+2015,data.Ontario,data.45 to 54 years,data.Both sexes,9.2
+2015,data.Ontario,data.45 to 54 years,data.Male,7.5
+2015,data.Ontario,data.45 to 54 years,data.Female,10.8
+2015,data.Ontario,data.55 to 64 years,data.Both sexes,11.3
+2015,data.Ontario,data.55 to 64 years,data.Male,9.6
+2015,data.Ontario,data.55 to 64 years,data.Female,12.9
+2015,data.Ontario,data.65 years and over,data.Both sexes,12.1
+2015,data.Ontario,data.65 years and over,data.Male,10.4
+2015,data.Ontario,data.65 years and over,data.Female,13.8
+2015,data.Ontario,"data.Total, 15 years and over",data.Both sexes,1.7
+2015,data.Ontario,"data.Total, 15 years and over",data.Male,1.3
+2015,data.Ontario,"data.Total, 15 years and over",data.Female,2.1
+2015,data.Ontario,data.15 to 24 years,data.Both sexes,0.4
+2015,data.Ontario,data.15 to 24 years,data.Male,
+2015,data.Ontario,data.15 to 24 years,data.Female,
+2015,data.Ontario,data.25 to 54 years,data.Both sexes,2.9
+2015,data.Ontario,data.25 to 54 years,data.Male,2.1
+2015,data.Ontario,data.25 to 54 years,data.Female,3.8
+2015,data.Ontario,data.25 to 34 years,data.Both sexes,3.3
+2015,data.Ontario,data.25 to 34 years,data.Male,1.7
+2015,data.Ontario,data.25 to 34 years,data.Female,5
+2015,data.Ontario,data.35 to 44 years,data.Both sexes,4.6
+2015,data.Ontario,data.35 to 44 years,data.Male,3.3
+2015,data.Ontario,data.35 to 44 years,data.Female,5.8
+2015,data.Ontario,data.45 to 54 years,data.Both sexes,1.3
+2015,data.Ontario,data.45 to 54 years,data.Male,1.3
+2015,data.Ontario,data.45 to 54 years,data.Female,1.3
+2015,data.Ontario,data.55 to 64 years,data.Both sexes,0.4
+2015,data.Ontario,data.55 to 64 years,data.Male,
+2015,data.Ontario,data.55 to 64 years,data.Female,0.4
+2015,data.Ontario,data.65 years and over,data.Both sexes,
+2015,data.Ontario,data.65 years and over,data.Male,
+2015,data.Ontario,data.65 years and over,data.Female,
+2015,data.Ontario,"data.Total, 15 years and over",data.Both sexes,
+2015,data.Ontario,"data.Total, 15 years and over",data.Male,
+2015,data.Ontario,"data.Total, 15 years and over",data.Female,
+2015,data.Ontario,data.15 to 24 years,data.Both sexes,
+2015,data.Ontario,data.15 to 24 years,data.Male,
+2015,data.Ontario,data.15 to 24 years,data.Female,0
+2015,data.Ontario,data.25 to 54 years,data.Both sexes,
+2015,data.Ontario,data.25 to 54 years,data.Male,
+2015,data.Ontario,data.25 to 54 years,data.Female,
+2015,data.Ontario,data.25 to 34 years,data.Both sexes,
+2015,data.Ontario,data.25 to 34 years,data.Male,
+2015,data.Ontario,data.25 to 34 years,data.Female,
+2015,data.Ontario,data.35 to 44 years,data.Both sexes,
+2015,data.Ontario,data.35 to 44 years,data.Male,
+2015,data.Ontario,data.35 to 44 years,data.Female,
+2015,data.Ontario,data.45 to 54 years,data.Both sexes,
+2015,data.Ontario,data.45 to 54 years,data.Male,
+2015,data.Ontario,data.45 to 54 years,data.Female,
+2015,data.Ontario,data.55 to 64 years,data.Both sexes,
+2015,data.Ontario,data.55 to 64 years,data.Male,
+2015,data.Ontario,data.55 to 64 years,data.Female,
+2015,data.Ontario,data.65 years and over,data.Both sexes,
+2015,data.Ontario,data.65 years and over,data.Male,
+2015,data.Ontario,data.65 years and over,data.Female,
+2015,data.Ontario,"data.Total, 15 years and over",data.Both sexes,2.1
+2015,data.Ontario,"data.Total, 15 years and over",data.Male,1.7
+2015,data.Ontario,"data.Total, 15 years and over",data.Female,2.5
+2015,data.Ontario,data.15 to 24 years,data.Both sexes,1.3
+2015,data.Ontario,data.15 to 24 years,data.Male,0.8
+2015,data.Ontario,data.15 to 24 years,data.Female,1.7
+2015,data.Ontario,data.25 to 54 years,data.Both sexes,1.7
+2015,data.Ontario,data.25 to 54 years,data.Male,1.3
+2015,data.Ontario,data.25 to 54 years,data.Female,2.1
+2015,data.Ontario,data.25 to 34 years,data.Both sexes,1.7
+2015,data.Ontario,data.25 to 34 years,data.Male,1.3
+2015,data.Ontario,data.25 to 34 years,data.Female,2.5
+2015,data.Ontario,data.35 to 44 years,data.Both sexes,1.7
+2015,data.Ontario,data.35 to 44 years,data.Male,1.7
+2015,data.Ontario,data.35 to 44 years,data.Female,2.1
+2015,data.Ontario,data.45 to 54 years,data.Both sexes,2.1
+2015,data.Ontario,data.45 to 54 years,data.Male,1.7
+2015,data.Ontario,data.45 to 54 years,data.Female,2.5
+2015,data.Ontario,data.55 to 64 years,data.Both sexes,2.5
+2015,data.Ontario,data.55 to 64 years,data.Male,1.7
+2015,data.Ontario,data.55 to 64 years,data.Female,2.9
+2015,data.Ontario,data.65 years and over,data.Both sexes,2.9
+2015,data.Ontario,data.65 years and over,data.Male,2.5
+2015,data.Ontario,data.65 years and over,data.Female,2.9
+2015,data.Prairies,"data.Total, 15 years and over",data.Both sexes,12.9
+2015,data.Prairies,"data.Total, 15 years and over",data.Male,10.4
+2015,data.Prairies,"data.Total, 15 years and over",data.Female,15.8
+2015,data.Prairies,data.15 to 24 years,data.Both sexes,6.7
+2015,data.Prairies,data.15 to 24 years,data.Male,5
+2015,data.Prairies,data.15 to 24 years,data.Female,8.3
+2015,data.Prairies,data.25 to 54 years,data.Both sexes,14.2
+2015,data.Prairies,data.25 to 54 years,data.Male,10.4
+2015,data.Prairies,data.25 to 54 years,data.Female,17.9
+2015,data.Prairies,data.25 to 34 years,data.Both sexes,12.5
+2015,data.Prairies,data.25 to 34 years,data.Male,7.9
+2015,data.Prairies,data.25 to 34 years,data.Female,17.5
+2015,data.Prairies,data.35 to 44 years,data.Both sexes,15.8
+2015,data.Prairies,data.35 to 44 years,data.Male,11.3
+2015,data.Prairies,data.35 to 44 years,data.Female,20
+2015,data.Prairies,data.45 to 54 years,data.Both sexes,14.2
+2015,data.Prairies,data.45 to 54 years,data.Male,12.1
+2015,data.Prairies,data.45 to 54 years,data.Female,16.3
+2015,data.Prairies,data.55 to 64 years,data.Both sexes,13.3
+2015,data.Prairies,data.55 to 64 years,data.Male,11.7
+2015,data.Prairies,data.55 to 64 years,data.Female,15.4
+2015,data.Prairies,data.65 years and over,data.Both sexes,16.3
+2015,data.Prairies,data.65 years and over,data.Male,15
+2015,data.Prairies,data.65 years and over,data.Female,17.1
+2015,data.Prairies,"data.Total, 15 years and over",data.Both sexes,8.8
+2015,data.Prairies,"data.Total, 15 years and over",data.Male,7.5
+2015,data.Prairies,"data.Total, 15 years and over",data.Female,10.4
+2015,data.Prairies,data.15 to 24 years,data.Both sexes,4.6
+2015,data.Prairies,data.15 to 24 years,data.Male,3.3
+2015,data.Prairies,data.15 to 24 years,data.Female,6.3
+2015,data.Prairies,data.25 to 54 years,data.Both sexes,8.8
+2015,data.Prairies,data.25 to 54 years,data.Male,7.1
+2015,data.Prairies,data.25 to 54 years,data.Female,10.4
+2015,data.Prairies,data.25 to 34 years,data.Both sexes,7.1
+2015,data.Prairies,data.25 to 34 years,data.Male,5.4
+2015,data.Prairies,data.25 to 34 years,data.Female,9.2
+2015,data.Prairies,data.35 to 44 years,data.Both sexes,8.3
+2015,data.Prairies,data.35 to 44 years,data.Male,6.3
+2015,data.Prairies,data.35 to 44 years,data.Female,10.8
+2015,data.Prairies,data.45 to 54 years,data.Both sexes,10.4
+2015,data.Prairies,data.45 to 54 years,data.Male,9.6
+2015,data.Prairies,data.45 to 54 years,data.Female,11.7
+2015,data.Prairies,data.55 to 64 years,data.Both sexes,10
+2015,data.Prairies,data.55 to 64 years,data.Male,9.2
+2015,data.Prairies,data.55 to 64 years,data.Female,11.3
+2015,data.Prairies,data.65 years and over,data.Both sexes,12.5
+2015,data.Prairies,data.65 years and over,data.Male,11.7
+2015,data.Prairies,data.65 years and over,data.Female,13.3
+2015,data.Prairies,"data.Total, 15 years and over",data.Both sexes,1.7
+2015,data.Prairies,"data.Total, 15 years and over",data.Male,0.8
+2015,data.Prairies,"data.Total, 15 years and over",data.Female,2.9
+2015,data.Prairies,data.15 to 24 years,data.Both sexes,0.4
+2015,data.Prairies,data.15 to 24 years,data.Male,
+2015,data.Prairies,data.15 to 24 years,data.Female,0.8
+2015,data.Prairies,data.25 to 54 years,data.Both sexes,3.3
+2015,data.Prairies,data.25 to 54 years,data.Male,1.7
+2015,data.Prairies,data.25 to 54 years,data.Female,5
+2015,data.Prairies,data.25 to 34 years,data.Both sexes,3.3
+2015,data.Prairies,data.25 to 34 years,data.Male,1.3
+2015,data.Prairies,data.25 to 34 years,data.Female,5.8
+2015,data.Prairies,data.35 to 44 years,data.Both sexes,5
+2015,data.Prairies,data.35 to 44 years,data.Male,2.9
+2015,data.Prairies,data.35 to 44 years,data.Female,7.1
+2015,data.Prairies,data.45 to 54 years,data.Both sexes,1.3
+2015,data.Prairies,data.45 to 54 years,data.Male,0.8
+2015,data.Prairies,data.45 to 54 years,data.Female,1.3
+2015,data.Prairies,data.55 to 64 years,data.Both sexes,
+2015,data.Prairies,data.55 to 64 years,data.Male,
+2015,data.Prairies,data.55 to 64 years,data.Female,
+2015,data.Prairies,data.65 years and over,data.Both sexes,
+2015,data.Prairies,data.65 years and over,data.Male,
+2015,data.Prairies,data.65 years and over,data.Female,
+2015,data.Prairies,"data.Total, 15 years and over",data.Both sexes,
+2015,data.Prairies,"data.Total, 15 years and over",data.Male,
+2015,data.Prairies,"data.Total, 15 years and over",data.Female,
+2015,data.Prairies,data.15 to 24 years,data.Both sexes,
+2015,data.Prairies,data.15 to 24 years,data.Male,
+2015,data.Prairies,data.15 to 24 years,data.Female,0
+2015,data.Prairies,data.25 to 54 years,data.Both sexes,
+2015,data.Prairies,data.25 to 54 years,data.Male,
+2015,data.Prairies,data.25 to 54 years,data.Female,
+2015,data.Prairies,data.25 to 34 years,data.Both sexes,
+2015,data.Prairies,data.25 to 34 years,data.Male,
+2015,data.Prairies,data.25 to 34 years,data.Female,
+2015,data.Prairies,data.35 to 44 years,data.Both sexes,
+2015,data.Prairies,data.35 to 44 years,data.Male,
+2015,data.Prairies,data.35 to 44 years,data.Female,
+2015,data.Prairies,data.45 to 54 years,data.Both sexes,
+2015,data.Prairies,data.45 to 54 years,data.Male,
+2015,data.Prairies,data.45 to 54 years,data.Female,
+2015,data.Prairies,data.55 to 64 years,data.Both sexes,
+2015,data.Prairies,data.55 to 64 years,data.Male,
+2015,data.Prairies,data.55 to 64 years,data.Female,
+2015,data.Prairies,data.65 years and over,data.Both sexes,
+2015,data.Prairies,data.65 years and over,data.Male,
+2015,data.Prairies,data.65 years and over,data.Female,
+2015,data.Prairies,"data.Total, 15 years and over",data.Both sexes,2.1
+2015,data.Prairies,"data.Total, 15 years and over",data.Male,1.7
+2015,data.Prairies,"data.Total, 15 years and over",data.Female,2.1
+2015,data.Prairies,data.15 to 24 years,data.Both sexes,1.3
+2015,data.Prairies,data.15 to 24 years,data.Male,1.7
+2015,data.Prairies,data.15 to 24 years,data.Female,0.8
+2015,data.Prairies,data.25 to 54 years,data.Both sexes,1.7
+2015,data.Prairies,data.25 to 54 years,data.Male,1.3
+2015,data.Prairies,data.25 to 54 years,data.Female,2.1
+2015,data.Prairies,data.25 to 34 years,data.Both sexes,1.7
+2015,data.Prairies,data.25 to 34 years,data.Male,0.8
+2015,data.Prairies,data.25 to 34 years,data.Female,2.1
+2015,data.Prairies,data.35 to 44 years,data.Both sexes,2.1
+2015,data.Prairies,data.35 to 44 years,data.Male,2.1
+2015,data.Prairies,data.35 to 44 years,data.Female,2.1
+2015,data.Prairies,data.45 to 54 years,data.Both sexes,2.1
+2015,data.Prairies,data.45 to 54 years,data.Male,1.3
+2015,data.Prairies,data.45 to 54 years,data.Female,2.5
+2015,data.Prairies,data.55 to 64 years,data.Both sexes,2.5
+2015,data.Prairies,data.55 to 64 years,data.Male,2.1
+2015,data.Prairies,data.55 to 64 years,data.Female,2.5
+2015,data.Prairies,data.65 years and over,data.Both sexes,2.9
+2015,data.Prairies,data.65 years and over,data.Male,2.9
+2015,data.Prairies,data.65 years and over,data.Female,2.9
+2015,data.British Columbia,"data.Total, 15 years and over",data.Both sexes,12.5
+2015,data.British Columbia,"data.Total, 15 years and over",data.Male,10.4
+2015,data.British Columbia,"data.Total, 15 years and over",data.Female,14.2
+2015,data.British Columbia,data.15 to 24 years,data.Both sexes,5.4
+2015,data.British Columbia,data.15 to 24 years,data.Male,3.3
+2015,data.British Columbia,data.15 to 24 years,data.Female,7.9
+2015,data.British Columbia,data.25 to 54 years,data.Both sexes,13.3
+2015,data.British Columbia,data.25 to 54 years,data.Male,10.8
+2015,data.British Columbia,data.25 to 54 years,data.Female,15.4
+2015,data.British Columbia,data.25 to 34 years,data.Both sexes,11.3
+2015,data.British Columbia,data.25 to 34 years,data.Male,8.3
+2015,data.British Columbia,data.25 to 34 years,data.Female,14.2
+2015,data.British Columbia,data.35 to 44 years,data.Both sexes,13.3
+2015,data.British Columbia,data.35 to 44 years,data.Male,10.8
+2015,data.British Columbia,data.35 to 44 years,data.Female,16.3
+2015,data.British Columbia,data.45 to 54 years,data.Both sexes,14.6
+2015,data.British Columbia,data.45 to 54 years,data.Male,13.3
+2015,data.British Columbia,data.45 to 54 years,data.Female,16.3
+2015,data.British Columbia,data.55 to 64 years,data.Both sexes,13.3
+2015,data.British Columbia,data.55 to 64 years,data.Male,12.5
+2015,data.British Columbia,data.55 to 64 years,data.Female,14.6
+2015,data.British Columbia,data.65 years and over,data.Both sexes,15
+2015,data.British Columbia,data.65 years and over,data.Male,13.3
+2015,data.British Columbia,data.65 years and over,data.Female,15.8
+2015,data.British Columbia,"data.Total, 15 years and over",data.Both sexes,8.3
+2015,data.British Columbia,"data.Total, 15 years and over",data.Male,7.5
+2015,data.British Columbia,"data.Total, 15 years and over",data.Female,9.6
+2015,data.British Columbia,data.15 to 24 years,data.Both sexes,2.9
+2015,data.British Columbia,data.15 to 24 years,data.Male,2.1
+2015,data.British Columbia,data.15 to 24 years,data.Female,3.8
+2015,data.British Columbia,data.25 to 54 years,data.Both sexes,8.3
+2015,data.British Columbia,data.25 to 54 years,data.Male,7.1
+2015,data.British Columbia,data.25 to 54 years,data.Female,9.6
+2015,data.British Columbia,data.25 to 34 years,data.Both sexes,6.7
+2015,data.British Columbia,data.25 to 34 years,data.Male,5
+2015,data.British Columbia,data.25 to 34 years,data.Female,8.3
+2015,data.British Columbia,data.35 to 44 years,data.Both sexes,7.5
+2015,data.British Columbia,data.35 to 44 years,data.Male,5.8
+2015,data.British Columbia,data.35 to 44 years,data.Female,8.8
+2015,data.British Columbia,data.45 to 54 years,data.Both sexes,11.3
+2015,data.British Columbia,data.45 to 54 years,data.Male,10.4
+2015,data.British Columbia,data.45 to 54 years,data.Female,12.1
+2015,data.British Columbia,data.55 to 64 years,data.Both sexes,10.4
+2015,data.British Columbia,data.55 to 64 years,data.Male,9.6
+2015,data.British Columbia,data.55 to 64 years,data.Female,10.8
+2015,data.British Columbia,data.65 years and over,data.Both sexes,11.3
+2015,data.British Columbia,data.65 years and over,data.Male,10
+2015,data.British Columbia,data.65 years and over,data.Female,12.5
+2015,data.British Columbia,"data.Total, 15 years and over",data.Both sexes,1.3
+2015,data.British Columbia,"data.Total, 15 years and over",data.Male,1.3
+2015,data.British Columbia,"data.Total, 15 years and over",data.Female,1.7
+2015,data.British Columbia,data.15 to 24 years,data.Both sexes,
+2015,data.British Columbia,data.15 to 24 years,data.Male,0
+2015,data.British Columbia,data.15 to 24 years,data.Female,
+2015,data.British Columbia,data.25 to 54 years,data.Both sexes,2.5
+2015,data.British Columbia,data.25 to 54 years,data.Male,2.1
+2015,data.British Columbia,data.25 to 54 years,data.Female,2.9
+2015,data.British Columbia,data.25 to 34 years,data.Both sexes,2.5
+2015,data.British Columbia,data.25 to 34 years,data.Male,1.7
+2015,data.British Columbia,data.25 to 34 years,data.Female,3.3
+2015,data.British Columbia,data.35 to 44 years,data.Both sexes,4.2
+2015,data.British Columbia,data.35 to 44 years,data.Male,3.8
+2015,data.British Columbia,data.35 to 44 years,data.Female,5
+2015,data.British Columbia,data.45 to 54 years,data.Both sexes,1.3
+2015,data.British Columbia,data.45 to 54 years,data.Male,0.8
+2015,data.British Columbia,data.45 to 54 years,data.Female,1.3
+2015,data.British Columbia,data.55 to 64 years,data.Both sexes,
+2015,data.British Columbia,data.55 to 64 years,data.Male,
+2015,data.British Columbia,data.55 to 64 years,data.Female,
+2015,data.British Columbia,data.65 years and over,data.Both sexes,
+2015,data.British Columbia,data.65 years and over,data.Male,
+2015,data.British Columbia,data.65 years and over,data.Female,
+2015,data.British Columbia,"data.Total, 15 years and over",data.Both sexes,
+2015,data.British Columbia,"data.Total, 15 years and over",data.Male,
+2015,data.British Columbia,"data.Total, 15 years and over",data.Female,
+2015,data.British Columbia,data.15 to 24 years,data.Both sexes,
+2015,data.British Columbia,data.15 to 24 years,data.Male,
+2015,data.British Columbia,data.15 to 24 years,data.Female,0
+2015,data.British Columbia,data.25 to 54 years,data.Both sexes,
+2015,data.British Columbia,data.25 to 54 years,data.Male,
+2015,data.British Columbia,data.25 to 54 years,data.Female,
+2015,data.British Columbia,data.25 to 34 years,data.Both sexes,
+2015,data.British Columbia,data.25 to 34 years,data.Male,0
+2015,data.British Columbia,data.25 to 34 years,data.Female,
+2015,data.British Columbia,data.35 to 44 years,data.Both sexes,
+2015,data.British Columbia,data.35 to 44 years,data.Male,
+2015,data.British Columbia,data.35 to 44 years,data.Female,
+2015,data.British Columbia,data.45 to 54 years,data.Both sexes,
+2015,data.British Columbia,data.45 to 54 years,data.Male,
+2015,data.British Columbia,data.45 to 54 years,data.Female,
+2015,data.British Columbia,data.55 to 64 years,data.Both sexes,
+2015,data.British Columbia,data.55 to 64 years,data.Male,
+2015,data.British Columbia,data.55 to 64 years,data.Female,
+2015,data.British Columbia,data.65 years and over,data.Both sexes,
+2015,data.British Columbia,data.65 years and over,data.Male,
+2015,data.British Columbia,data.65 years and over,data.Female,
+2015,data.British Columbia,"data.Total, 15 years and over",data.Both sexes,2.1
+2015,data.British Columbia,"data.Total, 15 years and over",data.Male,1.7
+2015,data.British Columbia,"data.Total, 15 years and over",data.Female,2.5
+2015,data.British Columbia,data.15 to 24 years,data.Both sexes,2.5
+2015,data.British Columbia,data.15 to 24 years,data.Male,
+2015,data.British Columbia,data.15 to 24 years,data.Female,3.8
+2015,data.British Columbia,data.25 to 54 years,data.Both sexes,1.7
+2015,data.British Columbia,data.25 to 54 years,data.Male,1.3
+2015,data.British Columbia,data.25 to 54 years,data.Female,2.1
+2015,data.British Columbia,data.25 to 34 years,data.Both sexes,1.7
+2015,data.British Columbia,data.25 to 34 years,data.Male,1.3
+2015,data.British Columbia,data.25 to 34 years,data.Female,1.7
+2015,data.British Columbia,data.35 to 44 years,data.Both sexes,1.7
+2015,data.British Columbia,data.35 to 44 years,data.Male,0.8
+2015,data.British Columbia,data.35 to 44 years,data.Female,2.1
+2015,data.British Columbia,data.45 to 54 years,data.Both sexes,2.1
+2015,data.British Columbia,data.45 to 54 years,data.Male,2.1
+2015,data.British Columbia,data.45 to 54 years,data.Female,2.5
+2015,data.British Columbia,data.55 to 64 years,data.Both sexes,2.5
+2015,data.British Columbia,data.55 to 64 years,data.Male,2.5
+2015,data.British Columbia,data.55 to 64 years,data.Female,2.5
+2015,data.British Columbia,data.65 years and over,data.Both sexes,2.5
+2015,data.British Columbia,data.65 years and over,data.Male,2.5
+2015,data.British Columbia,data.65 years and over,data.Female,2.5
