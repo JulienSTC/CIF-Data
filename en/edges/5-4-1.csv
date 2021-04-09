@@ -1,3 +1,4 @@
 From,To
-Geography,Age
+Geography,data.Activity group
+data.Activity group,Age
 Age,Sex
