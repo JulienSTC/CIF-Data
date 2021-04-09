@@ -1,9 +1,9 @@
 Year,Géographie,Age group,Sexe,Value
-2015,Canada,Total - 12 years and over,Both sexes,17.7
-2016,Canada,Total - 12 years and over,Both sexes,16.9
-2017,Canada,Total - 12 years and over,Both sexes,16.2
-2018,Canada,Total - 12 years and over,Both sexes,15.8
-2019,Canada,Total - 12 years and over,Both sexes,14.8
+2015,Canada,Total - 12 years and over,Les deux sexes,17.7
+2016,Canada,Total - 12 years and over,Les deux sexes,16.9
+2017,Canada,Total - 12 years and over,Les deux sexes,16.2
+2018,Canada,Total - 12 years and over,Les deux sexes,15.8
+2019,Canada,Total - 12 years and over,Les deux sexes,14.8
 2015,Canada,Total - 12 years and over,Hommes,20.4
 2016,Canada,Total - 12 years and over,Hommes,19.4
 2017,Canada,Total - 12 years and over,Hommes,19.1
@@ -14,11 +14,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Canada,Total - 12 years and over,Femmes,13.4
 2018,Canada,Total - 12 years and over,Femmes,13.0
 2019,Canada,Total - 12 years and over,Femmes,12.3
-2015,Canada,12 to 17 years,Both sexes,4.1
-2016,Canada,12 to 17 years,Both sexes,3.6
-2017,Canada,12 to 17 years,Both sexes,3.5
-2018,Canada,12 to 17 years,Both sexes,3.2
-2019,Canada,12 to 17 years,Both sexes,2.5
+2015,Canada,12 to 17 years,Les deux sexes,4.1
+2016,Canada,12 to 17 years,Les deux sexes,3.6
+2017,Canada,12 to 17 years,Les deux sexes,3.5
+2018,Canada,12 to 17 years,Les deux sexes,3.2
+2019,Canada,12 to 17 years,Les deux sexes,2.5
 2015,Canada,12 to 17 years,Hommes,4.3
 2016,Canada,12 to 17 years,Hommes,3.9
 2017,Canada,12 to 17 years,Hommes,2.7
@@ -29,11 +29,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Canada,12 to 17 years,Femmes,4.3
 2018,Canada,12 to 17 years,Femmes,3.0
 2019,Canada,12 to 17 years,Femmes,2.5
-2015,Canada,18 to 34 years,Both sexes,22.1
-2016,Canada,18 to 34 years,Both sexes,21.1
-2017,Canada,18 to 34 years,Both sexes,19.2
-2018,Canada,18 to 34 years,Both sexes,19.2
-2019,Canada,18 to 34 years,Both sexes,17.2
+2015,Canada,18 to 34 years,Les deux sexes,22.1
+2016,Canada,18 to 34 years,Les deux sexes,21.1
+2017,Canada,18 to 34 years,Les deux sexes,19.2
+2018,Canada,18 to 34 years,Les deux sexes,19.2
+2019,Canada,18 to 34 years,Les deux sexes,17.2
 2015,Canada,18 to 34 years,Hommes,26.4
 2016,Canada,18 to 34 years,Hommes,24.6
 2017,Canada,18 to 34 years,Hommes,22.9
@@ -44,11 +44,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Canada,18 to 34 years,Femmes,15.5
 2018,Canada,18 to 34 years,Femmes,15.0
 2019,Canada,18 to 34 years,Femmes,13.3
-2015,Canada,35 to 49 years,Both sexes,19.5
-2016,Canada,35 to 49 years,Both sexes,18.9
-2017,Canada,35 to 49 years,Both sexes,18.6
-2018,Canada,35 to 49 years,Both sexes,18.2
-2019,Canada,35 to 49 years,Both sexes,16.9
+2015,Canada,35 to 49 years,Les deux sexes,19.5
+2016,Canada,35 to 49 years,Les deux sexes,18.9
+2017,Canada,35 to 49 years,Les deux sexes,18.6
+2018,Canada,35 to 49 years,Les deux sexes,18.2
+2019,Canada,35 to 49 years,Les deux sexes,16.9
 2015,Canada,35 to 49 years,Hommes,22.9
 2016,Canada,35 to 49 years,Hommes,21.4
 2017,Canada,35 to 49 years,Hommes,23.2
@@ -59,11 +59,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Canada,35 to 49 years,Femmes,14.0
 2018,Canada,35 to 49 years,Femmes,14.3
 2019,Canada,35 to 49 years,Femmes,13.5
-2015,Canada,50 to 64 years,Both sexes,21.0
-2016,Canada,50 to 64 years,Both sexes,20.1
-2017,Canada,50 to 64 years,Both sexes,19.5
-2018,Canada,50 to 64 years,Both sexes,18.4
-2019,Canada,50 to 64 years,Both sexes,18.4
+2015,Canada,50 to 64 years,Les deux sexes,21.0
+2016,Canada,50 to 64 years,Les deux sexes,20.1
+2017,Canada,50 to 64 years,Les deux sexes,19.5
+2018,Canada,50 to 64 years,Les deux sexes,18.4
+2019,Canada,50 to 64 years,Les deux sexes,18.4
 2015,Canada,50 to 64 years,Hommes,23.2
 2016,Canada,50 to 64 years,Hommes,22.4
 2017,Canada,50 to 64 years,Hommes,22.5
@@ -74,11 +74,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Canada,50 to 64 years,Femmes,16.6
 2018,Canada,50 to 64 years,Femmes,16.5
 2019,Canada,50 to 64 years,Femmes,16.4
-2015,Canada,65 ans et plus,Both sexes,9.8
-2016,Canada,65 ans et plus,Both sexes,9.5
-2017,Canada,65 ans et plus,Both sexes,9.8
-2018,Canada,65 ans et plus,Both sexes,9.7
-2019,Canada,65 ans et plus,Both sexes,9.1
+2015,Canada,65 ans et plus,Les deux sexes,9.8
+2016,Canada,65 ans et plus,Les deux sexes,9.5
+2017,Canada,65 ans et plus,Les deux sexes,9.8
+2018,Canada,65 ans et plus,Les deux sexes,9.7
+2019,Canada,65 ans et plus,Les deux sexes,9.1
 2015,Canada,65 ans et plus,Hommes,10.5
 2016,Canada,65 ans et plus,Hommes,11.0
 2017,Canada,65 ans et plus,Hommes,10.5
@@ -89,11 +89,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Canada,65 ans et plus,Femmes,9.2
 2018,Canada,65 ans et plus,Femmes,8.5
 2019,Canada,65 ans et plus,Femmes,8.4
-2015,Terre-Neuve-et-Labrador,Total - 12 years and over,Both sexes,24.4
-2016,Terre-Neuve-et-Labrador,Total - 12 years and over,Both sexes,18.9
-2017,Terre-Neuve-et-Labrador,Total - 12 years and over,Both sexes,23.4
-2018,Terre-Neuve-et-Labrador,Total - 12 years and over,Both sexes,18.2
-2019,Terre-Neuve-et-Labrador,Total - 12 years and over,Both sexes,19.5
+2015,Terre-Neuve-et-Labrador,Total - 12 years and over,Les deux sexes,24.4
+2016,Terre-Neuve-et-Labrador,Total - 12 years and over,Les deux sexes,18.9
+2017,Terre-Neuve-et-Labrador,Total - 12 years and over,Les deux sexes,23.4
+2018,Terre-Neuve-et-Labrador,Total - 12 years and over,Les deux sexes,18.2
+2019,Terre-Neuve-et-Labrador,Total - 12 years and over,Les deux sexes,19.5
 2015,Terre-Neuve-et-Labrador,Total - 12 years and over,Hommes,26.0
 2016,Terre-Neuve-et-Labrador,Total - 12 years and over,Hommes,21.2
 2017,Terre-Neuve-et-Labrador,Total - 12 years and over,Hommes,27.7
@@ -104,11 +104,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Terre-Neuve-et-Labrador,Total - 12 years and over,Femmes,19.2
 2018,Terre-Neuve-et-Labrador,Total - 12 years and over,Femmes,15.9
 2019,Terre-Neuve-et-Labrador,Total - 12 years and over,Femmes,16.6
-2015,Terre-Neuve-et-Labrador,12 to 17 years,Both sexes,
-2016,Terre-Neuve-et-Labrador,12 to 17 years,Both sexes,
-2017,Terre-Neuve-et-Labrador,12 to 17 years,Both sexes,
-2018,Terre-Neuve-et-Labrador,12 to 17 years,Both sexes,
-2019,Terre-Neuve-et-Labrador,12 to 17 years,Both sexes,
+2015,Terre-Neuve-et-Labrador,12 to 17 years,Les deux sexes,
+2016,Terre-Neuve-et-Labrador,12 to 17 years,Les deux sexes,
+2017,Terre-Neuve-et-Labrador,12 to 17 years,Les deux sexes,
+2018,Terre-Neuve-et-Labrador,12 to 17 years,Les deux sexes,
+2019,Terre-Neuve-et-Labrador,12 to 17 years,Les deux sexes,
 2015,Terre-Neuve-et-Labrador,12 to 17 years,Hommes,
 2016,Terre-Neuve-et-Labrador,12 to 17 years,Hommes,
 2017,Terre-Neuve-et-Labrador,12 to 17 years,Hommes,
@@ -119,11 +119,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Terre-Neuve-et-Labrador,12 to 17 years,Femmes,
 2018,Terre-Neuve-et-Labrador,12 to 17 years,Femmes,
 2019,Terre-Neuve-et-Labrador,12 to 17 years,Femmes,
-2015,Terre-Neuve-et-Labrador,18 to 34 years,Both sexes,27.5
-2016,Terre-Neuve-et-Labrador,18 to 34 years,Both sexes,24.2
-2017,Terre-Neuve-et-Labrador,18 to 34 years,Both sexes,24.6
-2018,Terre-Neuve-et-Labrador,18 to 34 years,Both sexes,20.3
-2019,Terre-Neuve-et-Labrador,18 to 34 years,Both sexes,21.9
+2015,Terre-Neuve-et-Labrador,18 to 34 years,Les deux sexes,27.5
+2016,Terre-Neuve-et-Labrador,18 to 34 years,Les deux sexes,24.2
+2017,Terre-Neuve-et-Labrador,18 to 34 years,Les deux sexes,24.6
+2018,Terre-Neuve-et-Labrador,18 to 34 years,Les deux sexes,20.3
+2019,Terre-Neuve-et-Labrador,18 to 34 years,Les deux sexes,21.9
 2015,Terre-Neuve-et-Labrador,18 to 34 years,Hommes,30.7
 2016,Terre-Neuve-et-Labrador,18 to 34 years,Hommes,23.9
 2017,Terre-Neuve-et-Labrador,18 to 34 years,Hommes,27.9
@@ -134,11 +134,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Terre-Neuve-et-Labrador,18 to 34 years,Femmes,21.2
 2018,Terre-Neuve-et-Labrador,18 to 34 years,Femmes,16.2
 2019,Terre-Neuve-et-Labrador,18 to 34 years,Femmes,22.0
-2015,Terre-Neuve-et-Labrador,35 to 49 years,Both sexes,36.6
-2016,Terre-Neuve-et-Labrador,35 to 49 years,Both sexes,22.7
-2017,Terre-Neuve-et-Labrador,35 to 49 years,Both sexes,32.4
-2018,Terre-Neuve-et-Labrador,35 to 49 years,Both sexes,31.9
-2019,Terre-Neuve-et-Labrador,35 to 49 years,Both sexes,27.9
+2015,Terre-Neuve-et-Labrador,35 to 49 years,Les deux sexes,36.6
+2016,Terre-Neuve-et-Labrador,35 to 49 years,Les deux sexes,22.7
+2017,Terre-Neuve-et-Labrador,35 to 49 years,Les deux sexes,32.4
+2018,Terre-Neuve-et-Labrador,35 to 49 years,Les deux sexes,31.9
+2019,Terre-Neuve-et-Labrador,35 to 49 years,Les deux sexes,27.9
 2015,Terre-Neuve-et-Labrador,35 to 49 years,Hommes,39.7
 2016,Terre-Neuve-et-Labrador,35 to 49 years,Hommes,27.5
 2017,Terre-Neuve-et-Labrador,35 to 49 years,Hommes,44.9
@@ -149,11 +149,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Terre-Neuve-et-Labrador,35 to 49 years,Femmes,20.8
 2018,Terre-Neuve-et-Labrador,35 to 49 years,Femmes,30.3
 2019,Terre-Neuve-et-Labrador,35 to 49 years,Femmes,22.6
-2015,Terre-Neuve-et-Labrador,50 to 64 years,Both sexes,24.6
-2016,Terre-Neuve-et-Labrador,50 to 64 years,Both sexes,21.6
-2017,Terre-Neuve-et-Labrador,50 to 64 years,Both sexes,30.9
-2018,Terre-Neuve-et-Labrador,50 to 64 years,Both sexes,17.0
-2019,Terre-Neuve-et-Labrador,50 to 64 years,Both sexes,23.1
+2015,Terre-Neuve-et-Labrador,50 to 64 years,Les deux sexes,24.6
+2016,Terre-Neuve-et-Labrador,50 to 64 years,Les deux sexes,21.6
+2017,Terre-Neuve-et-Labrador,50 to 64 years,Les deux sexes,30.9
+2018,Terre-Neuve-et-Labrador,50 to 64 years,Les deux sexes,17.0
+2019,Terre-Neuve-et-Labrador,50 to 64 years,Les deux sexes,23.1
 2015,Terre-Neuve-et-Labrador,50 to 64 years,Hommes,24.4
 2016,Terre-Neuve-et-Labrador,50 to 64 years,Hommes,23.8
 2017,Terre-Neuve-et-Labrador,50 to 64 years,Hommes,32.5
@@ -164,11 +164,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Terre-Neuve-et-Labrador,50 to 64 years,Femmes,29.3
 2018,Terre-Neuve-et-Labrador,50 to 64 years,Femmes,14.5
 2019,Terre-Neuve-et-Labrador,50 to 64 years,Femmes,17.9
-2015,Terre-Neuve-et-Labrador,65 ans et plus,Both sexes,12.1
-2016,Terre-Neuve-et-Labrador,65 ans et plus,Both sexes,11.3
-2017,Terre-Neuve-et-Labrador,65 ans et plus,Both sexes,9.7
-2018,Terre-Neuve-et-Labrador,65 ans et plus,Both sexes,9.2
-2019,Terre-Neuve-et-Labrador,65 ans et plus,Both sexes,10.8
+2015,Terre-Neuve-et-Labrador,65 ans et plus,Les deux sexes,12.1
+2016,Terre-Neuve-et-Labrador,65 ans et plus,Les deux sexes,11.3
+2017,Terre-Neuve-et-Labrador,65 ans et plus,Les deux sexes,9.7
+2018,Terre-Neuve-et-Labrador,65 ans et plus,Les deux sexes,9.2
+2019,Terre-Neuve-et-Labrador,65 ans et plus,Les deux sexes,10.8
 2015,Terre-Neuve-et-Labrador,65 ans et plus,Hommes,13.7
 2016,Terre-Neuve-et-Labrador,65 ans et plus,Hommes,14.4
 2017,Terre-Neuve-et-Labrador,65 ans et plus,Hommes,11.5
@@ -179,11 +179,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Terre-Neuve-et-Labrador,65 ans et plus,Femmes,8.1
 2018,Terre-Neuve-et-Labrador,65 ans et plus,Femmes,7.3
 2019,Terre-Neuve-et-Labrador,65 ans et plus,Femmes,10.0
-2015,Île-du-Prince-Édouard,Total - 12 years and over,Both sexes,14.9
-2016,Île-du-Prince-Édouard,Total - 12 years and over,Both sexes,15.3
-2017,Île-du-Prince-Édouard,Total - 12 years and over,Both sexes,16.7
-2018,Île-du-Prince-Édouard,Total - 12 years and over,Both sexes,17.3
-2019,Île-du-Prince-Édouard,Total - 12 years and over,Both sexes,16.4
+2015,Île-du-Prince-Édouard,Total - 12 years and over,Les deux sexes,14.9
+2016,Île-du-Prince-Édouard,Total - 12 years and over,Les deux sexes,15.3
+2017,Île-du-Prince-Édouard,Total - 12 years and over,Les deux sexes,16.7
+2018,Île-du-Prince-Édouard,Total - 12 years and over,Les deux sexes,17.3
+2019,Île-du-Prince-Édouard,Total - 12 years and over,Les deux sexes,16.4
 2015,Île-du-Prince-Édouard,Total - 12 years and over,Hommes,16.9
 2016,Île-du-Prince-Édouard,Total - 12 years and over,Hommes,18.1
 2017,Île-du-Prince-Édouard,Total - 12 years and over,Hommes,20.0
@@ -194,11 +194,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Île-du-Prince-Édouard,Total - 12 years and over,Femmes,13.6
 2018,Île-du-Prince-Édouard,Total - 12 years and over,Femmes,12.9
 2019,Île-du-Prince-Édouard,Total - 12 years and over,Femmes,15.0
-2015,Île-du-Prince-Édouard,12 to 17 years,Both sexes,
-2016,Île-du-Prince-Édouard,12 to 17 years,Both sexes,
-2017,Île-du-Prince-Édouard,12 to 17 years,Both sexes,
-2018,Île-du-Prince-Édouard,12 to 17 years,Both sexes,
-2019,Île-du-Prince-Édouard,12 to 17 years,Both sexes,
+2015,Île-du-Prince-Édouard,12 to 17 years,Les deux sexes,
+2016,Île-du-Prince-Édouard,12 to 17 years,Les deux sexes,
+2017,Île-du-Prince-Édouard,12 to 17 years,Les deux sexes,
+2018,Île-du-Prince-Édouard,12 to 17 years,Les deux sexes,
+2019,Île-du-Prince-Édouard,12 to 17 years,Les deux sexes,
 2015,Île-du-Prince-Édouard,12 to 17 years,Hommes,
 2016,Île-du-Prince-Édouard,12 to 17 years,Hommes,
 2017,Île-du-Prince-Édouard,12 to 17 years,Hommes,
@@ -209,11 +209,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Île-du-Prince-Édouard,12 to 17 years,Femmes,
 2018,Île-du-Prince-Édouard,12 to 17 years,Femmes,
 2019,Île-du-Prince-Édouard,12 to 17 years,Femmes,
-2015,Île-du-Prince-Édouard,18 to 34 years,Both sexes,15.4
-2016,Île-du-Prince-Édouard,18 to 34 years,Both sexes,23.3
-2017,Île-du-Prince-Édouard,18 to 34 years,Both sexes,16.7
-2018,Île-du-Prince-Édouard,18 to 34 years,Both sexes,21.0
-2019,Île-du-Prince-Édouard,18 to 34 years,Both sexes,24.4
+2015,Île-du-Prince-Édouard,18 to 34 years,Les deux sexes,15.4
+2016,Île-du-Prince-Édouard,18 to 34 years,Les deux sexes,23.3
+2017,Île-du-Prince-Édouard,18 to 34 years,Les deux sexes,16.7
+2018,Île-du-Prince-Édouard,18 to 34 years,Les deux sexes,21.0
+2019,Île-du-Prince-Édouard,18 to 34 years,Les deux sexes,24.4
 2015,Île-du-Prince-Édouard,18 to 34 years,Hommes,20.7
 2016,Île-du-Prince-Édouard,18 to 34 years,Hommes,28.0
 2017,Île-du-Prince-Édouard,18 to 34 years,Hommes,19.2
@@ -224,11 +224,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Île-du-Prince-Édouard,18 to 34 years,Femmes,14.2
 2018,Île-du-Prince-Édouard,18 to 34 years,Femmes,
 2019,Île-du-Prince-Édouard,18 to 34 years,Femmes,19.8
-2015,Île-du-Prince-Édouard,35 to 49 years,Both sexes,20.5
-2016,Île-du-Prince-Édouard,35 to 49 years,Both sexes,14.4
-2017,Île-du-Prince-Édouard,35 to 49 years,Both sexes,18.9
-2018,Île-du-Prince-Édouard,35 to 49 years,Both sexes,22.2
-2019,Île-du-Prince-Édouard,35 to 49 years,Both sexes,12.1
+2015,Île-du-Prince-Édouard,35 to 49 years,Les deux sexes,20.5
+2016,Île-du-Prince-Édouard,35 to 49 years,Les deux sexes,14.4
+2017,Île-du-Prince-Édouard,35 to 49 years,Les deux sexes,18.9
+2018,Île-du-Prince-Édouard,35 to 49 years,Les deux sexes,22.2
+2019,Île-du-Prince-Édouard,35 to 49 years,Les deux sexes,12.1
 2015,Île-du-Prince-Édouard,35 to 49 years,Hommes,20.1
 2016,Île-du-Prince-Édouard,35 to 49 years,Hommes,
 2017,Île-du-Prince-Édouard,35 to 49 years,Hommes,26.4
@@ -239,11 +239,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Île-du-Prince-Édouard,35 to 49 years,Femmes,12.0
 2018,Île-du-Prince-Édouard,35 to 49 years,Femmes,20.5
 2019,Île-du-Prince-Édouard,35 to 49 years,Femmes,
-2015,Île-du-Prince-Édouard,50 to 64 years,Both sexes,16.2
-2016,Île-du-Prince-Édouard,50 to 64 years,Both sexes,18.8
-2017,Île-du-Prince-Édouard,50 to 64 years,Both sexes,23.3
-2018,Île-du-Prince-Édouard,50 to 64 years,Both sexes,18.5
-2019,Île-du-Prince-Édouard,50 to 64 years,Both sexes,21.3
+2015,Île-du-Prince-Édouard,50 to 64 years,Les deux sexes,16.2
+2016,Île-du-Prince-Édouard,50 to 64 years,Les deux sexes,18.8
+2017,Île-du-Prince-Édouard,50 to 64 years,Les deux sexes,23.3
+2018,Île-du-Prince-Édouard,50 to 64 years,Les deux sexes,18.5
+2019,Île-du-Prince-Édouard,50 to 64 years,Les deux sexes,21.3
 2015,Île-du-Prince-Édouard,50 to 64 years,Hommes,17.5
 2016,Île-du-Prince-Édouard,50 to 64 years,Hommes,22.4
 2017,Île-du-Prince-Édouard,50 to 64 years,Hommes,25.8
@@ -254,11 +254,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Île-du-Prince-Édouard,50 to 64 years,Femmes,21.0
 2018,Île-du-Prince-Édouard,50 to 64 years,Femmes,17.5
 2019,Île-du-Prince-Édouard,50 to 64 years,Femmes,25.3
-2015,Île-du-Prince-Édouard,65 ans et plus,Both sexes,9.8
-2016,Île-du-Prince-Édouard,65 ans et plus,Both sexes,6.2
-2017,Île-du-Prince-Édouard,65 ans et plus,Both sexes,11.5
-2018,Île-du-Prince-Édouard,65 ans et plus,Both sexes,11.5
-2019,Île-du-Prince-Édouard,65 ans et plus,Both sexes,8.9
+2015,Île-du-Prince-Édouard,65 ans et plus,Les deux sexes,9.8
+2016,Île-du-Prince-Édouard,65 ans et plus,Les deux sexes,6.2
+2017,Île-du-Prince-Édouard,65 ans et plus,Les deux sexes,11.5
+2018,Île-du-Prince-Édouard,65 ans et plus,Les deux sexes,11.5
+2019,Île-du-Prince-Édouard,65 ans et plus,Les deux sexes,8.9
 2015,Île-du-Prince-Édouard,65 ans et plus,Hommes,10.9
 2016,Île-du-Prince-Édouard,65 ans et plus,Hommes,9.4
 2017,Île-du-Prince-Édouard,65 ans et plus,Hommes,13.5
@@ -269,11 +269,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Île-du-Prince-Édouard,65 ans et plus,Femmes,9.7
 2018,Île-du-Prince-Édouard,65 ans et plus,Femmes,7.0
 2019,Île-du-Prince-Édouard,65 ans et plus,Femmes,7.3
-2015,NovaScotia,Total - 12 years and over,Both sexes,18.9
-2016,NovaScotia,Total - 12 years and over,Both sexes,19.6
-2017,NovaScotia,Total - 12 years and over,Both sexes,17.7
-2018,NovaScotia,Total - 12 years and over,Both sexes,18.0
-2019,NovaScotia,Total - 12 years and over,Both sexes,18.3
+2015,NovaScotia,Total - 12 years and over,Les deux sexes,18.9
+2016,NovaScotia,Total - 12 years and over,Les deux sexes,19.6
+2017,NovaScotia,Total - 12 years and over,Les deux sexes,17.7
+2018,NovaScotia,Total - 12 years and over,Les deux sexes,18.0
+2019,NovaScotia,Total - 12 years and over,Les deux sexes,18.3
 2015,NovaScotia,Total - 12 years and over,Hommes,22.4
 2016,NovaScotia,Total - 12 years and over,Hommes,21.2
 2017,NovaScotia,Total - 12 years and over,Hommes,20.7
@@ -284,11 +284,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,NovaScotia,Total - 12 years and over,Femmes,15.0
 2018,NovaScotia,Total - 12 years and over,Femmes,16.2
 2019,NovaScotia,Total - 12 years and over,Femmes,15.3
-2015,NovaScotia,12 to 17 years,Both sexes,5.9
-2016,NovaScotia,12 to 17 years,Both sexes,6.1
-2017,NovaScotia,12 to 17 years,Both sexes,
-2018,NovaScotia,12 to 17 years,Both sexes,
-2019,NovaScotia,12 to 17 years,Both sexes,
+2015,NovaScotia,12 to 17 years,Les deux sexes,5.9
+2016,NovaScotia,12 to 17 years,Les deux sexes,6.1
+2017,NovaScotia,12 to 17 years,Les deux sexes,
+2018,NovaScotia,12 to 17 years,Les deux sexes,
+2019,NovaScotia,12 to 17 years,Les deux sexes,
 2015,NovaScotia,12 to 17 years,Hommes,
 2016,NovaScotia,12 to 17 years,Hommes,
 2017,NovaScotia,12 to 17 years,Hommes,
@@ -299,11 +299,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,NovaScotia,12 to 17 years,Femmes,
 2018,NovaScotia,12 to 17 years,Femmes,
 2019,NovaScotia,12 to 17 years,Femmes,
-2015,NovaScotia,18 to 34 years,Both sexes,21.9
-2016,NovaScotia,18 to 34 years,Both sexes,20.6
-2017,NovaScotia,18 to 34 years,Both sexes,24.2
-2018,NovaScotia,18 to 34 years,Both sexes,15.4
-2019,NovaScotia,18 to 34 years,Both sexes,21.6
+2015,NovaScotia,18 to 34 years,Les deux sexes,21.9
+2016,NovaScotia,18 to 34 years,Les deux sexes,20.6
+2017,NovaScotia,18 to 34 years,Les deux sexes,24.2
+2018,NovaScotia,18 to 34 years,Les deux sexes,15.4
+2019,NovaScotia,18 to 34 years,Les deux sexes,21.6
 2015,NovaScotia,18 to 34 years,Hommes,27.8
 2016,NovaScotia,18 to 34 years,Hommes,23.9
 2017,NovaScotia,18 to 34 years,Hommes,27.3
@@ -314,11 +314,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,NovaScotia,18 to 34 years,Femmes,21.0
 2018,NovaScotia,18 to 34 years,Femmes,15.4
 2019,NovaScotia,18 to 34 years,Femmes,22.3
-2015,NovaScotia,35 to 49 years,Both sexes,25.1
-2016,NovaScotia,35 to 49 years,Both sexes,22.5
-2017,NovaScotia,35 to 49 years,Both sexes,16.8
-2018,NovaScotia,35 to 49 years,Both sexes,27.7
-2019,NovaScotia,35 to 49 years,Both sexes,22.1
+2015,NovaScotia,35 to 49 years,Les deux sexes,25.1
+2016,NovaScotia,35 to 49 years,Les deux sexes,22.5
+2017,NovaScotia,35 to 49 years,Les deux sexes,16.8
+2018,NovaScotia,35 to 49 years,Les deux sexes,27.7
+2019,NovaScotia,35 to 49 years,Les deux sexes,22.1
 2015,NovaScotia,35 to 49 years,Hommes,31.1
 2016,NovaScotia,35 to 49 years,Hommes,20.8
 2017,NovaScotia,35 to 49 years,Hommes,21.1
@@ -329,11 +329,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,NovaScotia,35 to 49 years,Femmes,12.8
 2018,NovaScotia,35 to 49 years,Femmes,25.8
 2019,NovaScotia,35 to 49 years,Femmes,14.4
-2015,NovaScotia,50 to 64 years,Both sexes,20.3
-2016,NovaScotia,50 to 64 years,Both sexes,27.5
-2017,NovaScotia,50 to 64 years,Both sexes,23.5
-2018,NovaScotia,50 to 64 years,Both sexes,22.8
-2019,NovaScotia,50 to 64 years,Both sexes,23.9
+2015,NovaScotia,50 to 64 years,Les deux sexes,20.3
+2016,NovaScotia,50 to 64 years,Les deux sexes,27.5
+2017,NovaScotia,50 to 64 years,Les deux sexes,23.5
+2018,NovaScotia,50 to 64 years,Les deux sexes,22.8
+2019,NovaScotia,50 to 64 years,Les deux sexes,23.9
 2015,NovaScotia,50 to 64 years,Hommes,23.3
 2016,NovaScotia,50 to 64 years,Hommes,31.7
 2017,NovaScotia,50 to 64 years,Hommes,26.2
@@ -344,11 +344,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,NovaScotia,50 to 64 years,Femmes,21.1
 2018,NovaScotia,50 to 64 years,Femmes,18.3
 2019,NovaScotia,50 to 64 years,Femmes,18.7
-2015,NovaScotia,65 ans et plus,Both sexes,11.9
-2016,NovaScotia,65 ans et plus,Both sexes,10.1
-2017,NovaScotia,65 ans et plus,Both sexes,8.9
-2018,NovaScotia,65 ans et plus,Both sexes,11.2
-2019,NovaScotia,65 ans et plus,Both sexes,9.8
+2015,NovaScotia,65 ans et plus,Les deux sexes,11.9
+2016,NovaScotia,65 ans et plus,Les deux sexes,10.1
+2017,NovaScotia,65 ans et plus,Les deux sexes,8.9
+2018,NovaScotia,65 ans et plus,Les deux sexes,11.2
+2019,NovaScotia,65 ans et plus,Les deux sexes,9.8
 2015,NovaScotia,65 ans et plus,Hommes,11.5
 2016,NovaScotia,65 ans et plus,Hommes,9.4
 2017,NovaScotia,65 ans et plus,Hommes,11.5
@@ -359,11 +359,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,NovaScotia,65 ans et plus,Femmes,6.6
 2018,NovaScotia,65 ans et plus,Femmes,10.5
 2019,NovaScotia,65 ans et plus,Femmes,9.2
-2015,Nouveau-Brunswick,Total - 12 years and over,Both sexes,17.4
-2016,Nouveau-Brunswick,Total - 12 years and over,Both sexes,19.0
-2017,Nouveau-Brunswick,Total - 12 years and over,Both sexes,14.2
-2018,Nouveau-Brunswick,Total - 12 years and over,Both sexes,14.6
-2019,Nouveau-Brunswick,Total - 12 years and over,Both sexes,16.3
+2015,Nouveau-Brunswick,Total - 12 years and over,Les deux sexes,17.4
+2016,Nouveau-Brunswick,Total - 12 years and over,Les deux sexes,19.0
+2017,Nouveau-Brunswick,Total - 12 years and over,Les deux sexes,14.2
+2018,Nouveau-Brunswick,Total - 12 years and over,Les deux sexes,14.6
+2019,Nouveau-Brunswick,Total - 12 years and over,Les deux sexes,16.3
 2015,Nouveau-Brunswick,Total - 12 years and over,Hommes,15.9
 2016,Nouveau-Brunswick,Total - 12 years and over,Hommes,21.5
 2017,Nouveau-Brunswick,Total - 12 years and over,Hommes,14.7
@@ -374,11 +374,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Nouveau-Brunswick,Total - 12 years and over,Femmes,13.6
 2018,Nouveau-Brunswick,Total - 12 years and over,Femmes,11.5
 2019,Nouveau-Brunswick,Total - 12 years and over,Femmes,15.4
-2015,Nouveau-Brunswick,12 to 17 years,Both sexes,
-2016,Nouveau-Brunswick,12 to 17 years,Both sexes,
-2017,Nouveau-Brunswick,12 to 17 years,Both sexes,
-2018,Nouveau-Brunswick,12 to 17 years,Both sexes,
-2019,Nouveau-Brunswick,12 to 17 years,Both sexes,
+2015,Nouveau-Brunswick,12 to 17 years,Les deux sexes,
+2016,Nouveau-Brunswick,12 to 17 years,Les deux sexes,
+2017,Nouveau-Brunswick,12 to 17 years,Les deux sexes,
+2018,Nouveau-Brunswick,12 to 17 years,Les deux sexes,
+2019,Nouveau-Brunswick,12 to 17 years,Les deux sexes,
 2015,Nouveau-Brunswick,12 to 17 years,Hommes,
 2016,Nouveau-Brunswick,12 to 17 years,Hommes,
 2017,Nouveau-Brunswick,12 to 17 years,Hommes,
@@ -389,11 +389,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Nouveau-Brunswick,12 to 17 years,Femmes,
 2018,Nouveau-Brunswick,12 to 17 years,Femmes,
 2019,Nouveau-Brunswick,12 to 17 years,Femmes,
-2015,Nouveau-Brunswick,18 to 34 years,Both sexes,25.4
-2016,Nouveau-Brunswick,18 to 34 years,Both sexes,30.5
-2017,Nouveau-Brunswick,18 to 34 years,Both sexes,16.3
-2018,Nouveau-Brunswick,18 to 34 years,Both sexes,18.9
-2019,Nouveau-Brunswick,18 to 34 years,Both sexes,23.1
+2015,Nouveau-Brunswick,18 to 34 years,Les deux sexes,25.4
+2016,Nouveau-Brunswick,18 to 34 years,Les deux sexes,30.5
+2017,Nouveau-Brunswick,18 to 34 years,Les deux sexes,16.3
+2018,Nouveau-Brunswick,18 to 34 years,Les deux sexes,18.9
+2019,Nouveau-Brunswick,18 to 34 years,Les deux sexes,23.1
 2015,Nouveau-Brunswick,18 to 34 years,Hommes,21.9
 2016,Nouveau-Brunswick,18 to 34 years,Hommes,39.1
 2017,Nouveau-Brunswick,18 to 34 years,Hommes,20.9
@@ -404,11 +404,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Nouveau-Brunswick,18 to 34 years,Femmes,11.6
 2018,Nouveau-Brunswick,18 to 34 years,Femmes,14.2
 2019,Nouveau-Brunswick,18 to 34 years,Femmes,20.4
-2015,Nouveau-Brunswick,35 to 49 years,Both sexes,19.4
-2016,Nouveau-Brunswick,35 to 49 years,Both sexes,23.4
-2017,Nouveau-Brunswick,35 to 49 years,Both sexes,22.6
-2018,Nouveau-Brunswick,35 to 49 years,Both sexes,16.2
-2019,Nouveau-Brunswick,35 to 49 years,Both sexes,22.8
+2015,Nouveau-Brunswick,35 to 49 years,Les deux sexes,19.4
+2016,Nouveau-Brunswick,35 to 49 years,Les deux sexes,23.4
+2017,Nouveau-Brunswick,35 to 49 years,Les deux sexes,22.6
+2018,Nouveau-Brunswick,35 to 49 years,Les deux sexes,16.2
+2019,Nouveau-Brunswick,35 to 49 years,Les deux sexes,22.8
 2015,Nouveau-Brunswick,35 to 49 years,Hommes,22.6
 2016,Nouveau-Brunswick,35 to 49 years,Hommes,26.4
 2017,Nouveau-Brunswick,35 to 49 years,Hommes,21.6
@@ -419,11 +419,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Nouveau-Brunswick,35 to 49 years,Femmes,23.6
 2018,Nouveau-Brunswick,35 to 49 years,Femmes,12.4
 2019,Nouveau-Brunswick,35 to 49 years,Femmes,20.4
-2015,Nouveau-Brunswick,50 to 64 years,Both sexes,18.8
-2016,Nouveau-Brunswick,50 to 64 years,Both sexes,16.4
-2017,Nouveau-Brunswick,50 to 64 years,Both sexes,12.9
-2018,Nouveau-Brunswick,50 to 64 years,Both sexes,17.0
-2019,Nouveau-Brunswick,50 to 64 years,Both sexes,15.0
+2015,Nouveau-Brunswick,50 to 64 years,Les deux sexes,18.8
+2016,Nouveau-Brunswick,50 to 64 years,Les deux sexes,16.4
+2017,Nouveau-Brunswick,50 to 64 years,Les deux sexes,12.9
+2018,Nouveau-Brunswick,50 to 64 years,Les deux sexes,17.0
+2019,Nouveau-Brunswick,50 to 64 years,Les deux sexes,15.0
 2015,Nouveau-Brunswick,50 to 64 years,Hommes,14.6
 2016,Nouveau-Brunswick,50 to 64 years,Hommes,13.0
 2017,Nouveau-Brunswick,50 to 64 years,Hommes,11.9
@@ -434,11 +434,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Nouveau-Brunswick,50 to 64 years,Femmes,13.7
 2018,Nouveau-Brunswick,50 to 64 years,Femmes,13.1
 2019,Nouveau-Brunswick,50 to 64 years,Femmes,17.4
-2015,Nouveau-Brunswick,65 ans et plus,Both sexes,9.9
-2016,Nouveau-Brunswick,65 ans et plus,Both sexes,10.4
-2017,Nouveau-Brunswick,65 ans et plus,Both sexes,9.3
-2018,Nouveau-Brunswick,65 ans et plus,Both sexes,9.1
-2019,Nouveau-Brunswick,65 ans et plus,Both sexes,9.7
+2015,Nouveau-Brunswick,65 ans et plus,Les deux sexes,9.9
+2016,Nouveau-Brunswick,65 ans et plus,Les deux sexes,10.4
+2017,Nouveau-Brunswick,65 ans et plus,Les deux sexes,9.3
+2018,Nouveau-Brunswick,65 ans et plus,Les deux sexes,9.1
+2019,Nouveau-Brunswick,65 ans et plus,Les deux sexes,9.7
 2015,Nouveau-Brunswick,65 ans et plus,Hommes,8.1
 2016,Nouveau-Brunswick,65 ans et plus,Hommes,12.5
 2017,Nouveau-Brunswick,65 ans et plus,Hommes,8.9
@@ -449,11 +449,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Nouveau-Brunswick,65 ans et plus,Femmes,9.7
 2018,Nouveau-Brunswick,65 ans et plus,Femmes,7.0
 2019,Nouveau-Brunswick,65 ans et plus,Femmes,8.1
-2015,Québec,Total - 12 years and over,Both sexes,18.6
-2016,Québec,Total - 12 years and over,Both sexes,18.1
-2017,Québec,Total - 12 years and over,Both sexes,18.3
-2018,Québec,Total - 12 years and over,Both sexes,17.5
-2019,Québec,Total - 12 years and over,Both sexes,17.0
+2015,Québec,Total - 12 years and over,Les deux sexes,18.6
+2016,Québec,Total - 12 years and over,Les deux sexes,18.1
+2017,Québec,Total - 12 years and over,Les deux sexes,18.3
+2018,Québec,Total - 12 years and over,Les deux sexes,17.5
+2019,Québec,Total - 12 years and over,Les deux sexes,17.0
 2015,Québec,Total - 12 years and over,Hommes,21.5
 2016,Québec,Total - 12 years and over,Hommes,18.8
 2017,Québec,Total - 12 years and over,Hommes,20.3
@@ -464,11 +464,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Québec,Total - 12 years and over,Femmes,16.4
 2018,Québec,Total - 12 years and over,Femmes,15.3
 2019,Québec,Total - 12 years and over,Femmes,15.1
-2015,Québec,12 to 17 years,Both sexes,4.8
-2016,Québec,12 to 17 years,Both sexes,5.2
-2017,Québec,12 to 17 years,Both sexes,5.9
-2018,Québec,12 to 17 years,Both sexes,4.0
-2019,Québec,12 to 17 years,Both sexes,3.7
+2015,Québec,12 to 17 years,Les deux sexes,4.8
+2016,Québec,12 to 17 years,Les deux sexes,5.2
+2017,Québec,12 to 17 years,Les deux sexes,5.9
+2018,Québec,12 to 17 years,Les deux sexes,4.0
+2019,Québec,12 to 17 years,Les deux sexes,3.7
 2015,Québec,12 to 17 years,Hommes,5.8
 2016,Québec,12 to 17 years,Hommes,4.8
 2017,Québec,12 to 17 years,Hommes,5.6
@@ -479,11 +479,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Québec,12 to 17 years,Femmes,6.2
 2018,Québec,12 to 17 years,Femmes,3.9
 2019,Québec,12 to 17 years,Femmes,2.2
-2015,Québec,18 to 34 years,Both sexes,23.8
-2016,Québec,18 to 34 years,Both sexes,23.6
-2017,Québec,18 to 34 years,Both sexes,22.6
-2018,Québec,18 to 34 years,Both sexes,22.4
-2019,Québec,18 to 34 years,Both sexes,21.4
+2015,Québec,18 to 34 years,Les deux sexes,23.8
+2016,Québec,18 to 34 years,Les deux sexes,23.6
+2017,Québec,18 to 34 years,Les deux sexes,22.6
+2018,Québec,18 to 34 years,Les deux sexes,22.4
+2019,Québec,18 to 34 years,Les deux sexes,21.4
 2015,Québec,18 to 34 years,Hommes,28.1
 2016,Québec,18 to 34 years,Hommes,23.0
 2017,Québec,18 to 34 years,Hommes,26.0
@@ -494,11 +494,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Québec,18 to 34 years,Femmes,19.1
 2018,Québec,18 to 34 years,Femmes,19.0
 2019,Québec,18 to 34 years,Femmes,18.8
-2015,Québec,35 to 49 years,Both sexes,21.8
-2016,Québec,35 to 49 years,Both sexes,19.4
-2017,Québec,35 to 49 years,Both sexes,20.9
-2018,Québec,35 to 49 years,Both sexes,18.5
-2019,Québec,35 to 49 years,Both sexes,17.2
+2015,Québec,35 to 49 years,Les deux sexes,21.8
+2016,Québec,35 to 49 years,Les deux sexes,19.4
+2017,Québec,35 to 49 years,Les deux sexes,20.9
+2018,Québec,35 to 49 years,Les deux sexes,18.5
+2019,Québec,35 to 49 years,Les deux sexes,17.2
 2015,Québec,35 to 49 years,Hommes,24.3
 2016,Québec,35 to 49 years,Hommes,20.8
 2017,Québec,35 to 49 years,Hommes,24.5
@@ -509,11 +509,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Québec,35 to 49 years,Femmes,17.3
 2018,Québec,35 to 49 years,Femmes,14.6
 2019,Québec,35 to 49 years,Femmes,15.3
-2015,Québec,50 to 64 years,Both sexes,20.1
-2016,Québec,50 to 64 years,Both sexes,21.1
-2017,Québec,50 to 64 years,Both sexes,20.8
-2018,Québec,50 to 64 years,Both sexes,20.5
-2019,Québec,50 to 64 years,Both sexes,22.0
+2015,Québec,50 to 64 years,Les deux sexes,20.1
+2016,Québec,50 to 64 years,Les deux sexes,21.1
+2017,Québec,50 to 64 years,Les deux sexes,20.8
+2018,Québec,50 to 64 years,Les deux sexes,20.5
+2019,Québec,50 to 64 years,Les deux sexes,22.0
 2015,Québec,50 to 64 years,Hommes,21.9
 2016,Québec,50 to 64 years,Hommes,21.8
 2017,Québec,50 to 64 years,Hommes,21.2
@@ -524,11 +524,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Québec,50 to 64 years,Femmes,20.4
 2018,Québec,50 to 64 years,Femmes,20.0
 2019,Québec,50 to 64 years,Femmes,19.5
-2015,Québec,65 ans et plus,Both sexes,11.0
-2016,Québec,65 ans et plus,Both sexes,10.2
-2017,Québec,65 ans et plus,Both sexes,11.1
-2018,Québec,65 ans et plus,Both sexes,11.4
-2019,Québec,65 ans et plus,Both sexes,10.3
+2015,Québec,65 ans et plus,Les deux sexes,11.0
+2016,Québec,65 ans et plus,Les deux sexes,10.2
+2017,Québec,65 ans et plus,Les deux sexes,11.1
+2018,Québec,65 ans et plus,Les deux sexes,11.4
+2019,Québec,65 ans et plus,Les deux sexes,10.3
 2015,Québec,65 ans et plus,Hommes,14.0
 2016,Québec,65 ans et plus,Hommes,11.3
 2017,Québec,65 ans et plus,Hommes,11.5
@@ -539,11 +539,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Québec,65 ans et plus,Femmes,10.8
 2018,Québec,65 ans et plus,Femmes,10.0
 2019,Québec,65 ans et plus,Femmes,10.3
-2015,Ontario,Total - 12 years and over,Both sexes,17.5
-2016,Ontario,Total - 12 years and over,Both sexes,16.0
-2017,Ontario,Total - 12 years and over,Both sexes,15.4
-2018,Ontario,Total - 12 years and over,Both sexes,15.2
-2019,Ontario,Total - 12 years and over,Both sexes,13.8
+2015,Ontario,Total - 12 years and over,Les deux sexes,17.5
+2016,Ontario,Total - 12 years and over,Les deux sexes,16.0
+2017,Ontario,Total - 12 years and over,Les deux sexes,15.4
+2018,Ontario,Total - 12 years and over,Les deux sexes,15.2
+2019,Ontario,Total - 12 years and over,Les deux sexes,13.8
 2015,Ontario,Total - 12 years and over,Hommes,20.5
 2016,Ontario,Total - 12 years and over,Hommes,19.2
 2017,Ontario,Total - 12 years and over,Hommes,18.5
@@ -554,11 +554,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Ontario,Total - 12 years and over,Femmes,12.4
 2018,Ontario,Total - 12 years and over,Femmes,11.8
 2019,Ontario,Total - 12 years and over,Femmes,10.6
-2015,Ontario,12 to 17 years,Both sexes,4.6
-2016,Ontario,12 to 17 years,Both sexes,2.1
-2017,Ontario,12 to 17 years,Both sexes,2.8
-2018,Ontario,12 to 17 years,Both sexes,3.5
-2019,Ontario,12 to 17 years,Both sexes,2.2
+2015,Ontario,12 to 17 years,Les deux sexes,4.6
+2016,Ontario,12 to 17 years,Les deux sexes,2.1
+2017,Ontario,12 to 17 years,Les deux sexes,2.8
+2018,Ontario,12 to 17 years,Les deux sexes,3.5
+2019,Ontario,12 to 17 years,Les deux sexes,2.2
 2015,Ontario,12 to 17 years,Hommes,4.8
 2016,Ontario,12 to 17 years,Hommes,2.6
 2017,Ontario,12 to 17 years,Hommes,1.7
@@ -569,11 +569,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Ontario,12 to 17 years,Femmes,
 2018,Ontario,12 to 17 years,Femmes,2.4
 2019,Ontario,12 to 17 years,Femmes,2.9
-2015,Ontario,18 to 34 years,Both sexes,22.4
-2016,Ontario,18 to 34 years,Both sexes,19.1
-2017,Ontario,18 to 34 years,Both sexes,17.0
-2018,Ontario,18 to 34 years,Both sexes,18.0
-2019,Ontario,18 to 34 years,Both sexes,15.5
+2015,Ontario,18 to 34 years,Les deux sexes,22.4
+2016,Ontario,18 to 34 years,Les deux sexes,19.1
+2017,Ontario,18 to 34 years,Les deux sexes,17.0
+2018,Ontario,18 to 34 years,Les deux sexes,18.0
+2019,Ontario,18 to 34 years,Les deux sexes,15.5
 2015,Ontario,18 to 34 years,Hommes,27.9
 2016,Ontario,18 to 34 years,Hommes,23.4
 2017,Ontario,18 to 34 years,Hommes,20.0
@@ -584,11 +584,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Ontario,18 to 34 years,Femmes,13.9
 2018,Ontario,18 to 34 years,Femmes,12.9
 2019,Ontario,18 to 34 years,Femmes,10.1
-2015,Ontario,35 to 49 years,Both sexes,17.5
-2016,Ontario,35 to 49 years,Both sexes,18.9
-2017,Ontario,35 to 49 years,Both sexes,17.8
-2018,Ontario,35 to 49 years,Both sexes,17.6
-2019,Ontario,35 to 49 years,Both sexes,16.4
+2015,Ontario,35 to 49 years,Les deux sexes,17.5
+2016,Ontario,35 to 49 years,Les deux sexes,18.9
+2017,Ontario,35 to 49 years,Les deux sexes,17.8
+2018,Ontario,35 to 49 years,Les deux sexes,17.6
+2019,Ontario,35 to 49 years,Les deux sexes,16.4
 2015,Ontario,35 to 49 years,Hommes,21.5
 2016,Ontario,35 to 49 years,Hommes,22.0
 2017,Ontario,35 to 49 years,Hommes,23.4
@@ -599,11 +599,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Ontario,35 to 49 years,Femmes,12.5
 2018,Ontario,35 to 49 years,Femmes,12.9
 2019,Ontario,35 to 49 years,Femmes,11.7
-2015,Ontario,50 to 64 years,Both sexes,22.0
-2016,Ontario,50 to 64 years,Both sexes,20.1
-2017,Ontario,50 to 64 years,Both sexes,19.7
-2018,Ontario,50 to 64 years,Both sexes,18.1
-2019,Ontario,50 to 64 years,Both sexes,17.1
+2015,Ontario,50 to 64 years,Les deux sexes,22.0
+2016,Ontario,50 to 64 years,Les deux sexes,20.1
+2017,Ontario,50 to 64 years,Les deux sexes,19.7
+2018,Ontario,50 to 64 years,Les deux sexes,18.1
+2019,Ontario,50 to 64 years,Les deux sexes,17.1
 2015,Ontario,50 to 64 years,Hommes,24.1
 2016,Ontario,50 to 64 years,Hommes,23.5
 2017,Ontario,50 to 64 years,Hommes,23.4
@@ -614,11 +614,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Ontario,50 to 64 years,Femmes,16.2
 2018,Ontario,50 to 64 years,Femmes,15.8
 2019,Ontario,50 to 64 years,Femmes,15.7
-2015,Ontario,65 ans et plus,Both sexes,9.2
-2016,Ontario,65 ans et plus,Both sexes,8.3
-2017,Ontario,65 ans et plus,Both sexes,9.4
-2018,Ontario,65 ans et plus,Both sexes,9.1
-2019,Ontario,65 ans et plus,Both sexes,8.7
+2015,Ontario,65 ans et plus,Les deux sexes,9.2
+2016,Ontario,65 ans et plus,Les deux sexes,8.3
+2017,Ontario,65 ans et plus,Les deux sexes,9.4
+2018,Ontario,65 ans et plus,Les deux sexes,9.1
+2019,Ontario,65 ans et plus,Les deux sexes,8.7
 2015,Ontario,65 ans et plus,Hommes,9.3
 2016,Ontario,65 ans et plus,Hommes,10.1
 2017,Ontario,65 ans et plus,Hommes,10.4
@@ -629,11 +629,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Ontario,65 ans et plus,Femmes,8.7
 2018,Ontario,65 ans et plus,Femmes,7.6
 2019,Ontario,65 ans et plus,Femmes,7.0
-2015,Manitoba,Total - 12 years and over,Both sexes,19.5
-2016,Manitoba,Total - 12 years and over,Both sexes,18.1
-2017,Manitoba,Total - 12 years and over,Both sexes,15.7
-2018,Manitoba,Total - 12 years and over,Both sexes,17.6
-2019,Manitoba,Total - 12 years and over,Both sexes,14.8
+2015,Manitoba,Total - 12 years and over,Les deux sexes,19.5
+2016,Manitoba,Total - 12 years and over,Les deux sexes,18.1
+2017,Manitoba,Total - 12 years and over,Les deux sexes,15.7
+2018,Manitoba,Total - 12 years and over,Les deux sexes,17.6
+2019,Manitoba,Total - 12 years and over,Les deux sexes,14.8
 2015,Manitoba,Total - 12 years and over,Hommes,21.7
 2016,Manitoba,Total - 12 years and over,Hommes,20.1
 2017,Manitoba,Total - 12 years and over,Hommes,16.6
@@ -644,11 +644,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Manitoba,Total - 12 years and over,Femmes,14.8
 2018,Manitoba,Total - 12 years and over,Femmes,16.9
 2019,Manitoba,Total - 12 years and over,Femmes,11.6
-2015,Manitoba,12 to 17 years,Both sexes,
-2016,Manitoba,12 to 17 years,Both sexes,
-2017,Manitoba,12 to 17 years,Both sexes,
-2018,Manitoba,12 to 17 years,Both sexes,
-2019,Manitoba,12 to 17 years,Both sexes,
+2015,Manitoba,12 to 17 years,Les deux sexes,
+2016,Manitoba,12 to 17 years,Les deux sexes,
+2017,Manitoba,12 to 17 years,Les deux sexes,
+2018,Manitoba,12 to 17 years,Les deux sexes,
+2019,Manitoba,12 to 17 years,Les deux sexes,
 2015,Manitoba,12 to 17 years,Hommes,
 2016,Manitoba,12 to 17 years,Hommes,
 2017,Manitoba,12 to 17 years,Hommes,
@@ -659,11 +659,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Manitoba,12 to 17 years,Femmes,
 2018,Manitoba,12 to 17 years,Femmes,
 2019,Manitoba,12 to 17 years,Femmes,
-2015,Manitoba,18 to 34 years,Both sexes,19.9
-2016,Manitoba,18 to 34 years,Both sexes,20.1
-2017,Manitoba,18 to 34 years,Both sexes,20.9
-2018,Manitoba,18 to 34 years,Both sexes,22.8
-2019,Manitoba,18 to 34 years,Both sexes,15.0
+2015,Manitoba,18 to 34 years,Les deux sexes,19.9
+2016,Manitoba,18 to 34 years,Les deux sexes,20.1
+2017,Manitoba,18 to 34 years,Les deux sexes,20.9
+2018,Manitoba,18 to 34 years,Les deux sexes,22.8
+2019,Manitoba,18 to 34 years,Les deux sexes,15.0
 2015,Manitoba,18 to 34 years,Hommes,23.3
 2016,Manitoba,18 to 34 years,Hommes,21.7
 2017,Manitoba,18 to 34 years,Hommes,23.5
@@ -674,11 +674,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Manitoba,18 to 34 years,Femmes,18.2
 2018,Manitoba,18 to 34 years,Femmes,20.2
 2019,Manitoba,18 to 34 years,Femmes,8.3
-2015,Manitoba,35 to 49 years,Both sexes,23.4
-2016,Manitoba,35 to 49 years,Both sexes,23.8
-2017,Manitoba,35 to 49 years,Both sexes,21.2
-2018,Manitoba,35 to 49 years,Both sexes,19.6
-2019,Manitoba,35 to 49 years,Both sexes,17.9
+2015,Manitoba,35 to 49 years,Les deux sexes,23.4
+2016,Manitoba,35 to 49 years,Les deux sexes,23.8
+2017,Manitoba,35 to 49 years,Les deux sexes,21.2
+2018,Manitoba,35 to 49 years,Les deux sexes,19.6
+2019,Manitoba,35 to 49 years,Les deux sexes,17.9
 2015,Manitoba,35 to 49 years,Hommes,25.1
 2016,Manitoba,35 to 49 years,Hommes,26.3
 2017,Manitoba,35 to 49 years,Hommes,24.5
@@ -689,11 +689,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Manitoba,35 to 49 years,Femmes,17.9
 2018,Manitoba,35 to 49 years,Femmes,19.0
 2019,Manitoba,35 to 49 years,Femmes,13.5
-2015,Manitoba,50 to 64 years,Both sexes,27.8
-2016,Manitoba,50 to 64 years,Both sexes,21.2
-2017,Manitoba,50 to 64 years,Both sexes,14.5
-2018,Manitoba,50 to 64 years,Both sexes,19.9
-2019,Manitoba,50 to 64 years,Both sexes,20.0
+2015,Manitoba,50 to 64 years,Les deux sexes,27.8
+2016,Manitoba,50 to 64 years,Les deux sexes,21.2
+2017,Manitoba,50 to 64 years,Les deux sexes,14.5
+2018,Manitoba,50 to 64 years,Les deux sexes,19.9
+2019,Manitoba,50 to 64 years,Les deux sexes,20.0
 2015,Manitoba,50 to 64 years,Hommes,30.3
 2016,Manitoba,50 to 64 years,Hommes,25.0
 2017,Manitoba,50 to 64 years,Hommes,13.2
@@ -704,11 +704,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Manitoba,50 to 64 years,Femmes,16.0
 2018,Manitoba,50 to 64 years,Femmes,19.5
 2019,Manitoba,50 to 64 years,Femmes,18.7
-2015,Manitoba,65 ans et plus,Both sexes,9.1
-2016,Manitoba,65 ans et plus,Both sexes,10.1
-2017,Manitoba,65 ans et plus,Both sexes,9.3
-2018,Manitoba,65 ans et plus,Both sexes,10.7
-2019,Manitoba,65 ans et plus,Both sexes,9.9
+2015,Manitoba,65 ans et plus,Les deux sexes,9.1
+2016,Manitoba,65 ans et plus,Les deux sexes,10.1
+2017,Manitoba,65 ans et plus,Les deux sexes,9.3
+2018,Manitoba,65 ans et plus,Les deux sexes,10.7
+2019,Manitoba,65 ans et plus,Les deux sexes,9.9
 2015,Manitoba,65 ans et plus,Hommes,11.8
 2016,Manitoba,65 ans et plus,Hommes,9.5
 2017,Manitoba,65 ans et plus,Hommes,7.7
@@ -719,11 +719,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Manitoba,65 ans et plus,Femmes,10.7
 2018,Manitoba,65 ans et plus,Femmes,12.2
 2019,Manitoba,65 ans et plus,Femmes,8.9
-2015,Saskatchewan,Total - 12 years and over,Both sexes,21.8
-2016,Saskatchewan,Total - 12 years and over,Both sexes,18.1
-2017,Saskatchewan,Total - 12 years and over,Both sexes,20.1
-2018,Saskatchewan,Total - 12 years and over,Both sexes,20.1
-2019,Saskatchewan,Total - 12 years and over,Both sexes,16.7
+2015,Saskatchewan,Total - 12 years and over,Les deux sexes,21.8
+2016,Saskatchewan,Total - 12 years and over,Les deux sexes,18.1
+2017,Saskatchewan,Total - 12 years and over,Les deux sexes,20.1
+2018,Saskatchewan,Total - 12 years and over,Les deux sexes,20.1
+2019,Saskatchewan,Total - 12 years and over,Les deux sexes,16.7
 2015,Saskatchewan,Total - 12 years and over,Hommes,23.1
 2016,Saskatchewan,Total - 12 years and over,Hommes,22.1
 2017,Saskatchewan,Total - 12 years and over,Hommes,23.5
@@ -734,11 +734,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Saskatchewan,Total - 12 years and over,Femmes,16.7
 2018,Saskatchewan,Total - 12 years and over,Femmes,19.1
 2019,Saskatchewan,Total - 12 years and over,Femmes,15.9
-2015,Saskatchewan,12 to 17 years,Both sexes,
-2016,Saskatchewan,12 to 17 years,Both sexes,9.3
-2017,Saskatchewan,12 to 17 years,Both sexes,
-2018,Saskatchewan,12 to 17 years,Both sexes,
-2019,Saskatchewan,12 to 17 years,Both sexes,
+2015,Saskatchewan,12 to 17 years,Les deux sexes,
+2016,Saskatchewan,12 to 17 years,Les deux sexes,9.3
+2017,Saskatchewan,12 to 17 years,Les deux sexes,
+2018,Saskatchewan,12 to 17 years,Les deux sexes,
+2019,Saskatchewan,12 to 17 years,Les deux sexes,
 2015,Saskatchewan,12 to 17 years,Hommes,
 2016,Saskatchewan,12 to 17 years,Hommes,
 2017,Saskatchewan,12 to 17 years,Hommes,
@@ -749,11 +749,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Saskatchewan,12 to 17 years,Femmes,
 2018,Saskatchewan,12 to 17 years,Femmes,
 2019,Saskatchewan,12 to 17 years,Femmes,
-2015,Saskatchewan,18 to 34 years,Both sexes,24.0
-2016,Saskatchewan,18 to 34 years,Both sexes,19.9
-2017,Saskatchewan,18 to 34 years,Both sexes,25.0
-2018,Saskatchewan,18 to 34 years,Both sexes,22.4
-2019,Saskatchewan,18 to 34 years,Both sexes,23.9
+2015,Saskatchewan,18 to 34 years,Les deux sexes,24.0
+2016,Saskatchewan,18 to 34 years,Les deux sexes,19.9
+2017,Saskatchewan,18 to 34 years,Les deux sexes,25.0
+2018,Saskatchewan,18 to 34 years,Les deux sexes,22.4
+2019,Saskatchewan,18 to 34 years,Les deux sexes,23.9
 2015,Saskatchewan,18 to 34 years,Hommes,26.3
 2016,Saskatchewan,18 to 34 years,Hommes,22.2
 2017,Saskatchewan,18 to 34 years,Hommes,29.8
@@ -764,11 +764,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Saskatchewan,18 to 34 years,Femmes,19.9
 2018,Saskatchewan,18 to 34 years,Femmes,19.9
 2019,Saskatchewan,18 to 34 years,Femmes,22.9
-2015,Saskatchewan,35 to 49 years,Both sexes,27.6
-2016,Saskatchewan,35 to 49 years,Both sexes,19.4
-2017,Saskatchewan,35 to 49 years,Both sexes,21.9
-2018,Saskatchewan,35 to 49 years,Both sexes,24.8
-2019,Saskatchewan,35 to 49 years,Both sexes,17.5
+2015,Saskatchewan,35 to 49 years,Les deux sexes,27.6
+2016,Saskatchewan,35 to 49 years,Les deux sexes,19.4
+2017,Saskatchewan,35 to 49 years,Les deux sexes,21.9
+2018,Saskatchewan,35 to 49 years,Les deux sexes,24.8
+2019,Saskatchewan,35 to 49 years,Les deux sexes,17.5
 2015,Saskatchewan,35 to 49 years,Hommes,30.9
 2016,Saskatchewan,35 to 49 years,Hommes,22.6
 2017,Saskatchewan,35 to 49 years,Hommes,24.8
@@ -779,11 +779,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Saskatchewan,35 to 49 years,Femmes,18.9
 2018,Saskatchewan,35 to 49 years,Femmes,28.9
 2019,Saskatchewan,35 to 49 years,Femmes,18.8
-2015,Saskatchewan,50 to 64 years,Both sexes,25.1
-2016,Saskatchewan,50 to 64 years,Both sexes,21.3
-2017,Saskatchewan,50 to 64 years,Both sexes,23.4
-2018,Saskatchewan,50 to 64 years,Both sexes,23.1
-2019,Saskatchewan,50 to 64 years,Both sexes,17.6
+2015,Saskatchewan,50 to 64 years,Les deux sexes,25.1
+2016,Saskatchewan,50 to 64 years,Les deux sexes,21.3
+2017,Saskatchewan,50 to 64 years,Les deux sexes,23.4
+2018,Saskatchewan,50 to 64 years,Les deux sexes,23.1
+2019,Saskatchewan,50 to 64 years,Les deux sexes,17.6
 2015,Saskatchewan,50 to 64 years,Hommes,26.5
 2016,Saskatchewan,50 to 64 years,Hommes,31.7
 2017,Saskatchewan,50 to 64 years,Hommes,26.8
@@ -794,11 +794,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Saskatchewan,50 to 64 years,Femmes,19.8
 2018,Saskatchewan,50 to 64 years,Femmes,19.8
 2019,Saskatchewan,50 to 64 years,Femmes,13.0
-2015,Saskatchewan,65 ans et plus,Both sexes,14.0
-2016,Saskatchewan,65 ans et plus,Both sexes,13.4
-2017,Saskatchewan,65 ans et plus,Both sexes,12.2
-2018,Saskatchewan,65 ans et plus,Both sexes,14.8
-2019,Saskatchewan,65 ans et plus,Both sexes,9.8
+2015,Saskatchewan,65 ans et plus,Les deux sexes,14.0
+2016,Saskatchewan,65 ans et plus,Les deux sexes,13.4
+2017,Saskatchewan,65 ans et plus,Les deux sexes,12.2
+2018,Saskatchewan,65 ans et plus,Les deux sexes,14.8
+2019,Saskatchewan,65 ans et plus,Les deux sexes,9.8
 2015,Saskatchewan,65 ans et plus,Hommes,11.6
 2016,Saskatchewan,65 ans et plus,Hommes,12.8
 2017,Saskatchewan,65 ans et plus,Hommes,15.5
@@ -809,11 +809,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Saskatchewan,65 ans et plus,Femmes,9.4
 2018,Saskatchewan,65 ans et plus,Femmes,12.9
 2019,Saskatchewan,65 ans et plus,Femmes,10.8
-2015,Alberta,Total - 12 years and over,Both sexes,18.4
-2016,Alberta,Total - 12 years and over,Both sexes,18.3
-2017,Alberta,Total - 12 years and over,Both sexes,16.6
-2018,Alberta,Total - 12 years and over,Both sexes,16.2
-2019,Alberta,Total - 12 years and over,Both sexes,15.5
+2015,Alberta,Total - 12 years and over,Les deux sexes,18.4
+2016,Alberta,Total - 12 years and over,Les deux sexes,18.3
+2017,Alberta,Total - 12 years and over,Les deux sexes,16.6
+2018,Alberta,Total - 12 years and over,Les deux sexes,16.2
+2019,Alberta,Total - 12 years and over,Les deux sexes,15.5
 2015,Alberta,Total - 12 years and over,Hommes,21.2
 2016,Alberta,Total - 12 years and over,Hommes,20.8
 2017,Alberta,Total - 12 years and over,Hommes,20.3
@@ -824,11 +824,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Alberta,Total - 12 years and over,Femmes,12.8
 2018,Alberta,Total - 12 years and over,Femmes,12.4
 2019,Alberta,Total - 12 years and over,Femmes,13.6
-2015,Alberta,12 to 17 years,Both sexes,3.0
-2016,Alberta,12 to 17 years,Both sexes,5.4
-2017,Alberta,12 to 17 years,Both sexes,3.6
-2018,Alberta,12 to 17 years,Both sexes,2.5
-2019,Alberta,12 to 17 years,Both sexes,
+2015,Alberta,12 to 17 years,Les deux sexes,3.0
+2016,Alberta,12 to 17 years,Les deux sexes,5.4
+2017,Alberta,12 to 17 years,Les deux sexes,3.6
+2018,Alberta,12 to 17 years,Les deux sexes,2.5
+2019,Alberta,12 to 17 years,Les deux sexes,
 2015,Alberta,12 to 17 years,Hommes,
 2016,Alberta,12 to 17 years,Hommes,6.1
 2017,Alberta,12 to 17 years,Hommes,
@@ -839,11 +839,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Alberta,12 to 17 years,Femmes,
 2018,Alberta,12 to 17 years,Femmes,
 2019,Alberta,12 to 17 years,Femmes,
-2015,Alberta,18 to 34 years,Both sexes,20.5
-2016,Alberta,18 to 34 years,Both sexes,23.4
-2017,Alberta,18 to 34 years,Both sexes,20.6
-2018,Alberta,18 to 34 years,Both sexes,19.7
-2019,Alberta,18 to 34 years,Both sexes,18.7
+2015,Alberta,18 to 34 years,Les deux sexes,20.5
+2016,Alberta,18 to 34 years,Les deux sexes,23.4
+2017,Alberta,18 to 34 years,Les deux sexes,20.6
+2018,Alberta,18 to 34 years,Les deux sexes,19.7
+2019,Alberta,18 to 34 years,Les deux sexes,18.7
 2015,Alberta,18 to 34 years,Hommes,23.3
 2016,Alberta,18 to 34 years,Hommes,28.6
 2017,Alberta,18 to 34 years,Hommes,25.2
@@ -854,11 +854,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Alberta,18 to 34 years,Femmes,15.7
 2018,Alberta,18 to 34 years,Femmes,14.9
 2019,Alberta,18 to 34 years,Femmes,15.3
-2015,Alberta,35 to 49 years,Both sexes,21.7
-2016,Alberta,35 to 49 years,Both sexes,16.6
-2017,Alberta,35 to 49 years,Both sexes,17.7
-2018,Alberta,35 to 49 years,Both sexes,18.4
-2019,Alberta,35 to 49 years,Both sexes,16.6
+2015,Alberta,35 to 49 years,Les deux sexes,21.7
+2016,Alberta,35 to 49 years,Les deux sexes,16.6
+2017,Alberta,35 to 49 years,Les deux sexes,17.7
+2018,Alberta,35 to 49 years,Les deux sexes,18.4
+2019,Alberta,35 to 49 years,Les deux sexes,16.6
 2015,Alberta,35 to 49 years,Hommes,25.9
 2016,Alberta,35 to 49 years,Hommes,20.2
 2017,Alberta,35 to 49 years,Hommes,22.1
@@ -869,11 +869,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Alberta,35 to 49 years,Femmes,13.0
 2018,Alberta,35 to 49 years,Femmes,13.3
 2019,Alberta,35 to 49 years,Femmes,14.9
-2015,Alberta,50 to 64 years,Both sexes,21.2
-2016,Alberta,50 to 64 years,Both sexes,22.2
-2017,Alberta,50 to 64 years,Both sexes,18.5
-2018,Alberta,50 to 64 years,Both sexes,19.0
-2019,Alberta,50 to 64 years,Both sexes,19.5
+2015,Alberta,50 to 64 years,Les deux sexes,21.2
+2016,Alberta,50 to 64 years,Les deux sexes,22.2
+2017,Alberta,50 to 64 years,Les deux sexes,18.5
+2018,Alberta,50 to 64 years,Les deux sexes,19.0
+2019,Alberta,50 to 64 years,Les deux sexes,19.5
 2015,Alberta,50 to 64 years,Hommes,25.3
 2016,Alberta,50 to 64 years,Hommes,20.8
 2017,Alberta,50 to 64 years,Hommes,24.1
@@ -884,11 +884,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Alberta,50 to 64 years,Femmes,12.7
 2018,Alberta,50 to 64 years,Femmes,15.1
 2019,Alberta,50 to 64 years,Femmes,17.5
-2015,Alberta,65 ans et plus,Both sexes,11.3
-2016,Alberta,65 ans et plus,Both sexes,10.7
-2017,Alberta,65 ans et plus,Both sexes,9.9
-2018,Alberta,65 ans et plus,Both sexes,8.2
-2019,Alberta,65 ans et plus,Both sexes,9.7
+2015,Alberta,65 ans et plus,Les deux sexes,11.3
+2016,Alberta,65 ans et plus,Les deux sexes,10.7
+2017,Alberta,65 ans et plus,Les deux sexes,9.9
+2018,Alberta,65 ans et plus,Les deux sexes,8.2
+2019,Alberta,65 ans et plus,Les deux sexes,9.7
 2015,Alberta,65 ans et plus,Hommes,9.5
 2016,Alberta,65 ans et plus,Hommes,12.1
 2017,Alberta,65 ans et plus,Hommes,8.9
@@ -899,11 +899,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Alberta,65 ans et plus,Femmes,10.8
 2018,Alberta,65 ans et plus,Femmes,6.8
 2019,Alberta,65 ans et plus,Femmes,9.5
-2015,Colombie-Britannique,Total - 12 years and over,Both sexes,13.8
-2016,Colombie-Britannique,Total - 12 years and over,Both sexes,14.5
-2017,Colombie-Britannique,Total - 12 years and over,Both sexes,13.2
-2018,Colombie-Britannique,Total - 12 years and over,Both sexes,12.0
-2019,Colombie-Britannique,Total - 12 years and over,Both sexes,11.1
+2015,Colombie-Britannique,Total - 12 years and over,Les deux sexes,13.8
+2016,Colombie-Britannique,Total - 12 years and over,Les deux sexes,14.5
+2017,Colombie-Britannique,Total - 12 years and over,Les deux sexes,13.2
+2018,Colombie-Britannique,Total - 12 years and over,Les deux sexes,12.0
+2019,Colombie-Britannique,Total - 12 years and over,Les deux sexes,11.1
 2015,Colombie-Britannique,Total - 12 years and over,Hommes,16.0
 2016,Colombie-Britannique,Total - 12 years and over,Hommes,18.2
 2017,Colombie-Britannique,Total - 12 years and over,Hommes,17.1
@@ -914,11 +914,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Colombie-Britannique,Total - 12 years and over,Femmes,9.3
 2018,Colombie-Britannique,Total - 12 years and over,Femmes,10.3
 2019,Colombie-Britannique,Total - 12 years and over,Femmes,8.9
-2015,Colombie-Britannique,12 to 17 years,Both sexes,1.6
-2016,Colombie-Britannique,12 to 17 years,Both sexes,2.2
-2017,Colombie-Britannique,12 to 17 years,Both sexes,1.9
-2018,Colombie-Britannique,12 to 17 years,Both sexes,1.6
-2019,Colombie-Britannique,12 to 17 years,Both sexes,3.1
+2015,Colombie-Britannique,12 to 17 years,Les deux sexes,1.6
+2016,Colombie-Britannique,12 to 17 years,Les deux sexes,2.2
+2017,Colombie-Britannique,12 to 17 years,Les deux sexes,1.9
+2018,Colombie-Britannique,12 to 17 years,Les deux sexes,1.6
+2019,Colombie-Britannique,12 to 17 years,Les deux sexes,3.1
 2015,Colombie-Britannique,12 to 17 years,Hommes,
 2016,Colombie-Britannique,12 to 17 years,Hommes,
 2017,Colombie-Britannique,12 to 17 years,Hommes,
@@ -929,11 +929,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Colombie-Britannique,12 to 17 years,Femmes,
 2018,Colombie-Britannique,12 to 17 years,Femmes,
 2019,Colombie-Britannique,12 to 17 years,Femmes,
-2015,Colombie-Britannique,18 to 34 years,Both sexes,19.4
-2016,Colombie-Britannique,18 to 34 years,Both sexes,19.5
-2017,Colombie-Britannique,18 to 34 years,Both sexes,16.2
-2018,Colombie-Britannique,18 to 34 years,Both sexes,15.8
-2019,Colombie-Britannique,18 to 34 years,Both sexes,11.5
+2015,Colombie-Britannique,18 to 34 years,Les deux sexes,19.4
+2016,Colombie-Britannique,18 to 34 years,Les deux sexes,19.5
+2017,Colombie-Britannique,18 to 34 years,Les deux sexes,16.2
+2018,Colombie-Britannique,18 to 34 years,Les deux sexes,15.8
+2019,Colombie-Britannique,18 to 34 years,Les deux sexes,11.5
 2015,Colombie-Britannique,18 to 34 years,Hommes,22.9
 2016,Colombie-Britannique,18 to 34 years,Hommes,25.9
 2017,Colombie-Britannique,18 to 34 years,Hommes,21.3
@@ -944,11 +944,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Colombie-Britannique,18 to 34 years,Femmes,10.9
 2018,Colombie-Britannique,18 to 34 years,Femmes,12.4
 2019,Colombie-Britannique,18 to 34 years,Femmes,8.1
-2015,Colombie-Britannique,35 to 49 years,Both sexes,13.4
-2016,Colombie-Britannique,35 to 49 years,Both sexes,16.7
-2017,Colombie-Britannique,35 to 49 years,Both sexes,14.1
-2018,Colombie-Britannique,35 to 49 years,Both sexes,14.0
-2019,Colombie-Britannique,35 to 49 years,Both sexes,14.6
+2015,Colombie-Britannique,35 to 49 years,Les deux sexes,13.4
+2016,Colombie-Britannique,35 to 49 years,Les deux sexes,16.7
+2017,Colombie-Britannique,35 to 49 years,Les deux sexes,14.1
+2018,Colombie-Britannique,35 to 49 years,Les deux sexes,14.0
+2019,Colombie-Britannique,35 to 49 years,Les deux sexes,14.6
 2015,Colombie-Britannique,35 to 49 years,Hommes,15.5
 2016,Colombie-Britannique,35 to 49 years,Hommes,19.3
 2017,Colombie-Britannique,35 to 49 years,Hommes,18.4
@@ -959,11 +959,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Colombie-Britannique,35 to 49 years,Femmes,9.9
 2018,Colombie-Britannique,35 to 49 years,Femmes,10.7
 2019,Colombie-Britannique,35 to 49 years,Femmes,11.6
-2015,Colombie-Britannique,50 to 64 years,Both sexes,17.1
-2016,Colombie-Britannique,50 to 64 years,Both sexes,14.9
-2017,Colombie-Britannique,50 to 64 years,Both sexes,16.5
-2018,Colombie-Britannique,50 to 64 years,Both sexes,12.8
-2019,Colombie-Britannique,50 to 64 years,Both sexes,13.6
+2015,Colombie-Britannique,50 to 64 years,Les deux sexes,17.1
+2016,Colombie-Britannique,50 to 64 years,Les deux sexes,14.9
+2017,Colombie-Britannique,50 to 64 years,Les deux sexes,16.5
+2018,Colombie-Britannique,50 to 64 years,Les deux sexes,12.8
+2019,Colombie-Britannique,50 to 64 years,Les deux sexes,13.6
 2015,Colombie-Britannique,50 to 64 years,Hommes,20.0
 2016,Colombie-Britannique,50 to 64 years,Hommes,18.7
 2017,Colombie-Britannique,50 to 64 years,Hommes,22.1
@@ -974,11 +974,11 @@ Year,Géographie,Age group,Sexe,Value
 2017,Colombie-Britannique,50 to 64 years,Femmes,11.2
 2018,Colombie-Britannique,50 to 64 years,Femmes,12.6
 2019,Colombie-Britannique,50 to 64 years,Femmes,11.0
-2015,Colombie-Britannique,65 ans et plus,Both sexes,6.8
-2016,Colombie-Britannique,65 ans et plus,Both sexes,9.3
-2017,Colombie-Britannique,65 ans et plus,Both sexes,8.1
-2018,Colombie-Britannique,65 ans et plus,Both sexes,7.6
-2019,Colombie-Britannique,65 ans et plus,Both sexes,6.8
+2015,Colombie-Britannique,65 ans et plus,Les deux sexes,6.8
+2016,Colombie-Britannique,65 ans et plus,Les deux sexes,9.3
+2017,Colombie-Britannique,65 ans et plus,Les deux sexes,8.1
+2018,Colombie-Britannique,65 ans et plus,Les deux sexes,7.6
+2019,Colombie-Britannique,65 ans et plus,Les deux sexes,6.8
 2015,Colombie-Britannique,65 ans et plus,Hommes,7.2
 2016,Colombie-Britannique,65 ans et plus,Hommes,12.1
 2017,Colombie-Britannique,65 ans et plus,Hommes,9.5
