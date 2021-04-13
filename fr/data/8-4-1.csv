@@ -1,1 +1,1783 @@
-Year,Value
+Year,Géographie,Sexe,data.Age group,Value
+2015,Canada,Les deux sexes,15 ans et plus,0.26
+2016,Canada,Les deux sexes,15 ans et plus,0.25
+2017,Canada,Les deux sexes,15 ans et plus,0.24
+2018,Canada,Les deux sexes,15 ans et plus,0.22
+2019,Canada,Les deux sexes,15 ans et plus,0.2
+2020,Canada,Les deux sexes,15 ans et plus,0.23
+2015,Canada,Les deux sexes,15 à 24 ans,0.19
+2016,Canada,Les deux sexes,15 à 24 ans,0.18
+2017,Canada,Les deux sexes,15 à 24 ans,0.18
+2018,Canada,Les deux sexes,15 à 24 ans,0.16
+2019,Canada,Les deux sexes,15 à 24 ans,0.14
+2020,Canada,Les deux sexes,15 à 24 ans,0.17
+2015,Canada,Les deux sexes,25 ans et plus,0.3
+2016,Canada,Les deux sexes,25 ans et plus,0.29
+2017,Canada,Les deux sexes,25 ans et plus,0.28
+2018,Canada,Les deux sexes,25 ans et plus,0.25
+2019,Canada,Les deux sexes,25 ans et plus,0.22
+2020,Canada,Les deux sexes,25 ans et plus,0.26
+2015,Canada,Les deux sexes,25 à 44 ans,0.36
+2016,Canada,Les deux sexes,25 à 44 ans,0.34
+2017,Canada,Les deux sexes,25 à 44 ans,0.34
+2018,Canada,Les deux sexes,25 à 44 ans,0.31
+2019,Canada,Les deux sexes,25 à 44 ans,0.28
+2020,Canada,Les deux sexes,25 à 44 ans,0.31
+2015,Canada,Les deux sexes,45 ans et plus,0.25
+2016,Canada,Les deux sexes,45 ans et plus,0.25
+2017,Canada,Les deux sexes,45 ans et plus,0.23
+2018,Canada,Les deux sexes,45 ans et plus,0.21
+2019,Canada,Les deux sexes,45 ans et plus,0.19
+2020,Canada,Les deux sexes,45 ans et plus,0.23
+2015,Canada,Les deux sexes,25 à 54 ans,0.36
+2016,Canada,Les deux sexes,25 à 54 ans,0.35
+2017,Canada,Les deux sexes,25 à 54 ans,0.34
+2018,Canada,Les deux sexes,25 à 54 ans,0.31
+2019,Canada,Les deux sexes,25 à 54 ans,0.28
+2020,Canada,Les deux sexes,25 à 54 ans,0.31
+2015,Canada,Les deux sexes,55 ans et plus,0.19
+2016,Canada,Les deux sexes,55 ans et plus,0.18
+2017,Canada,Les deux sexes,55 ans et plus,0.17
+2018,Canada,Les deux sexes,55 ans et plus,0.15
+2019,Canada,Les deux sexes,55 ans et plus,0.14
+2020,Canada,Les deux sexes,55 ans et plus,0.18
+2015,Canada,Les deux sexes,55 à 64 ans,0.24
+2016,Canada,Les deux sexes,55 à 64 ans,0.24
+2017,Canada,Les deux sexes,55 à 64 ans,0.23
+2018,Canada,Les deux sexes,55 à 64 ans,0.2
+2019,Canada,Les deux sexes,55 à 64 ans,0.19
+2020,Canada,Les deux sexes,55 à 64 ans,0.24
+2015,Canada,Les deux sexes,65 ans et plus,0.09
+2016,Canada,Les deux sexes,65 ans et plus,0.08
+2017,Canada,Les deux sexes,65 ans et plus,
+2018,Canada,Les deux sexes,65 ans et plus,0.08
+2019,Canada,Les deux sexes,65 ans et plus,0.06
+2020,Canada,Les deux sexes,65 ans et plus,0.09
+2015,Canada,Hommes,15 ans et plus,0.28
+2016,Canada,Hommes,15 ans et plus,0.27
+2017,Canada,Hommes,15 ans et plus,0.26
+2018,Canada,Hommes,15 ans et plus,0.24
+2019,Canada,Hommes,15 ans et plus,0.21
+2020,Canada,Hommes,15 ans et plus,0.26
+2015,Canada,Hommes,15 à 24 ans,0.2
+2016,Canada,Hommes,15 à 24 ans,0.19
+2017,Canada,Hommes,15 à 24 ans,0.19
+2018,Canada,Hommes,15 à 24 ans,0.16
+2019,Canada,Hommes,15 à 24 ans,0.14
+2020,Canada,Hommes,15 à 24 ans,0.18
+2015,Canada,Hommes,25 ans et plus,0.34
+2016,Canada,Hommes,25 ans et plus,0.33
+2017,Canada,Hommes,25 ans et plus,0.31
+2018,Canada,Hommes,25 ans et plus,0.29
+2019,Canada,Hommes,25 ans et plus,0.26
+2020,Canada,Hommes,25 ans et plus,0.32
+2015,Canada,Hommes,25 à 44 ans,0.47
+2016,Canada,Hommes,25 à 44 ans,0.46
+2017,Canada,Hommes,25 à 44 ans,0.43
+2018,Canada,Hommes,25 à 44 ans,0.41
+2019,Canada,Hommes,25 à 44 ans,0.37
+2020,Canada,Hommes,25 à 44 ans,0.42
+2015,Canada,Hommes,45 ans et plus,0.27
+2016,Canada,Hommes,45 ans et plus,0.27
+2017,Canada,Hommes,45 ans et plus,0.24
+2018,Canada,Hommes,45 ans et plus,0.23
+2019,Canada,Hommes,45 ans et plus,0.2
+2020,Canada,Hommes,45 ans et plus,0.26
+2015,Canada,Hommes,25 à 54 ans,0.47
+2016,Canada,Hommes,25 à 54 ans,0.46
+2017,Canada,Hommes,25 à 54 ans,0.45
+2018,Canada,Hommes,25 à 54 ans,0.42
+2019,Canada,Hommes,25 à 54 ans,0.37
+2020,Canada,Hommes,25 à 54 ans,0.43
+2015,Canada,Hommes,55 ans et plus,0.19
+2016,Canada,Hommes,55 ans et plus,0.19
+2017,Canada,Hommes,55 ans et plus,0.16
+2018,Canada,Hommes,55 ans et plus,0.16
+2019,Canada,Hommes,55 ans et plus,0.16
+2020,Canada,Hommes,55 ans et plus,0.2
+2015,Canada,Hommes,55 à 64 ans,0.28
+2016,Canada,Hommes,55 à 64 ans,0.28
+2017,Canada,Hommes,55 à 64 ans,0.26
+2018,Canada,Hommes,55 à 64 ans,0.25
+2019,Canada,Hommes,55 à 64 ans,0.25
+2020,Canada,Hommes,55 à 64 ans,0.29
+2015,Canada,Hommes,65 ans et plus,
+2016,Canada,Hommes,65 ans et plus,
+2017,Canada,Hommes,65 ans et plus,
+2018,Canada,Hommes,65 ans et plus,
+2019,Canada,Hommes,65 ans et plus,
+2020,Canada,Hommes,65 ans et plus,
+2015,Canada,Femmes,15 ans et plus,0.25
+2016,Canada,Femmes,15 ans et plus,0.24
+2017,Canada,Femmes,15 ans et plus,0.23
+2018,Canada,Femmes,15 ans et plus,0.21
+2019,Canada,Femmes,15 ans et plus,0.18
+2020,Canada,Femmes,15 ans et plus,0.22
+2015,Canada,Femmes,15 à 24 ans,0.19
+2016,Canada,Femmes,15 à 24 ans,0.17
+2017,Canada,Femmes,15 à 24 ans,0.17
+2018,Canada,Femmes,15 à 24 ans,0.16
+2019,Canada,Femmes,15 à 24 ans,0.14
+2020,Canada,Femmes,15 à 24 ans,0.17
+2015,Canada,Femmes,25 ans et plus,0.29
+2016,Canada,Femmes,25 ans et plus,0.26
+2017,Canada,Femmes,25 ans et plus,0.26
+2018,Canada,Femmes,25 ans et plus,0.23
+2019,Canada,Femmes,25 ans et plus,0.2
+2020,Canada,Femmes,25 ans et plus,0.23
+2015,Canada,Femmes,25 à 44 ans,0.33
+2016,Canada,Femmes,25 à 44 ans,0.3
+2017,Canada,Femmes,25 à 44 ans,0.31
+2018,Canada,Femmes,25 à 44 ans,0.27
+2019,Canada,Femmes,25 à 44 ans,0.24
+2020,Canada,Femmes,25 à 44 ans,0.26
+2015,Canada,Femmes,45 ans et plus,0.25
+2016,Canada,Femmes,45 ans et plus,0.24
+2017,Canada,Femmes,45 ans et plus,0.22
+2018,Canada,Femmes,45 ans et plus,0.2
+2019,Canada,Femmes,45 ans et plus,0.18
+2020,Canada,Femmes,45 ans et plus,0.21
+2015,Canada,Femmes,25 à 54 ans,0.33
+2016,Canada,Femmes,25 à 54 ans,0.31
+2017,Canada,Femmes,25 à 54 ans,0.3
+2018,Canada,Femmes,25 à 54 ans,0.27
+2019,Canada,Femmes,25 à 54 ans,0.24
+2020,Canada,Femmes,25 à 54 ans,0.27
+2015,Canada,Femmes,55 ans et plus,0.18
+2016,Canada,Femmes,55 ans et plus,0.17
+2017,Canada,Femmes,55 ans et plus,0.17
+2018,Canada,Femmes,55 ans et plus,0.15
+2019,Canada,Femmes,55 ans et plus,0.13
+2020,Canada,Femmes,55 ans et plus,0.17
+2015,Canada,Femmes,55 à 64 ans,0.23
+2016,Canada,Femmes,55 à 64 ans,0.22
+2017,Canada,Femmes,55 à 64 ans,0.21
+2018,Canada,Femmes,55 à 64 ans,0.18
+2019,Canada,Femmes,55 à 64 ans,0.17
+2020,Canada,Femmes,55 à 64 ans,0.21
+2015,Canada,Femmes,65 ans et plus,
+2016,Canada,Femmes,65 ans et plus,
+2017,Canada,Femmes,65 ans et plus,
+2018,Canada,Femmes,65 ans et plus,
+2019,Canada,Femmes,65 ans et plus,
+2020,Canada,Femmes,65 ans et plus,
+2015,Terre-Neuve-et-Labrador,Les deux sexes,15 ans et plus,0.34
+2016,Terre-Neuve-et-Labrador,Les deux sexes,15 ans et plus,0.34
+2017,Terre-Neuve-et-Labrador,Les deux sexes,15 ans et plus,0.37
+2018,Terre-Neuve-et-Labrador,Les deux sexes,15 ans et plus,0.35
+2019,Terre-Neuve-et-Labrador,Les deux sexes,15 ans et plus,0.33
+2020,Terre-Neuve-et-Labrador,Les deux sexes,15 ans et plus,0.29
+2015,Terre-Neuve-et-Labrador,Les deux sexes,15 à 24 ans,
+2016,Terre-Neuve-et-Labrador,Les deux sexes,15 à 24 ans,
+2017,Terre-Neuve-et-Labrador,Les deux sexes,15 à 24 ans,
+2018,Terre-Neuve-et-Labrador,Les deux sexes,15 à 24 ans,
+2019,Terre-Neuve-et-Labrador,Les deux sexes,15 à 24 ans,
+2020,Terre-Neuve-et-Labrador,Les deux sexes,15 à 24 ans,0.25
+2015,Terre-Neuve-et-Labrador,Les deux sexes,25 ans et plus,0.43
+2016,Terre-Neuve-et-Labrador,Les deux sexes,25 ans et plus,0.4
+2017,Terre-Neuve-et-Labrador,Les deux sexes,25 ans et plus,0.47
+2018,Terre-Neuve-et-Labrador,Les deux sexes,25 ans et plus,0.41
+2019,Terre-Neuve-et-Labrador,Les deux sexes,25 ans et plus,0.38
+2020,Terre-Neuve-et-Labrador,Les deux sexes,25 ans et plus,0.31
+2015,Terre-Neuve-et-Labrador,Les deux sexes,25 à 44 ans,
+2016,Terre-Neuve-et-Labrador,Les deux sexes,25 à 44 ans,
+2017,Terre-Neuve-et-Labrador,Les deux sexes,25 à 44 ans,
+2018,Terre-Neuve-et-Labrador,Les deux sexes,25 à 44 ans,0.47
+2019,Terre-Neuve-et-Labrador,Les deux sexes,25 à 44 ans,
+2020,Terre-Neuve-et-Labrador,Les deux sexes,25 à 44 ans,
+2015,Terre-Neuve-et-Labrador,Les deux sexes,45 ans et plus,
+2016,Terre-Neuve-et-Labrador,Les deux sexes,45 ans et plus,0.36
+2017,Terre-Neuve-et-Labrador,Les deux sexes,45 ans et plus,0.43
+2018,Terre-Neuve-et-Labrador,Les deux sexes,45 ans et plus,
+2019,Terre-Neuve-et-Labrador,Les deux sexes,45 ans et plus,0.34
+2020,Terre-Neuve-et-Labrador,Les deux sexes,45 ans et plus,
+2015,Terre-Neuve-et-Labrador,Les deux sexes,25 à 54 ans,0.52
+2016,Terre-Neuve-et-Labrador,Les deux sexes,25 à 54 ans,0.47
+2017,Terre-Neuve-et-Labrador,Les deux sexes,25 à 54 ans,0.56
+2018,Terre-Neuve-et-Labrador,Les deux sexes,25 à 54 ans,0.48
+2019,Terre-Neuve-et-Labrador,Les deux sexes,25 à 54 ans,0.44
+2020,Terre-Neuve-et-Labrador,Les deux sexes,25 à 54 ans,0.34
+2015,Terre-Neuve-et-Labrador,Les deux sexes,55 ans et plus,
+2016,Terre-Neuve-et-Labrador,Les deux sexes,55 ans et plus,
+2017,Terre-Neuve-et-Labrador,Les deux sexes,55 ans et plus,
+2018,Terre-Neuve-et-Labrador,Les deux sexes,55 ans et plus,
+2019,Terre-Neuve-et-Labrador,Les deux sexes,55 ans et plus,
+2020,Terre-Neuve-et-Labrador,Les deux sexes,55 ans et plus,
+2015,Terre-Neuve-et-Labrador,Les deux sexes,55 à 64 ans,
+2016,Terre-Neuve-et-Labrador,Les deux sexes,55 à 64 ans,
+2017,Terre-Neuve-et-Labrador,Les deux sexes,55 à 64 ans,
+2018,Terre-Neuve-et-Labrador,Les deux sexes,55 à 64 ans,
+2019,Terre-Neuve-et-Labrador,Les deux sexes,55 à 64 ans,
+2020,Terre-Neuve-et-Labrador,Les deux sexes,55 à 64 ans,
+2015,Terre-Neuve-et-Labrador,Les deux sexes,65 ans et plus,
+2016,Terre-Neuve-et-Labrador,Les deux sexes,65 ans et plus,
+2017,Terre-Neuve-et-Labrador,Les deux sexes,65 ans et plus,
+2018,Terre-Neuve-et-Labrador,Les deux sexes,65 ans et plus,
+2019,Terre-Neuve-et-Labrador,Les deux sexes,65 ans et plus,
+2020,Terre-Neuve-et-Labrador,Les deux sexes,65 ans et plus,
+2015,Terre-Neuve-et-Labrador,Hommes,15 ans et plus,
+2016,Terre-Neuve-et-Labrador,Hommes,15 ans et plus,
+2017,Terre-Neuve-et-Labrador,Hommes,15 ans et plus,
+2018,Terre-Neuve-et-Labrador,Hommes,15 ans et plus,
+2019,Terre-Neuve-et-Labrador,Hommes,15 ans et plus,
+2020,Terre-Neuve-et-Labrador,Hommes,15 ans et plus,
+2015,Terre-Neuve-et-Labrador,Hommes,15 à 24 ans,
+2016,Terre-Neuve-et-Labrador,Hommes,15 à 24 ans,
+2017,Terre-Neuve-et-Labrador,Hommes,15 à 24 ans,
+2018,Terre-Neuve-et-Labrador,Hommes,15 à 24 ans,
+2019,Terre-Neuve-et-Labrador,Hommes,15 à 24 ans,
+2020,Terre-Neuve-et-Labrador,Hommes,15 à 24 ans,
+2015,Terre-Neuve-et-Labrador,Hommes,25 ans et plus,
+2016,Terre-Neuve-et-Labrador,Hommes,25 ans et plus,
+2017,Terre-Neuve-et-Labrador,Hommes,25 ans et plus,
+2018,Terre-Neuve-et-Labrador,Hommes,25 ans et plus,
+2019,Terre-Neuve-et-Labrador,Hommes,25 ans et plus,
+2020,Terre-Neuve-et-Labrador,Hommes,25 ans et plus,
+2015,Terre-Neuve-et-Labrador,Hommes,25 à 44 ans,
+2016,Terre-Neuve-et-Labrador,Hommes,25 à 44 ans,
+2017,Terre-Neuve-et-Labrador,Hommes,25 à 44 ans,
+2018,Terre-Neuve-et-Labrador,Hommes,25 à 44 ans,
+2019,Terre-Neuve-et-Labrador,Hommes,25 à 44 ans,
+2020,Terre-Neuve-et-Labrador,Hommes,25 à 44 ans,
+2015,Terre-Neuve-et-Labrador,Hommes,45 ans et plus,
+2016,Terre-Neuve-et-Labrador,Hommes,45 ans et plus,
+2017,Terre-Neuve-et-Labrador,Hommes,45 ans et plus,
+2018,Terre-Neuve-et-Labrador,Hommes,45 ans et plus,
+2019,Terre-Neuve-et-Labrador,Hommes,45 ans et plus,
+2020,Terre-Neuve-et-Labrador,Hommes,45 ans et plus,
+2015,Terre-Neuve-et-Labrador,Hommes,25 à 54 ans,
+2016,Terre-Neuve-et-Labrador,Hommes,25 à 54 ans,
+2017,Terre-Neuve-et-Labrador,Hommes,25 à 54 ans,
+2018,Terre-Neuve-et-Labrador,Hommes,25 à 54 ans,
+2019,Terre-Neuve-et-Labrador,Hommes,25 à 54 ans,
+2020,Terre-Neuve-et-Labrador,Hommes,25 à 54 ans,
+2015,Terre-Neuve-et-Labrador,Hommes,55 ans et plus,
+2016,Terre-Neuve-et-Labrador,Hommes,55 ans et plus,
+2017,Terre-Neuve-et-Labrador,Hommes,55 ans et plus,
+2018,Terre-Neuve-et-Labrador,Hommes,55 ans et plus,
+2019,Terre-Neuve-et-Labrador,Hommes,55 ans et plus,
+2020,Terre-Neuve-et-Labrador,Hommes,55 ans et plus,
+2015,Terre-Neuve-et-Labrador,Hommes,55 à 64 ans,
+2016,Terre-Neuve-et-Labrador,Hommes,55 à 64 ans,
+2017,Terre-Neuve-et-Labrador,Hommes,55 à 64 ans,
+2018,Terre-Neuve-et-Labrador,Hommes,55 à 64 ans,
+2019,Terre-Neuve-et-Labrador,Hommes,55 à 64 ans,
+2020,Terre-Neuve-et-Labrador,Hommes,55 à 64 ans,
+2015,Terre-Neuve-et-Labrador,Hommes,65 ans et plus,
+2016,Terre-Neuve-et-Labrador,Hommes,65 ans et plus,
+2017,Terre-Neuve-et-Labrador,Hommes,65 ans et plus,
+2018,Terre-Neuve-et-Labrador,Hommes,65 ans et plus,
+2019,Terre-Neuve-et-Labrador,Hommes,65 ans et plus,
+2020,Terre-Neuve-et-Labrador,Hommes,65 ans et plus,
+2015,Terre-Neuve-et-Labrador,Femmes,15 ans et plus,0.37
+2016,Terre-Neuve-et-Labrador,Femmes,15 ans et plus,0.36
+2017,Terre-Neuve-et-Labrador,Femmes,15 ans et plus,0.37
+2018,Terre-Neuve-et-Labrador,Femmes,15 ans et plus,0.35
+2019,Terre-Neuve-et-Labrador,Femmes,15 ans et plus,0.34
+2020,Terre-Neuve-et-Labrador,Femmes,15 ans et plus,0.29
+2015,Terre-Neuve-et-Labrador,Femmes,15 à 24 ans,
+2016,Terre-Neuve-et-Labrador,Femmes,15 à 24 ans,
+2017,Terre-Neuve-et-Labrador,Femmes,15 à 24 ans,
+2018,Terre-Neuve-et-Labrador,Femmes,15 à 24 ans,
+2019,Terre-Neuve-et-Labrador,Femmes,15 à 24 ans,
+2020,Terre-Neuve-et-Labrador,Femmes,15 à 24 ans,
+2015,Terre-Neuve-et-Labrador,Femmes,25 ans et plus,0.44
+2016,Terre-Neuve-et-Labrador,Femmes,25 ans et plus,0.42
+2017,Terre-Neuve-et-Labrador,Femmes,25 ans et plus,0.46
+2018,Terre-Neuve-et-Labrador,Femmes,25 ans et plus,0.41
+2019,Terre-Neuve-et-Labrador,Femmes,25 ans et plus,0.38
+2020,Terre-Neuve-et-Labrador,Femmes,25 ans et plus,0.31
+2015,Terre-Neuve-et-Labrador,Femmes,25 à 44 ans,
+2016,Terre-Neuve-et-Labrador,Femmes,25 à 44 ans,
+2017,Terre-Neuve-et-Labrador,Femmes,25 à 44 ans,
+2018,Terre-Neuve-et-Labrador,Femmes,25 à 44 ans,
+2019,Terre-Neuve-et-Labrador,Femmes,25 à 44 ans,
+2020,Terre-Neuve-et-Labrador,Femmes,25 à 44 ans,
+2015,Terre-Neuve-et-Labrador,Femmes,45 ans et plus,
+2016,Terre-Neuve-et-Labrador,Femmes,45 ans et plus,
+2017,Terre-Neuve-et-Labrador,Femmes,45 ans et plus,
+2018,Terre-Neuve-et-Labrador,Femmes,45 ans et plus,
+2019,Terre-Neuve-et-Labrador,Femmes,45 ans et plus,
+2020,Terre-Neuve-et-Labrador,Femmes,45 ans et plus,
+2015,Terre-Neuve-et-Labrador,Femmes,25 à 54 ans,0.51
+2016,Terre-Neuve-et-Labrador,Femmes,25 à 54 ans,0.46
+2017,Terre-Neuve-et-Labrador,Femmes,25 à 54 ans,0.52
+2018,Terre-Neuve-et-Labrador,Femmes,25 à 54 ans,0.47
+2019,Terre-Neuve-et-Labrador,Femmes,25 à 54 ans,
+2020,Terre-Neuve-et-Labrador,Femmes,25 à 54 ans,
+2015,Terre-Neuve-et-Labrador,Femmes,55 ans et plus,
+2016,Terre-Neuve-et-Labrador,Femmes,55 ans et plus,
+2017,Terre-Neuve-et-Labrador,Femmes,55 ans et plus,
+2018,Terre-Neuve-et-Labrador,Femmes,55 ans et plus,
+2019,Terre-Neuve-et-Labrador,Femmes,55 ans et plus,
+2020,Terre-Neuve-et-Labrador,Femmes,55 ans et plus,
+2015,Terre-Neuve-et-Labrador,Femmes,55 à 64 ans,
+2016,Terre-Neuve-et-Labrador,Femmes,55 à 64 ans,
+2017,Terre-Neuve-et-Labrador,Femmes,55 à 64 ans,
+2018,Terre-Neuve-et-Labrador,Femmes,55 à 64 ans,
+2019,Terre-Neuve-et-Labrador,Femmes,55 à 64 ans,
+2020,Terre-Neuve-et-Labrador,Femmes,55 à 64 ans,
+2015,Terre-Neuve-et-Labrador,Femmes,65 ans et plus,
+2016,Terre-Neuve-et-Labrador,Femmes,65 ans et plus,
+2017,Terre-Neuve-et-Labrador,Femmes,65 ans et plus,
+2018,Terre-Neuve-et-Labrador,Femmes,65 ans et plus,
+2019,Terre-Neuve-et-Labrador,Femmes,65 ans et plus,
+2020,Terre-Neuve-et-Labrador,Femmes,65 ans et plus,
+2015,Île-du-Prince-Édouard,Les deux sexes,15 ans et plus,0.32
+2016,Île-du-Prince-Édouard,Les deux sexes,15 ans et plus,0.28
+2017,Île-du-Prince-Édouard,Les deux sexes,15 ans et plus,0.26
+2018,Île-du-Prince-Édouard,Les deux sexes,15 ans et plus,0.26
+2019,Île-du-Prince-Édouard,Les deux sexes,15 ans et plus,0.24
+2020,Île-du-Prince-Édouard,Les deux sexes,15 ans et plus,0.26
+2015,Île-du-Prince-Édouard,Les deux sexes,15 à 24 ans,
+2016,Île-du-Prince-Édouard,Les deux sexes,15 à 24 ans,
+2017,Île-du-Prince-Édouard,Les deux sexes,15 à 24 ans,
+2018,Île-du-Prince-Édouard,Les deux sexes,15 à 24 ans,
+2019,Île-du-Prince-Édouard,Les deux sexes,15 à 24 ans,
+2020,Île-du-Prince-Édouard,Les deux sexes,15 à 24 ans,
+2015,Île-du-Prince-Édouard,Les deux sexes,25 ans et plus,0.39
+2016,Île-du-Prince-Édouard,Les deux sexes,25 ans et plus,
+2017,Île-du-Prince-Édouard,Les deux sexes,25 ans et plus,0.29
+2018,Île-du-Prince-Édouard,Les deux sexes,25 ans et plus,0.3
+2019,Île-du-Prince-Édouard,Les deux sexes,25 ans et plus,0.28
+2020,Île-du-Prince-Édouard,Les deux sexes,25 ans et plus,
+2015,Île-du-Prince-Édouard,Les deux sexes,25 à 44 ans,
+2016,Île-du-Prince-Édouard,Les deux sexes,25 à 44 ans,
+2017,Île-du-Prince-Édouard,Les deux sexes,25 à 44 ans,
+2018,Île-du-Prince-Édouard,Les deux sexes,25 à 44 ans,
+2019,Île-du-Prince-Édouard,Les deux sexes,25 à 44 ans,
+2020,Île-du-Prince-Édouard,Les deux sexes,25 à 44 ans,
+2015,Île-du-Prince-Édouard,Les deux sexes,45 ans et plus,
+2016,Île-du-Prince-Édouard,Les deux sexes,45 ans et plus,
+2017,Île-du-Prince-Édouard,Les deux sexes,45 ans et plus,
+2018,Île-du-Prince-Édouard,Les deux sexes,45 ans et plus,
+2019,Île-du-Prince-Édouard,Les deux sexes,45 ans et plus,
+2020,Île-du-Prince-Édouard,Les deux sexes,45 ans et plus,
+2015,Île-du-Prince-Édouard,Les deux sexes,25 à 54 ans,
+2016,Île-du-Prince-Édouard,Les deux sexes,25 à 54 ans,
+2017,Île-du-Prince-Édouard,Les deux sexes,25 à 54 ans,0.41
+2018,Île-du-Prince-Édouard,Les deux sexes,25 à 54 ans,0.38
+2019,Île-du-Prince-Édouard,Les deux sexes,25 à 54 ans,
+2020,Île-du-Prince-Édouard,Les deux sexes,25 à 54 ans,
+2015,Île-du-Prince-Édouard,Les deux sexes,55 ans et plus,
+2016,Île-du-Prince-Édouard,Les deux sexes,55 ans et plus,
+2017,Île-du-Prince-Édouard,Les deux sexes,55 ans et plus,
+2018,Île-du-Prince-Édouard,Les deux sexes,55 ans et plus,
+2019,Île-du-Prince-Édouard,Les deux sexes,55 ans et plus,
+2020,Île-du-Prince-Édouard,Les deux sexes,55 ans et plus,
+2015,Île-du-Prince-Édouard,Les deux sexes,55 à 64 ans,
+2016,Île-du-Prince-Édouard,Les deux sexes,55 à 64 ans,
+2017,Île-du-Prince-Édouard,Les deux sexes,55 à 64 ans,
+2018,Île-du-Prince-Édouard,Les deux sexes,55 à 64 ans,
+2019,Île-du-Prince-Édouard,Les deux sexes,55 à 64 ans,
+2020,Île-du-Prince-Édouard,Les deux sexes,55 à 64 ans,
+2015,Île-du-Prince-Édouard,Les deux sexes,65 ans et plus,
+2016,Île-du-Prince-Édouard,Les deux sexes,65 ans et plus,
+2017,Île-du-Prince-Édouard,Les deux sexes,65 ans et plus,
+2018,Île-du-Prince-Édouard,Les deux sexes,65 ans et plus,
+2019,Île-du-Prince-Édouard,Les deux sexes,65 ans et plus,
+2020,Île-du-Prince-Édouard,Les deux sexes,65 ans et plus,
+2015,Île-du-Prince-Édouard,Hommes,15 ans et plus,
+2016,Île-du-Prince-Édouard,Hommes,15 ans et plus,
+2017,Île-du-Prince-Édouard,Hommes,15 ans et plus,
+2018,Île-du-Prince-Édouard,Hommes,15 ans et plus,
+2019,Île-du-Prince-Édouard,Hommes,15 ans et plus,
+2020,Île-du-Prince-Édouard,Hommes,15 ans et plus,
+2015,Île-du-Prince-Édouard,Hommes,15 à 24 ans,
+2016,Île-du-Prince-Édouard,Hommes,15 à 24 ans,
+2017,Île-du-Prince-Édouard,Hommes,15 à 24 ans,
+2018,Île-du-Prince-Édouard,Hommes,15 à 24 ans,
+2019,Île-du-Prince-Édouard,Hommes,15 à 24 ans,
+2020,Île-du-Prince-Édouard,Hommes,15 à 24 ans,
+2015,Île-du-Prince-Édouard,Hommes,25 ans et plus,
+2016,Île-du-Prince-Édouard,Hommes,25 ans et plus,
+2017,Île-du-Prince-Édouard,Hommes,25 ans et plus,
+2018,Île-du-Prince-Édouard,Hommes,25 ans et plus,
+2019,Île-du-Prince-Édouard,Hommes,25 ans et plus,
+2020,Île-du-Prince-Édouard,Hommes,25 ans et plus,
+2015,Île-du-Prince-Édouard,Hommes,25 à 44 ans,
+2016,Île-du-Prince-Édouard,Hommes,25 à 44 ans,
+2017,Île-du-Prince-Édouard,Hommes,25 à 44 ans,
+2018,Île-du-Prince-Édouard,Hommes,25 à 44 ans,
+2019,Île-du-Prince-Édouard,Hommes,25 à 44 ans,
+2020,Île-du-Prince-Édouard,Hommes,25 à 44 ans,
+2015,Île-du-Prince-Édouard,Hommes,45 ans et plus,
+2016,Île-du-Prince-Édouard,Hommes,45 ans et plus,
+2017,Île-du-Prince-Édouard,Hommes,45 ans et plus,
+2018,Île-du-Prince-Édouard,Hommes,45 ans et plus,
+2019,Île-du-Prince-Édouard,Hommes,45 ans et plus,
+2020,Île-du-Prince-Édouard,Hommes,45 ans et plus,
+2015,Île-du-Prince-Édouard,Hommes,25 à 54 ans,
+2016,Île-du-Prince-Édouard,Hommes,25 à 54 ans,
+2017,Île-du-Prince-Édouard,Hommes,25 à 54 ans,
+2018,Île-du-Prince-Édouard,Hommes,25 à 54 ans,
+2019,Île-du-Prince-Édouard,Hommes,25 à 54 ans,
+2020,Île-du-Prince-Édouard,Hommes,25 à 54 ans,
+2015,Île-du-Prince-Édouard,Hommes,55 ans et plus,
+2016,Île-du-Prince-Édouard,Hommes,55 ans et plus,
+2017,Île-du-Prince-Édouard,Hommes,55 ans et plus,
+2018,Île-du-Prince-Édouard,Hommes,55 ans et plus,
+2019,Île-du-Prince-Édouard,Hommes,55 ans et plus,
+2020,Île-du-Prince-Édouard,Hommes,55 ans et plus,
+2015,Île-du-Prince-Édouard,Hommes,55 à 64 ans,
+2016,Île-du-Prince-Édouard,Hommes,55 à 64 ans,
+2017,Île-du-Prince-Édouard,Hommes,55 à 64 ans,
+2018,Île-du-Prince-Édouard,Hommes,55 à 64 ans,
+2019,Île-du-Prince-Édouard,Hommes,55 à 64 ans,
+2020,Île-du-Prince-Édouard,Hommes,55 à 64 ans,
+2015,Île-du-Prince-Édouard,Hommes,65 ans et plus,
+2016,Île-du-Prince-Édouard,Hommes,65 ans et plus,
+2017,Île-du-Prince-Édouard,Hommes,65 ans et plus,
+2018,Île-du-Prince-Édouard,Hommes,65 ans et plus,
+2019,Île-du-Prince-Édouard,Hommes,65 ans et plus,
+2020,Île-du-Prince-Édouard,Hommes,65 ans et plus,
+2015,Île-du-Prince-Édouard,Femmes,15 ans et plus,0.33
+2016,Île-du-Prince-Édouard,Femmes,15 ans et plus,
+2017,Île-du-Prince-Édouard,Femmes,15 ans et plus,0.26
+2018,Île-du-Prince-Édouard,Femmes,15 ans et plus,0.27
+2019,Île-du-Prince-Édouard,Femmes,15 ans et plus,0.26
+2020,Île-du-Prince-Édouard,Femmes,15 ans et plus,
+2015,Île-du-Prince-Édouard,Femmes,15 à 24 ans,
+2016,Île-du-Prince-Édouard,Femmes,15 à 24 ans,
+2017,Île-du-Prince-Édouard,Femmes,15 à 24 ans,
+2018,Île-du-Prince-Édouard,Femmes,15 à 24 ans,
+2019,Île-du-Prince-Édouard,Femmes,15 à 24 ans,
+2020,Île-du-Prince-Édouard,Femmes,15 à 24 ans,
+2015,Île-du-Prince-Édouard,Femmes,25 ans et plus,
+2016,Île-du-Prince-Édouard,Femmes,25 ans et plus,
+2017,Île-du-Prince-Édouard,Femmes,25 ans et plus,0.32
+2018,Île-du-Prince-Édouard,Femmes,25 ans et plus,0.31
+2019,Île-du-Prince-Édouard,Femmes,25 ans et plus,
+2020,Île-du-Prince-Édouard,Femmes,25 ans et plus,
+2015,Île-du-Prince-Édouard,Femmes,25 à 44 ans,
+2016,Île-du-Prince-Édouard,Femmes,25 à 44 ans,
+2017,Île-du-Prince-Édouard,Femmes,25 à 44 ans,
+2018,Île-du-Prince-Édouard,Femmes,25 à 44 ans,
+2019,Île-du-Prince-Édouard,Femmes,25 à 44 ans,
+2020,Île-du-Prince-Édouard,Femmes,25 à 44 ans,
+2015,Île-du-Prince-Édouard,Femmes,45 ans et plus,
+2016,Île-du-Prince-Édouard,Femmes,45 ans et plus,
+2017,Île-du-Prince-Édouard,Femmes,45 ans et plus,
+2018,Île-du-Prince-Édouard,Femmes,45 ans et plus,
+2019,Île-du-Prince-Édouard,Femmes,45 ans et plus,
+2020,Île-du-Prince-Édouard,Femmes,45 ans et plus,
+2015,Île-du-Prince-Édouard,Femmes,25 à 54 ans,
+2016,Île-du-Prince-Édouard,Femmes,25 à 54 ans,
+2017,Île-du-Prince-Édouard,Femmes,25 à 54 ans,
+2018,Île-du-Prince-Édouard,Femmes,25 à 54 ans,
+2019,Île-du-Prince-Édouard,Femmes,25 à 54 ans,
+2020,Île-du-Prince-Édouard,Femmes,25 à 54 ans,
+2015,Île-du-Prince-Édouard,Femmes,55 ans et plus,
+2016,Île-du-Prince-Édouard,Femmes,55 ans et plus,
+2017,Île-du-Prince-Édouard,Femmes,55 ans et plus,
+2018,Île-du-Prince-Édouard,Femmes,55 ans et plus,
+2019,Île-du-Prince-Édouard,Femmes,55 ans et plus,
+2020,Île-du-Prince-Édouard,Femmes,55 ans et plus,
+2015,Île-du-Prince-Édouard,Femmes,55 à 64 ans,
+2016,Île-du-Prince-Édouard,Femmes,55 à 64 ans,
+2017,Île-du-Prince-Édouard,Femmes,55 à 64 ans,
+2018,Île-du-Prince-Édouard,Femmes,55 à 64 ans,
+2019,Île-du-Prince-Édouard,Femmes,55 à 64 ans,
+2020,Île-du-Prince-Édouard,Femmes,55 à 64 ans,
+2015,Île-du-Prince-Édouard,Femmes,65 ans et plus,
+2016,Île-du-Prince-Édouard,Femmes,65 ans et plus,
+2017,Île-du-Prince-Édouard,Femmes,65 ans et plus,
+2018,Île-du-Prince-Édouard,Femmes,65 ans et plus,
+2019,Île-du-Prince-Édouard,Femmes,65 ans et plus,
+2020,Île-du-Prince-Édouard,Femmes,65 ans et plus,
+2015,Nouvelle-Écosse,Les deux sexes,15 ans et plus,0.31
+2016,Nouvelle-Écosse,Les deux sexes,15 ans et plus,0.28
+2017,Nouvelle-Écosse,Les deux sexes,15 ans et plus,0.26
+2018,Nouvelle-Écosse,Les deux sexes,15 ans et plus,0.25
+2019,Nouvelle-Écosse,Les deux sexes,15 ans et plus,0.22
+2020,Nouvelle-Écosse,Les deux sexes,15 ans et plus,0.26
+2015,Nouvelle-Écosse,Les deux sexes,15 à 24 ans,0.23
+2016,Nouvelle-Écosse,Les deux sexes,15 à 24 ans,0.25
+2017,Nouvelle-Écosse,Les deux sexes,15 à 24 ans,0.2
+2018,Nouvelle-Écosse,Les deux sexes,15 à 24 ans,0.22
+2019,Nouvelle-Écosse,Les deux sexes,15 à 24 ans,0.16
+2020,Nouvelle-Écosse,Les deux sexes,15 à 24 ans,0.21
+2015,Nouvelle-Écosse,Les deux sexes,25 ans et plus,0.34
+2016,Nouvelle-Écosse,Les deux sexes,25 ans et plus,0.29
+2017,Nouvelle-Écosse,Les deux sexes,25 ans et plus,0.29
+2018,Nouvelle-Écosse,Les deux sexes,25 ans et plus,0.27
+2019,Nouvelle-Écosse,Les deux sexes,25 ans et plus,0.26
+2020,Nouvelle-Écosse,Les deux sexes,25 ans et plus,0.28
+2015,Nouvelle-Écosse,Les deux sexes,25 à 44 ans,0.4
+2016,Nouvelle-Écosse,Les deux sexes,25 à 44 ans,0.35
+2017,Nouvelle-Écosse,Les deux sexes,25 à 44 ans,0.35
+2018,Nouvelle-Écosse,Les deux sexes,25 à 44 ans,0.32
+2019,Nouvelle-Écosse,Les deux sexes,25 à 44 ans,0.33
+2020,Nouvelle-Écosse,Les deux sexes,25 à 44 ans,0.31
+2015,Nouvelle-Écosse,Les deux sexes,45 ans et plus,0.31
+2016,Nouvelle-Écosse,Les deux sexes,45 ans et plus,0.25
+2017,Nouvelle-Écosse,Les deux sexes,45 ans et plus,0.25
+2018,Nouvelle-Écosse,Les deux sexes,45 ans et plus,0.24
+2019,Nouvelle-Écosse,Les deux sexes,45 ans et plus,0.22
+2020,Nouvelle-Écosse,Les deux sexes,45 ans et plus,0.25
+2015,Nouvelle-Écosse,Les deux sexes,25 à 54 ans,0.41
+2016,Nouvelle-Écosse,Les deux sexes,25 à 54 ans,0.36
+2017,Nouvelle-Écosse,Les deux sexes,25 à 54 ans,0.37
+2018,Nouvelle-Écosse,Les deux sexes,25 à 54 ans,0.34
+2019,Nouvelle-Écosse,Les deux sexes,25 à 54 ans,0.34
+2020,Nouvelle-Écosse,Les deux sexes,25 à 54 ans,0.33
+2015,Nouvelle-Écosse,Les deux sexes,55 ans et plus,
+2016,Nouvelle-Écosse,Les deux sexes,55 ans et plus,
+2017,Nouvelle-Écosse,Les deux sexes,55 ans et plus,
+2018,Nouvelle-Écosse,Les deux sexes,55 ans et plus,
+2019,Nouvelle-Écosse,Les deux sexes,55 ans et plus,
+2020,Nouvelle-Écosse,Les deux sexes,55 ans et plus,
+2015,Nouvelle-Écosse,Les deux sexes,55 à 64 ans,
+2016,Nouvelle-Écosse,Les deux sexes,55 à 64 ans,
+2017,Nouvelle-Écosse,Les deux sexes,55 à 64 ans,
+2018,Nouvelle-Écosse,Les deux sexes,55 à 64 ans,
+2019,Nouvelle-Écosse,Les deux sexes,55 à 64 ans,
+2020,Nouvelle-Écosse,Les deux sexes,55 à 64 ans,
+2015,Nouvelle-Écosse,Les deux sexes,65 ans et plus,
+2016,Nouvelle-Écosse,Les deux sexes,65 ans et plus,
+2017,Nouvelle-Écosse,Les deux sexes,65 ans et plus,
+2018,Nouvelle-Écosse,Les deux sexes,65 ans et plus,
+2019,Nouvelle-Écosse,Les deux sexes,65 ans et plus,
+2020,Nouvelle-Écosse,Les deux sexes,65 ans et plus,
+2015,Nouvelle-Écosse,Hommes,15 ans et plus,0.31
+2016,Nouvelle-Écosse,Hommes,15 ans et plus,0.31
+2017,Nouvelle-Écosse,Hommes,15 ans et plus,0.28
+2018,Nouvelle-Écosse,Hommes,15 ans et plus,0.25
+2019,Nouvelle-Écosse,Hommes,15 ans et plus,0.22
+2020,Nouvelle-Écosse,Hommes,15 ans et plus,0.27
+2015,Nouvelle-Écosse,Hommes,15 à 24 ans,
+2016,Nouvelle-Écosse,Hommes,15 à 24 ans,
+2017,Nouvelle-Écosse,Hommes,15 à 24 ans,
+2018,Nouvelle-Écosse,Hommes,15 à 24 ans,
+2019,Nouvelle-Écosse,Hommes,15 à 24 ans,
+2020,Nouvelle-Écosse,Hommes,15 à 24 ans,
+2015,Nouvelle-Écosse,Hommes,25 ans et plus,
+2016,Nouvelle-Écosse,Hommes,25 ans et plus,0.34
+2017,Nouvelle-Écosse,Hommes,25 ans et plus,0.3
+2018,Nouvelle-Écosse,Hommes,25 ans et plus,
+2019,Nouvelle-Écosse,Hommes,25 ans et plus,
+2020,Nouvelle-Écosse,Hommes,25 ans et plus,0.29
+2015,Nouvelle-Écosse,Hommes,25 à 44 ans,
+2016,Nouvelle-Écosse,Hommes,25 à 44 ans,
+2017,Nouvelle-Écosse,Hommes,25 à 44 ans,
+2018,Nouvelle-Écosse,Hommes,25 à 44 ans,
+2019,Nouvelle-Écosse,Hommes,25 à 44 ans,
+2020,Nouvelle-Écosse,Hommes,25 à 44 ans,
+2015,Nouvelle-Écosse,Hommes,45 ans et plus,
+2016,Nouvelle-Écosse,Hommes,45 ans et plus,
+2017,Nouvelle-Écosse,Hommes,45 ans et plus,
+2018,Nouvelle-Écosse,Hommes,45 ans et plus,
+2019,Nouvelle-Écosse,Hommes,45 ans et plus,
+2020,Nouvelle-Écosse,Hommes,45 ans et plus,
+2015,Nouvelle-Écosse,Hommes,25 à 54 ans,
+2016,Nouvelle-Écosse,Hommes,25 à 54 ans,
+2017,Nouvelle-Écosse,Hommes,25 à 54 ans,
+2018,Nouvelle-Écosse,Hommes,25 à 54 ans,
+2019,Nouvelle-Écosse,Hommes,25 à 54 ans,
+2020,Nouvelle-Écosse,Hommes,25 à 54 ans,
+2015,Nouvelle-Écosse,Hommes,55 ans et plus,
+2016,Nouvelle-Écosse,Hommes,55 ans et plus,
+2017,Nouvelle-Écosse,Hommes,55 ans et plus,
+2018,Nouvelle-Écosse,Hommes,55 ans et plus,
+2019,Nouvelle-Écosse,Hommes,55 ans et plus,
+2020,Nouvelle-Écosse,Hommes,55 ans et plus,
+2015,Nouvelle-Écosse,Hommes,55 à 64 ans,
+2016,Nouvelle-Écosse,Hommes,55 à 64 ans,
+2017,Nouvelle-Écosse,Hommes,55 à 64 ans,
+2018,Nouvelle-Écosse,Hommes,55 à 64 ans,
+2019,Nouvelle-Écosse,Hommes,55 à 64 ans,
+2020,Nouvelle-Écosse,Hommes,55 à 64 ans,
+2015,Nouvelle-Écosse,Hommes,65 ans et plus,
+2016,Nouvelle-Écosse,Hommes,65 ans et plus,
+2017,Nouvelle-Écosse,Hommes,65 ans et plus,
+2018,Nouvelle-Écosse,Hommes,65 ans et plus,
+2019,Nouvelle-Écosse,Hommes,65 ans et plus,
+2020,Nouvelle-Écosse,Hommes,65 ans et plus,
+2015,Nouvelle-Écosse,Femmes,15 ans et plus,0.3
+2016,Nouvelle-Écosse,Femmes,15 ans et plus,0.27
+2017,Nouvelle-Écosse,Femmes,15 ans et plus,0.25
+2018,Nouvelle-Écosse,Femmes,15 ans et plus,0.25
+2019,Nouvelle-Écosse,Femmes,15 ans et plus,0.22
+2020,Nouvelle-Écosse,Femmes,15 ans et plus,0.25
+2015,Nouvelle-Écosse,Femmes,15 à 24 ans,
+2016,Nouvelle-Écosse,Femmes,15 à 24 ans,
+2017,Nouvelle-Écosse,Femmes,15 à 24 ans,
+2018,Nouvelle-Écosse,Femmes,15 à 24 ans,0.2
+2019,Nouvelle-Écosse,Femmes,15 à 24 ans,0.17
+2020,Nouvelle-Écosse,Femmes,15 à 24 ans,
+2015,Nouvelle-Écosse,Femmes,25 ans et plus,0.35
+2016,Nouvelle-Écosse,Femmes,25 ans et plus,0.27
+2017,Nouvelle-Écosse,Femmes,25 ans et plus,0.28
+2018,Nouvelle-Écosse,Femmes,25 ans et plus,0.27
+2019,Nouvelle-Écosse,Femmes,25 ans et plus,0.25
+2020,Nouvelle-Écosse,Femmes,25 ans et plus,0.27
+2015,Nouvelle-Écosse,Femmes,25 à 44 ans,
+2016,Nouvelle-Écosse,Femmes,25 à 44 ans,0.32
+2017,Nouvelle-Écosse,Femmes,25 à 44 ans,0.34
+2018,Nouvelle-Écosse,Femmes,25 à 44 ans,
+2019,Nouvelle-Écosse,Femmes,25 à 44 ans,0.3
+2020,Nouvelle-Écosse,Femmes,25 à 44 ans,
+2015,Nouvelle-Écosse,Femmes,45 ans et plus,0.32
+2016,Nouvelle-Écosse,Femmes,45 ans et plus,0.24
+2017,Nouvelle-Écosse,Femmes,45 ans et plus,0.25
+2018,Nouvelle-Écosse,Femmes,45 ans et plus,0.24
+2019,Nouvelle-Écosse,Femmes,45 ans et plus,
+2020,Nouvelle-Écosse,Femmes,45 ans et plus,
+2015,Nouvelle-Écosse,Femmes,25 à 54 ans,0.39
+2016,Nouvelle-Écosse,Femmes,25 à 54 ans,0.32
+2017,Nouvelle-Écosse,Femmes,25 à 54 ans,0.35
+2018,Nouvelle-Écosse,Femmes,25 à 54 ans,0.32
+2019,Nouvelle-Écosse,Femmes,25 à 54 ans,0.31
+2020,Nouvelle-Écosse,Femmes,25 à 54 ans,0.31
+2015,Nouvelle-Écosse,Femmes,55 ans et plus,
+2016,Nouvelle-Écosse,Femmes,55 ans et plus,
+2017,Nouvelle-Écosse,Femmes,55 ans et plus,
+2018,Nouvelle-Écosse,Femmes,55 ans et plus,
+2019,Nouvelle-Écosse,Femmes,55 ans et plus,
+2020,Nouvelle-Écosse,Femmes,55 ans et plus,
+2015,Nouvelle-Écosse,Femmes,55 à 64 ans,
+2016,Nouvelle-Écosse,Femmes,55 à 64 ans,
+2017,Nouvelle-Écosse,Femmes,55 à 64 ans,
+2018,Nouvelle-Écosse,Femmes,55 à 64 ans,
+2019,Nouvelle-Écosse,Femmes,55 à 64 ans,
+2020,Nouvelle-Écosse,Femmes,55 à 64 ans,
+2015,Nouvelle-Écosse,Femmes,65 ans et plus,
+2016,Nouvelle-Écosse,Femmes,65 ans et plus,
+2017,Nouvelle-Écosse,Femmes,65 ans et plus,
+2018,Nouvelle-Écosse,Femmes,65 ans et plus,
+2019,Nouvelle-Écosse,Femmes,65 ans et plus,
+2020,Nouvelle-Écosse,Femmes,65 ans et plus,
+2015,Nouveau-Brunswick,Les deux sexes,15 ans et plus,0.3
+2016,Nouveau-Brunswick,Les deux sexes,15 ans et plus,0.26
+2017,Nouveau-Brunswick,Les deux sexes,15 ans et plus,0.25
+2018,Nouveau-Brunswick,Les deux sexes,15 ans et plus,0.23
+2019,Nouveau-Brunswick,Les deux sexes,15 ans et plus,0.23
+2020,Nouveau-Brunswick,Les deux sexes,15 ans et plus,0.26
+2015,Nouveau-Brunswick,Les deux sexes,15 à 24 ans,0.21
+2016,Nouveau-Brunswick,Les deux sexes,15 à 24 ans,0.2
+2017,Nouveau-Brunswick,Les deux sexes,15 à 24 ans,
+2018,Nouveau-Brunswick,Les deux sexes,15 à 24 ans,0.21
+2019,Nouveau-Brunswick,Les deux sexes,15 à 24 ans,0.21
+2020,Nouveau-Brunswick,Les deux sexes,15 à 24 ans,
+2015,Nouveau-Brunswick,Les deux sexes,25 ans et plus,0.35
+2016,Nouveau-Brunswick,Les deux sexes,25 ans et plus,0.3
+2017,Nouveau-Brunswick,Les deux sexes,25 ans et plus,0.27
+2018,Nouveau-Brunswick,Les deux sexes,25 ans et plus,0.24
+2019,Nouveau-Brunswick,Les deux sexes,25 ans et plus,0.24
+2020,Nouveau-Brunswick,Les deux sexes,25 ans et plus,0.27
+2015,Nouveau-Brunswick,Les deux sexes,25 à 44 ans,0.48
+2016,Nouveau-Brunswick,Les deux sexes,25 à 44 ans,0.39
+2017,Nouveau-Brunswick,Les deux sexes,25 à 44 ans,0.38
+2018,Nouveau-Brunswick,Les deux sexes,25 à 44 ans,0.31
+2019,Nouveau-Brunswick,Les deux sexes,25 à 44 ans,
+2020,Nouveau-Brunswick,Les deux sexes,25 à 44 ans,
+2015,Nouveau-Brunswick,Les deux sexes,45 ans et plus,0.27
+2016,Nouveau-Brunswick,Les deux sexes,45 ans et plus,0.25
+2017,Nouveau-Brunswick,Les deux sexes,45 ans et plus,
+2018,Nouveau-Brunswick,Les deux sexes,45 ans et plus,0.2
+2019,Nouveau-Brunswick,Les deux sexes,45 ans et plus,0.2
+2020,Nouveau-Brunswick,Les deux sexes,45 ans et plus,0.23
+2015,Nouveau-Brunswick,Les deux sexes,25 à 54 ans,0.45
+2016,Nouveau-Brunswick,Les deux sexes,25 à 54 ans,0.37
+2017,Nouveau-Brunswick,Les deux sexes,25 à 54 ans,0.38
+2018,Nouveau-Brunswick,Les deux sexes,25 à 54 ans,0.31
+2019,Nouveau-Brunswick,Les deux sexes,25 à 54 ans,0.32
+2020,Nouveau-Brunswick,Les deux sexes,25 à 54 ans,0.34
+2015,Nouveau-Brunswick,Les deux sexes,55 ans et plus,
+2016,Nouveau-Brunswick,Les deux sexes,55 ans et plus,
+2017,Nouveau-Brunswick,Les deux sexes,55 ans et plus,
+2018,Nouveau-Brunswick,Les deux sexes,55 ans et plus,
+2019,Nouveau-Brunswick,Les deux sexes,55 ans et plus,
+2020,Nouveau-Brunswick,Les deux sexes,55 ans et plus,
+2015,Nouveau-Brunswick,Les deux sexes,55 à 64 ans,
+2016,Nouveau-Brunswick,Les deux sexes,55 à 64 ans,
+2017,Nouveau-Brunswick,Les deux sexes,55 à 64 ans,
+2018,Nouveau-Brunswick,Les deux sexes,55 à 64 ans,
+2019,Nouveau-Brunswick,Les deux sexes,55 à 64 ans,
+2020,Nouveau-Brunswick,Les deux sexes,55 à 64 ans,
+2015,Nouveau-Brunswick,Les deux sexes,65 ans et plus,
+2016,Nouveau-Brunswick,Les deux sexes,65 ans et plus,
+2017,Nouveau-Brunswick,Les deux sexes,65 ans et plus,
+2018,Nouveau-Brunswick,Les deux sexes,65 ans et plus,
+2019,Nouveau-Brunswick,Les deux sexes,65 ans et plus,
+2020,Nouveau-Brunswick,Les deux sexes,65 ans et plus,
+2015,Nouveau-Brunswick,Hommes,15 ans et plus,0.3
+2016,Nouveau-Brunswick,Hommes,15 ans et plus,0.29
+2017,Nouveau-Brunswick,Hommes,15 ans et plus,
+2018,Nouveau-Brunswick,Hommes,15 ans et plus,0.22
+2019,Nouveau-Brunswick,Hommes,15 ans et plus,0.24
+2020,Nouveau-Brunswick,Hommes,15 ans et plus,0.27
+2015,Nouveau-Brunswick,Hommes,15 à 24 ans,
+2016,Nouveau-Brunswick,Hommes,15 à 24 ans,
+2017,Nouveau-Brunswick,Hommes,15 à 24 ans,
+2018,Nouveau-Brunswick,Hommes,15 à 24 ans,
+2019,Nouveau-Brunswick,Hommes,15 à 24 ans,
+2020,Nouveau-Brunswick,Hommes,15 à 24 ans,
+2015,Nouveau-Brunswick,Hommes,25 ans et plus,0.35
+2016,Nouveau-Brunswick,Hommes,25 ans et plus,
+2017,Nouveau-Brunswick,Hommes,25 ans et plus,
+2018,Nouveau-Brunswick,Hommes,25 ans et plus,
+2019,Nouveau-Brunswick,Hommes,25 ans et plus,
+2020,Nouveau-Brunswick,Hommes,25 ans et plus,
+2015,Nouveau-Brunswick,Hommes,25 à 44 ans,
+2016,Nouveau-Brunswick,Hommes,25 à 44 ans,
+2017,Nouveau-Brunswick,Hommes,25 à 44 ans,
+2018,Nouveau-Brunswick,Hommes,25 à 44 ans,
+2019,Nouveau-Brunswick,Hommes,25 à 44 ans,
+2020,Nouveau-Brunswick,Hommes,25 à 44 ans,
+2015,Nouveau-Brunswick,Hommes,45 ans et plus,
+2016,Nouveau-Brunswick,Hommes,45 ans et plus,
+2017,Nouveau-Brunswick,Hommes,45 ans et plus,
+2018,Nouveau-Brunswick,Hommes,45 ans et plus,
+2019,Nouveau-Brunswick,Hommes,45 ans et plus,
+2020,Nouveau-Brunswick,Hommes,45 ans et plus,
+2015,Nouveau-Brunswick,Hommes,25 à 54 ans,
+2016,Nouveau-Brunswick,Hommes,25 à 54 ans,
+2017,Nouveau-Brunswick,Hommes,25 à 54 ans,
+2018,Nouveau-Brunswick,Hommes,25 à 54 ans,
+2019,Nouveau-Brunswick,Hommes,25 à 54 ans,
+2020,Nouveau-Brunswick,Hommes,25 à 54 ans,
+2015,Nouveau-Brunswick,Hommes,55 ans et plus,
+2016,Nouveau-Brunswick,Hommes,55 ans et plus,
+2017,Nouveau-Brunswick,Hommes,55 ans et plus,
+2018,Nouveau-Brunswick,Hommes,55 ans et plus,
+2019,Nouveau-Brunswick,Hommes,55 ans et plus,
+2020,Nouveau-Brunswick,Hommes,55 ans et plus,
+2015,Nouveau-Brunswick,Hommes,55 à 64 ans,
+2016,Nouveau-Brunswick,Hommes,55 à 64 ans,
+2017,Nouveau-Brunswick,Hommes,55 à 64 ans,
+2018,Nouveau-Brunswick,Hommes,55 à 64 ans,
+2019,Nouveau-Brunswick,Hommes,55 à 64 ans,
+2020,Nouveau-Brunswick,Hommes,55 à 64 ans,
+2015,Nouveau-Brunswick,Hommes,65 ans et plus,
+2016,Nouveau-Brunswick,Hommes,65 ans et plus,
+2017,Nouveau-Brunswick,Hommes,65 ans et plus,
+2018,Nouveau-Brunswick,Hommes,65 ans et plus,
+2019,Nouveau-Brunswick,Hommes,65 ans et plus,
+2020,Nouveau-Brunswick,Hommes,65 ans et plus,
+2015,Nouveau-Brunswick,Femmes,15 ans et plus,0.3
+2016,Nouveau-Brunswick,Femmes,15 ans et plus,0.25
+2017,Nouveau-Brunswick,Femmes,15 ans et plus,0.24
+2018,Nouveau-Brunswick,Femmes,15 ans et plus,0.24
+2019,Nouveau-Brunswick,Femmes,15 ans et plus,0.22
+2020,Nouveau-Brunswick,Femmes,15 ans et plus,0.24
+2015,Nouveau-Brunswick,Femmes,15 à 24 ans,
+2016,Nouveau-Brunswick,Femmes,15 à 24 ans,
+2017,Nouveau-Brunswick,Femmes,15 à 24 ans,
+2018,Nouveau-Brunswick,Femmes,15 à 24 ans,
+2019,Nouveau-Brunswick,Femmes,15 à 24 ans,
+2020,Nouveau-Brunswick,Femmes,15 à 24 ans,
+2015,Nouveau-Brunswick,Femmes,25 ans et plus,0.36
+2016,Nouveau-Brunswick,Femmes,25 ans et plus,0.28
+2017,Nouveau-Brunswick,Femmes,25 ans et plus,0.26
+2018,Nouveau-Brunswick,Femmes,25 ans et plus,0.24
+2019,Nouveau-Brunswick,Femmes,25 ans et plus,0.23
+2020,Nouveau-Brunswick,Femmes,25 ans et plus,0.25
+2015,Nouveau-Brunswick,Femmes,25 à 44 ans,0.46
+2016,Nouveau-Brunswick,Femmes,25 à 44 ans,0.35
+2017,Nouveau-Brunswick,Femmes,25 à 44 ans,
+2018,Nouveau-Brunswick,Femmes,25 à 44 ans,
+2019,Nouveau-Brunswick,Femmes,25 à 44 ans,
+2020,Nouveau-Brunswick,Femmes,25 à 44 ans,
+2015,Nouveau-Brunswick,Femmes,45 ans et plus,0.29
+2016,Nouveau-Brunswick,Femmes,45 ans et plus,
+2017,Nouveau-Brunswick,Femmes,45 ans et plus,
+2018,Nouveau-Brunswick,Femmes,45 ans et plus,
+2019,Nouveau-Brunswick,Femmes,45 ans et plus,
+2020,Nouveau-Brunswick,Femmes,45 ans et plus,
+2015,Nouveau-Brunswick,Femmes,25 à 54 ans,0.43
+2016,Nouveau-Brunswick,Femmes,25 à 54 ans,0.33
+2017,Nouveau-Brunswick,Femmes,25 à 54 ans,0.33
+2018,Nouveau-Brunswick,Femmes,25 à 54 ans,0.31
+2019,Nouveau-Brunswick,Femmes,25 à 54 ans,
+2020,Nouveau-Brunswick,Femmes,25 à 54 ans,
+2015,Nouveau-Brunswick,Femmes,55 ans et plus,
+2016,Nouveau-Brunswick,Femmes,55 ans et plus,
+2017,Nouveau-Brunswick,Femmes,55 ans et plus,
+2018,Nouveau-Brunswick,Femmes,55 ans et plus,
+2019,Nouveau-Brunswick,Femmes,55 ans et plus,
+2020,Nouveau-Brunswick,Femmes,55 ans et plus,
+2015,Nouveau-Brunswick,Femmes,55 à 64 ans,
+2016,Nouveau-Brunswick,Femmes,55 à 64 ans,
+2017,Nouveau-Brunswick,Femmes,55 à 64 ans,
+2018,Nouveau-Brunswick,Femmes,55 à 64 ans,
+2019,Nouveau-Brunswick,Femmes,55 à 64 ans,
+2020,Nouveau-Brunswick,Femmes,55 à 64 ans,
+2015,Nouveau-Brunswick,Femmes,65 ans et plus,
+2016,Nouveau-Brunswick,Femmes,65 ans et plus,
+2017,Nouveau-Brunswick,Femmes,65 ans et plus,
+2018,Nouveau-Brunswick,Femmes,65 ans et plus,
+2019,Nouveau-Brunswick,Femmes,65 ans et plus,
+2020,Nouveau-Brunswick,Femmes,65 ans et plus,
+2015,Québec,Les deux sexes,15 ans et plus,0.24
+2016,Québec,Les deux sexes,15 ans et plus,0.22
+2017,Québec,Les deux sexes,15 ans et plus,0.21
+2018,Québec,Les deux sexes,15 ans et plus,0.18
+2019,Québec,Les deux sexes,15 ans et plus,0.13
+2020,Québec,Les deux sexes,15 ans et plus,0.16
+2015,Québec,Les deux sexes,15 à 24 ans,0.15
+2016,Québec,Les deux sexes,15 à 24 ans,0.13
+2017,Québec,Les deux sexes,15 à 24 ans,0.11
+2018,Québec,Les deux sexes,15 à 24 ans,0.1
+2019,Québec,Les deux sexes,15 à 24 ans,0.07
+2020,Québec,Les deux sexes,15 à 24 ans,0.09
+2015,Québec,Les deux sexes,25 ans et plus,0.31
+2016,Québec,Les deux sexes,25 ans et plus,0.27
+2017,Québec,Les deux sexes,25 ans et plus,0.26
+2018,Québec,Les deux sexes,25 ans et plus,0.23
+2019,Québec,Les deux sexes,25 ans et plus,0.17
+2020,Québec,Les deux sexes,25 ans et plus,0.21
+2015,Québec,Les deux sexes,25 à 44 ans,0.38
+2016,Québec,Les deux sexes,25 à 44 ans,0.34
+2017,Québec,Les deux sexes,25 à 44 ans,0.34
+2018,Québec,Les deux sexes,25 à 44 ans,0.29
+2019,Québec,Les deux sexes,25 à 44 ans,0.22
+2020,Québec,Les deux sexes,25 à 44 ans,0.25
+2015,Québec,Les deux sexes,45 ans et plus,0.25
+2016,Québec,Les deux sexes,45 ans et plus,0.23
+2017,Québec,Les deux sexes,45 ans et plus,0.21
+2018,Québec,Les deux sexes,45 ans et plus,0.18
+2019,Québec,Les deux sexes,45 ans et plus,0.14
+2020,Québec,Les deux sexes,45 ans et plus,0.18
+2015,Québec,Les deux sexes,25 à 54 ans,0.38
+2016,Québec,Les deux sexes,25 à 54 ans,0.34
+2017,Québec,Les deux sexes,25 à 54 ans,0.33
+2018,Québec,Les deux sexes,25 à 54 ans,0.29
+2019,Québec,Les deux sexes,25 à 54 ans,0.23
+2020,Québec,Les deux sexes,25 à 54 ans,0.26
+2015,Québec,Les deux sexes,55 ans et plus,0.18
+2016,Québec,Les deux sexes,55 ans et plus,0.16
+2017,Québec,Les deux sexes,55 ans et plus,0.15
+2018,Québec,Les deux sexes,55 ans et plus,0.13
+2019,Québec,Les deux sexes,55 ans et plus,
+2020,Québec,Les deux sexes,55 ans et plus,0.13
+2015,Québec,Les deux sexes,55 à 64 ans,0.24
+2016,Québec,Les deux sexes,55 à 64 ans,0.22
+2017,Québec,Les deux sexes,55 à 64 ans,0.21
+2018,Québec,Les deux sexes,55 à 64 ans,0.16
+2019,Québec,Les deux sexes,55 à 64 ans,
+2020,Québec,Les deux sexes,55 à 64 ans,0.17
+2015,Québec,Les deux sexes,65 ans et plus,
+2016,Québec,Les deux sexes,65 ans et plus,
+2017,Québec,Les deux sexes,65 ans et plus,
+2018,Québec,Les deux sexes,65 ans et plus,
+2019,Québec,Les deux sexes,65 ans et plus,
+2020,Québec,Les deux sexes,65 ans et plus,
+2015,Québec,Hommes,15 ans et plus,0.26
+2016,Québec,Hommes,15 ans et plus,0.24
+2017,Québec,Hommes,15 ans et plus,0.22
+2018,Québec,Hommes,15 ans et plus,0.18
+2019,Québec,Hommes,15 ans et plus,0.14
+2020,Québec,Hommes,15 ans et plus,0.18
+2015,Québec,Hommes,15 à 24 ans,0.17
+2016,Québec,Hommes,15 à 24 ans,0.14
+2017,Québec,Hommes,15 à 24 ans,0.13
+2018,Québec,Hommes,15 à 24 ans,0.09
+2019,Québec,Hommes,15 à 24 ans,
+2020,Québec,Hommes,15 à 24 ans,
+2015,Québec,Hommes,25 ans et plus,0.33
+2016,Québec,Hommes,25 ans et plus,0.31
+2017,Québec,Hommes,25 ans et plus,0.29
+2018,Québec,Hommes,25 ans et plus,0.24
+2019,Québec,Hommes,25 ans et plus,0.18
+2020,Québec,Hommes,25 ans et plus,0.25
+2015,Québec,Hommes,25 à 44 ans,0.44
+2016,Québec,Hommes,25 à 44 ans,0.43
+2017,Québec,Hommes,25 à 44 ans,0.43
+2018,Québec,Hommes,25 à 44 ans,0.35
+2019,Québec,Hommes,25 à 44 ans,0.26
+2020,Québec,Hommes,25 à 44 ans,0.33
+2015,Québec,Hommes,45 ans et plus,0.25
+2016,Québec,Hommes,45 ans et plus,0.24
+2017,Québec,Hommes,45 ans et plus,0.21
+2018,Québec,Hommes,45 ans et plus,0.19
+2019,Québec,Hommes,45 ans et plus,
+2020,Québec,Hommes,45 ans et plus,
+2015,Québec,Hommes,25 à 54 ans,0.45
+2016,Québec,Hommes,25 à 54 ans,0.43
+2017,Québec,Hommes,25 à 54 ans,0.42
+2018,Québec,Hommes,25 à 54 ans,0.36
+2019,Québec,Hommes,25 à 54 ans,0.27
+2020,Québec,Hommes,25 à 54 ans,0.35
+2015,Québec,Hommes,55 ans et plus,
+2016,Québec,Hommes,55 ans et plus,
+2017,Québec,Hommes,55 ans et plus,0.15
+2018,Québec,Hommes,55 ans et plus,0.14
+2019,Québec,Hommes,55 ans et plus,
+2020,Québec,Hommes,55 ans et plus,
+2015,Québec,Hommes,55 à 64 ans,
+2016,Québec,Hommes,55 à 64 ans,
+2017,Québec,Hommes,55 à 64 ans,0.24
+2018,Québec,Hommes,55 à 64 ans,
+2019,Québec,Hommes,55 à 64 ans,
+2020,Québec,Hommes,55 à 64 ans,
+2015,Québec,Hommes,65 ans et plus,
+2016,Québec,Hommes,65 ans et plus,
+2017,Québec,Hommes,65 ans et plus,
+2018,Québec,Hommes,65 ans et plus,
+2019,Québec,Hommes,65 ans et plus,
+2020,Québec,Hommes,65 ans et plus,
+2015,Québec,Femmes,15 ans et plus,0.24
+2016,Québec,Femmes,15 ans et plus,0.21
+2017,Québec,Femmes,15 ans et plus,0.2
+2018,Québec,Femmes,15 ans et plus,0.18
+2019,Québec,Femmes,15 ans et plus,0.13
+2020,Québec,Femmes,15 ans et plus,0.15
+2015,Québec,Femmes,15 à 24 ans,0.13
+2016,Québec,Femmes,15 à 24 ans,0.13
+2017,Québec,Femmes,15 à 24 ans,0.1
+2018,Québec,Femmes,15 à 24 ans,0.1
+2019,Québec,Femmes,15 à 24 ans,
+2020,Québec,Femmes,15 à 24 ans,
+2015,Québec,Femmes,25 ans et plus,0.3
+2016,Québec,Femmes,25 ans et plus,0.26
+2017,Québec,Femmes,25 ans et plus,0.25
+2018,Québec,Femmes,25 ans et plus,0.22
+2019,Québec,Femmes,25 ans et plus,0.17
+2020,Québec,Femmes,25 ans et plus,0.18
+2015,Québec,Femmes,25 à 44 ans,0.36
+2016,Québec,Femmes,25 à 44 ans,0.3
+2017,Québec,Femmes,25 à 44 ans,0.3
+2018,Québec,Femmes,25 à 44 ans,0.28
+2019,Québec,Femmes,25 à 44 ans,0.21
+2020,Québec,Femmes,25 à 44 ans,0.21
+2015,Québec,Femmes,45 ans et plus,0.24
+2016,Québec,Femmes,45 ans et plus,0.22
+2017,Québec,Femmes,45 ans et plus,0.21
+2018,Québec,Femmes,45 ans et plus,0.18
+2019,Québec,Femmes,45 ans et plus,0.14
+2020,Québec,Femmes,45 ans et plus,0.17
+2015,Québec,Femmes,25 à 54 ans,0.35
+2016,Québec,Femmes,25 à 54 ans,0.3
+2017,Québec,Femmes,25 à 54 ans,0.3
+2018,Québec,Femmes,25 à 54 ans,0.27
+2019,Québec,Femmes,25 à 54 ans,0.21
+2020,Québec,Femmes,25 à 54 ans,0.22
+2015,Québec,Femmes,55 ans et plus,0.18
+2016,Québec,Femmes,55 ans et plus,0.16
+2017,Québec,Femmes,55 ans et plus,0.16
+2018,Québec,Femmes,55 ans et plus,0.12
+2019,Québec,Femmes,55 ans et plus,
+2020,Québec,Femmes,55 ans et plus,0.12
+2015,Québec,Femmes,55 à 64 ans,0.22
+2016,Québec,Femmes,55 à 64 ans,
+2017,Québec,Femmes,55 à 64 ans,0.2
+2018,Québec,Femmes,55 à 64 ans,0.14
+2019,Québec,Femmes,55 à 64 ans,
+2020,Québec,Femmes,55 à 64 ans,0.16
+2015,Québec,Femmes,65 ans et plus,
+2016,Québec,Femmes,65 ans et plus,
+2017,Québec,Femmes,65 ans et plus,
+2018,Québec,Femmes,65 ans et plus,
+2019,Québec,Femmes,65 ans et plus,
+2020,Québec,Femmes,65 ans et plus,
+2015,Ontario,Les deux sexes,15 ans et plus,0.3
+2016,Ontario,Les deux sexes,15 ans et plus,0.27
+2017,Ontario,Les deux sexes,15 ans et plus,0.27
+2018,Ontario,Les deux sexes,15 ans et plus,0.24
+2019,Ontario,Les deux sexes,15 ans et plus,0.22
+2020,Ontario,Les deux sexes,15 ans et plus,0.26
+2015,Ontario,Les deux sexes,15 à 24 ans,0.22
+2016,Ontario,Les deux sexes,15 à 24 ans,0.2
+2017,Ontario,Les deux sexes,15 à 24 ans,0.2
+2018,Ontario,Les deux sexes,15 à 24 ans,0.17
+2019,Ontario,Les deux sexes,15 à 24 ans,0.17
+2020,Ontario,Les deux sexes,15 à 24 ans,0.2
+2015,Ontario,Les deux sexes,25 ans et plus,0.35
+2016,Ontario,Les deux sexes,25 ans et plus,0.31
+2017,Ontario,Les deux sexes,25 ans et plus,0.3
+2018,Ontario,Les deux sexes,25 ans et plus,0.28
+2019,Ontario,Les deux sexes,25 ans et plus,0.25
+2020,Ontario,Les deux sexes,25 ans et plus,0.29
+2015,Ontario,Les deux sexes,25 à 44 ans,0.43
+2016,Ontario,Les deux sexes,25 à 44 ans,0.38
+2017,Ontario,Les deux sexes,25 à 44 ans,0.38
+2018,Ontario,Les deux sexes,25 à 44 ans,0.35
+2019,Ontario,Les deux sexes,25 à 44 ans,0.33
+2020,Ontario,Les deux sexes,25 à 44 ans,0.36
+2015,Ontario,Les deux sexes,45 ans et plus,0.29
+2016,Ontario,Les deux sexes,45 ans et plus,0.27
+2017,Ontario,Les deux sexes,45 ans et plus,0.25
+2018,Ontario,Les deux sexes,45 ans et plus,0.23
+2019,Ontario,Les deux sexes,45 ans et plus,0.2
+2020,Ontario,Les deux sexes,45 ans et plus,0.25
+2015,Ontario,Les deux sexes,25 à 54 ans,0.42
+2016,Ontario,Les deux sexes,25 à 54 ans,0.39
+2017,Ontario,Les deux sexes,25 à 54 ans,0.38
+2018,Ontario,Les deux sexes,25 à 54 ans,0.34
+2019,Ontario,Les deux sexes,25 à 54 ans,0.32
+2020,Ontario,Les deux sexes,25 à 54 ans,0.36
+2015,Ontario,Les deux sexes,55 ans et plus,0.21
+2016,Ontario,Les deux sexes,55 ans et plus,0.2
+2017,Ontario,Les deux sexes,55 ans et plus,0.17
+2018,Ontario,Les deux sexes,55 ans et plus,0.17
+2019,Ontario,Les deux sexes,55 ans et plus,0.15
+2020,Ontario,Les deux sexes,55 ans et plus,0.2
+2015,Ontario,Les deux sexes,55 à 64 ans,0.27
+2016,Ontario,Les deux sexes,55 à 64 ans,0.26
+2017,Ontario,Les deux sexes,55 à 64 ans,0.24
+2018,Ontario,Les deux sexes,55 à 64 ans,0.23
+2019,Ontario,Les deux sexes,55 à 64 ans,0.21
+2020,Ontario,Les deux sexes,55 à 64 ans,0.26
+2015,Ontario,Les deux sexes,65 ans et plus,
+2016,Ontario,Les deux sexes,65 ans et plus,
+2017,Ontario,Les deux sexes,65 ans et plus,
+2018,Ontario,Les deux sexes,65 ans et plus,
+2019,Ontario,Les deux sexes,65 ans et plus,
+2020,Ontario,Les deux sexes,65 ans et plus,
+2015,Ontario,Hommes,15 ans et plus,0.3
+2016,Ontario,Hommes,15 ans et plus,0.28
+2017,Ontario,Hommes,15 ans et plus,0.27
+2018,Ontario,Hommes,15 ans et plus,0.26
+2019,Ontario,Hommes,15 ans et plus,0.25
+2020,Ontario,Hommes,15 ans et plus,0.29
+2015,Ontario,Hommes,15 à 24 ans,0.22
+2016,Ontario,Hommes,15 à 24 ans,0.21
+2017,Ontario,Hommes,15 à 24 ans,0.21
+2018,Ontario,Hommes,15 à 24 ans,0.18
+2019,Ontario,Hommes,15 à 24 ans,0.17
+2020,Ontario,Hommes,15 à 24 ans,0.2
+2015,Ontario,Hommes,25 ans et plus,0.36
+2016,Ontario,Hommes,25 ans et plus,0.34
+2017,Ontario,Hommes,25 ans et plus,0.32
+2018,Ontario,Hommes,25 ans et plus,0.32
+2019,Ontario,Hommes,25 ans et plus,0.3
+2020,Ontario,Hommes,25 ans et plus,0.34
+2015,Ontario,Hommes,25 à 44 ans,0.49
+2016,Ontario,Hommes,25 à 44 ans,0.48
+2017,Ontario,Hommes,25 à 44 ans,0.43
+2018,Ontario,Hommes,25 à 44 ans,0.45
+2019,Ontario,Hommes,25 à 44 ans,0.44
+2020,Ontario,Hommes,25 à 44 ans,0.47
+2015,Ontario,Hommes,45 ans et plus,0.29
+2016,Ontario,Hommes,45 ans et plus,0.26
+2017,Ontario,Hommes,45 ans et plus,0.26
+2018,Ontario,Hommes,45 ans et plus,0.24
+2019,Ontario,Hommes,45 ans et plus,0.22
+2020,Ontario,Hommes,45 ans et plus,0.27
+2015,Ontario,Hommes,25 à 54 ans,0.49
+2016,Ontario,Hommes,25 à 54 ans,0.47
+2017,Ontario,Hommes,25 à 54 ans,0.46
+2018,Ontario,Hommes,25 à 54 ans,0.45
+2019,Ontario,Hommes,25 à 54 ans,0.42
+2020,Ontario,Hommes,25 à 54 ans,0.47
+2015,Ontario,Hommes,55 ans et plus,0.21
+2016,Ontario,Hommes,55 ans et plus,0.19
+2017,Ontario,Hommes,55 ans et plus,0.16
+2018,Ontario,Hommes,55 ans et plus,0.18
+2019,Ontario,Hommes,55 ans et plus,0.17
+2020,Ontario,Hommes,55 ans et plus,0.21
+2015,Ontario,Hommes,55 à 64 ans,
+2016,Ontario,Hommes,55 à 64 ans,0.28
+2017,Ontario,Hommes,55 à 64 ans,0.26
+2018,Ontario,Hommes,55 à 64 ans,0.27
+2019,Ontario,Hommes,55 à 64 ans,0.27
+2020,Ontario,Hommes,55 à 64 ans,0.29
+2015,Ontario,Hommes,65 ans et plus,
+2016,Ontario,Hommes,65 ans et plus,
+2017,Ontario,Hommes,65 ans et plus,
+2018,Ontario,Hommes,65 ans et plus,
+2019,Ontario,Hommes,65 ans et plus,
+2020,Ontario,Hommes,65 ans et plus,
+2015,Ontario,Femmes,15 ans et plus,0.3
+2016,Ontario,Femmes,15 ans et plus,0.27
+2017,Ontario,Femmes,15 ans et plus,0.26
+2018,Ontario,Femmes,15 ans et plus,0.23
+2019,Ontario,Femmes,15 ans et plus,0.21
+2020,Ontario,Femmes,15 ans et plus,0.25
+2015,Ontario,Femmes,15 à 24 ans,0.22
+2016,Ontario,Femmes,15 à 24 ans,0.2
+2017,Ontario,Femmes,15 à 24 ans,0.2
+2018,Ontario,Femmes,15 à 24 ans,0.17
+2019,Ontario,Femmes,15 à 24 ans,0.17
+2020,Ontario,Femmes,15 à 24 ans,0.2
+2015,Ontario,Femmes,25 ans et plus,0.34
+2016,Ontario,Femmes,25 ans et plus,0.3
+2017,Ontario,Femmes,25 ans et plus,0.29
+2018,Ontario,Femmes,25 ans et plus,0.26
+2019,Ontario,Femmes,25 ans et plus,0.23
+2020,Ontario,Femmes,25 ans et plus,0.27
+2015,Ontario,Femmes,25 à 44 ans,0.4
+2016,Ontario,Femmes,25 à 44 ans,0.35
+2017,Ontario,Femmes,25 à 44 ans,0.36
+2018,Ontario,Femmes,25 à 44 ans,0.31
+2019,Ontario,Femmes,25 à 44 ans,0.28
+2020,Ontario,Femmes,25 à 44 ans,0.31
+2015,Ontario,Femmes,45 ans et plus,0.29
+2016,Ontario,Femmes,45 ans et plus,0.27
+2017,Ontario,Femmes,45 ans et plus,0.24
+2018,Ontario,Femmes,45 ans et plus,0.22
+2019,Ontario,Femmes,45 ans et plus,0.2
+2020,Ontario,Femmes,45 ans et plus,0.23
+2015,Ontario,Femmes,25 à 54 ans,0.39
+2016,Ontario,Femmes,25 à 54 ans,0.36
+2017,Ontario,Femmes,25 à 54 ans,0.35
+2018,Ontario,Femmes,25 à 54 ans,0.31
+2019,Ontario,Femmes,25 à 54 ans,0.28
+2020,Ontario,Femmes,25 à 54 ans,0.31
+2015,Ontario,Femmes,55 ans et plus,0.21
+2016,Ontario,Femmes,55 ans et plus,0.2
+2017,Ontario,Femmes,55 ans et plus,0.18
+2018,Ontario,Femmes,55 ans et plus,0.17
+2019,Ontario,Femmes,55 ans et plus,0.14
+2020,Ontario,Femmes,55 ans et plus,0.19
+2015,Ontario,Femmes,55 à 64 ans,0.26
+2016,Ontario,Femmes,55 à 64 ans,0.25
+2017,Ontario,Femmes,55 à 64 ans,0.22
+2018,Ontario,Femmes,55 à 64 ans,0.21
+2019,Ontario,Femmes,55 à 64 ans,0.19
+2020,Ontario,Femmes,55 à 64 ans,0.24
+2015,Ontario,Femmes,65 ans et plus,
+2016,Ontario,Femmes,65 ans et plus,
+2017,Ontario,Femmes,65 ans et plus,
+2018,Ontario,Femmes,65 ans et plus,
+2019,Ontario,Femmes,65 ans et plus,
+2020,Ontario,Femmes,65 ans et plus,
+2015,Manitoba,Les deux sexes,15 ans et plus,0.24
+2016,Manitoba,Les deux sexes,15 ans et plus,0.24
+2017,Manitoba,Les deux sexes,15 ans et plus,0.23
+2018,Manitoba,Les deux sexes,15 ans et plus,0.23
+2019,Manitoba,Les deux sexes,15 ans et plus,0.22
+2020,Manitoba,Les deux sexes,15 ans et plus,0.23
+2015,Manitoba,Les deux sexes,15 à 24 ans,0.21
+2016,Manitoba,Les deux sexes,15 à 24 ans,0.22
+2017,Manitoba,Les deux sexes,15 à 24 ans,0.2
+2018,Manitoba,Les deux sexes,15 à 24 ans,0.19
+2019,Manitoba,Les deux sexes,15 à 24 ans,0.2
+2020,Manitoba,Les deux sexes,15 à 24 ans,0.21
+2015,Manitoba,Les deux sexes,25 ans et plus,0.26
+2016,Manitoba,Les deux sexes,25 ans et plus,0.24
+2017,Manitoba,Les deux sexes,25 ans et plus,0.24
+2018,Manitoba,Les deux sexes,25 ans et plus,0.25
+2019,Manitoba,Les deux sexes,25 ans et plus,0.22
+2020,Manitoba,Les deux sexes,25 ans et plus,0.24
+2015,Manitoba,Les deux sexes,25 à 44 ans,0.32
+2016,Manitoba,Les deux sexes,25 à 44 ans,0.31
+2017,Manitoba,Les deux sexes,25 à 44 ans,0.3
+2018,Manitoba,Les deux sexes,25 à 44 ans,0.31
+2019,Manitoba,Les deux sexes,25 à 44 ans,0.27
+2020,Manitoba,Les deux sexes,25 à 44 ans,0.29
+2015,Manitoba,Les deux sexes,45 ans et plus,0.21
+2016,Manitoba,Les deux sexes,45 ans et plus,0.19
+2017,Manitoba,Les deux sexes,45 ans et plus,0.19
+2018,Manitoba,Les deux sexes,45 ans et plus,0.2
+2019,Manitoba,Les deux sexes,45 ans et plus,0.19
+2020,Manitoba,Les deux sexes,45 ans et plus,0.2
+2015,Manitoba,Les deux sexes,25 à 54 ans,0.32
+2016,Manitoba,Les deux sexes,25 à 54 ans,0.31
+2017,Manitoba,Les deux sexes,25 à 54 ans,0.3
+2018,Manitoba,Les deux sexes,25 à 54 ans,0.32
+2019,Manitoba,Les deux sexes,25 à 54 ans,0.28
+2020,Manitoba,Les deux sexes,25 à 54 ans,0.28
+2015,Manitoba,Les deux sexes,55 ans et plus,
+2016,Manitoba,Les deux sexes,55 ans et plus,
+2017,Manitoba,Les deux sexes,55 ans et plus,
+2018,Manitoba,Les deux sexes,55 ans et plus,0.15
+2019,Manitoba,Les deux sexes,55 ans et plus,
+2020,Manitoba,Les deux sexes,55 ans et plus,
+2015,Manitoba,Les deux sexes,55 à 64 ans,
+2016,Manitoba,Les deux sexes,55 à 64 ans,
+2017,Manitoba,Les deux sexes,55 à 64 ans,
+2018,Manitoba,Les deux sexes,55 à 64 ans,
+2019,Manitoba,Les deux sexes,55 à 64 ans,
+2020,Manitoba,Les deux sexes,55 à 64 ans,
+2015,Manitoba,Les deux sexes,65 ans et plus,
+2016,Manitoba,Les deux sexes,65 ans et plus,
+2017,Manitoba,Les deux sexes,65 ans et plus,
+2018,Manitoba,Les deux sexes,65 ans et plus,
+2019,Manitoba,Les deux sexes,65 ans et plus,
+2020,Manitoba,Les deux sexes,65 ans et plus,
+2015,Manitoba,Hommes,15 ans et plus,0.28
+2016,Manitoba,Hommes,15 ans et plus,0.26
+2017,Manitoba,Hommes,15 ans et plus,0.25
+2018,Manitoba,Hommes,15 ans et plus,0.25
+2019,Manitoba,Hommes,15 ans et plus,0.24
+2020,Manitoba,Hommes,15 ans et plus,0.24
+2015,Manitoba,Hommes,15 à 24 ans,0.24
+2016,Manitoba,Hommes,15 à 24 ans,
+2017,Manitoba,Hommes,15 à 24 ans,0.22
+2018,Manitoba,Hommes,15 à 24 ans,
+2019,Manitoba,Hommes,15 à 24 ans,
+2020,Manitoba,Hommes,15 à 24 ans,0.23
+2015,Manitoba,Hommes,25 ans et plus,0.31
+2016,Manitoba,Hommes,25 ans et plus,0.27
+2017,Manitoba,Hommes,25 ans et plus,0.28
+2018,Manitoba,Hommes,25 ans et plus,0.31
+2019,Manitoba,Hommes,25 ans et plus,0.27
+2020,Manitoba,Hommes,25 ans et plus,0.25
+2015,Manitoba,Hommes,25 à 44 ans,
+2016,Manitoba,Hommes,25 à 44 ans,
+2017,Manitoba,Hommes,25 à 44 ans,
+2018,Manitoba,Hommes,25 à 44 ans,
+2019,Manitoba,Hommes,25 à 44 ans,
+2020,Manitoba,Hommes,25 à 44 ans,
+2015,Manitoba,Hommes,45 ans et plus,
+2016,Manitoba,Hommes,45 ans et plus,
+2017,Manitoba,Hommes,45 ans et plus,
+2018,Manitoba,Hommes,45 ans et plus,
+2019,Manitoba,Hommes,45 ans et plus,
+2020,Manitoba,Hommes,45 ans et plus,
+2015,Manitoba,Hommes,25 à 54 ans,0.45
+2016,Manitoba,Hommes,25 à 54 ans,0.4
+2017,Manitoba,Hommes,25 à 54 ans,
+2018,Manitoba,Hommes,25 à 54 ans,
+2019,Manitoba,Hommes,25 à 54 ans,0.42
+2020,Manitoba,Hommes,25 à 54 ans,
+2015,Manitoba,Hommes,55 ans et plus,
+2016,Manitoba,Hommes,55 ans et plus,
+2017,Manitoba,Hommes,55 ans et plus,
+2018,Manitoba,Hommes,55 ans et plus,
+2019,Manitoba,Hommes,55 ans et plus,
+2020,Manitoba,Hommes,55 ans et plus,
+2015,Manitoba,Hommes,55 à 64 ans,
+2016,Manitoba,Hommes,55 à 64 ans,
+2017,Manitoba,Hommes,55 à 64 ans,
+2018,Manitoba,Hommes,55 à 64 ans,
+2019,Manitoba,Hommes,55 à 64 ans,
+2020,Manitoba,Hommes,55 à 64 ans,
+2015,Manitoba,Hommes,65 ans et plus,
+2016,Manitoba,Hommes,65 ans et plus,
+2017,Manitoba,Hommes,65 ans et plus,
+2018,Manitoba,Hommes,65 ans et plus,
+2019,Manitoba,Hommes,65 ans et plus,
+2020,Manitoba,Hommes,65 ans et plus,
+2015,Manitoba,Femmes,15 ans et plus,0.23
+2016,Manitoba,Femmes,15 ans et plus,0.22
+2017,Manitoba,Femmes,15 ans et plus,0.21
+2018,Manitoba,Femmes,15 ans et plus,0.22
+2019,Manitoba,Femmes,15 ans et plus,0.21
+2020,Manitoba,Femmes,15 ans et plus,0.22
+2015,Manitoba,Femmes,15 à 24 ans,0.19
+2016,Manitoba,Femmes,15 à 24 ans,0.21
+2017,Manitoba,Femmes,15 à 24 ans,0.19
+2018,Manitoba,Femmes,15 à 24 ans,0.2
+2019,Manitoba,Femmes,15 à 24 ans,0.2
+2020,Manitoba,Femmes,15 à 24 ans,0.19
+2015,Manitoba,Femmes,25 ans et plus,0.24
+2016,Manitoba,Femmes,25 ans et plus,0.23
+2017,Manitoba,Femmes,25 ans et plus,0.22
+2018,Manitoba,Femmes,25 ans et plus,0.23
+2019,Manitoba,Femmes,25 ans et plus,0.2
+2020,Manitoba,Femmes,25 ans et plus,0.23
+2015,Manitoba,Femmes,25 à 44 ans,0.28
+2016,Manitoba,Femmes,25 à 44 ans,0.28
+2017,Manitoba,Femmes,25 à 44 ans,0.27
+2018,Manitoba,Femmes,25 à 44 ans,0.27
+2019,Manitoba,Femmes,25 à 44 ans,0.23
+2020,Manitoba,Femmes,25 à 44 ans,0.26
+2015,Manitoba,Femmes,45 ans et plus,0.2
+2016,Manitoba,Femmes,45 ans et plus,0.18
+2017,Manitoba,Femmes,45 ans et plus,0.19
+2018,Manitoba,Femmes,45 ans et plus,0.19
+2019,Manitoba,Femmes,45 ans et plus,0.18
+2020,Manitoba,Femmes,45 ans et plus,0.2
+2015,Manitoba,Femmes,25 à 54 ans,0.29
+2016,Manitoba,Femmes,25 à 54 ans,0.28
+2017,Manitoba,Femmes,25 à 54 ans,0.27
+2018,Manitoba,Femmes,25 à 54 ans,0.27
+2019,Manitoba,Femmes,25 à 54 ans,0.24
+2020,Manitoba,Femmes,25 à 54 ans,0.26
+2015,Manitoba,Femmes,55 ans et plus,
+2016,Manitoba,Femmes,55 ans et plus,
+2017,Manitoba,Femmes,55 ans et plus,
+2018,Manitoba,Femmes,55 ans et plus,
+2019,Manitoba,Femmes,55 ans et plus,
+2020,Manitoba,Femmes,55 ans et plus,
+2015,Manitoba,Femmes,55 à 64 ans,
+2016,Manitoba,Femmes,55 à 64 ans,
+2017,Manitoba,Femmes,55 à 64 ans,
+2018,Manitoba,Femmes,55 à 64 ans,
+2019,Manitoba,Femmes,55 à 64 ans,
+2020,Manitoba,Femmes,55 à 64 ans,
+2015,Manitoba,Femmes,65 ans et plus,
+2016,Manitoba,Femmes,65 ans et plus,
+2017,Manitoba,Femmes,65 ans et plus,
+2018,Manitoba,Femmes,65 ans et plus,
+2019,Manitoba,Femmes,65 ans et plus,
+2020,Manitoba,Femmes,65 ans et plus,
+2015,Saskatchewan,Les deux sexes,15 ans et plus,0.2
+2016,Saskatchewan,Les deux sexes,15 ans et plus,0.21
+2017,Saskatchewan,Les deux sexes,15 ans et plus,0.24
+2018,Saskatchewan,Les deux sexes,15 ans et plus,0.23
+2019,Saskatchewan,Les deux sexes,15 ans et plus,0.22
+2020,Saskatchewan,Les deux sexes,15 ans et plus,0.26
+2015,Saskatchewan,Les deux sexes,15 à 24 ans,
+2016,Saskatchewan,Les deux sexes,15 à 24 ans,0.18
+2017,Saskatchewan,Les deux sexes,15 à 24 ans,0.2
+2018,Saskatchewan,Les deux sexes,15 à 24 ans,0.2
+2019,Saskatchewan,Les deux sexes,15 à 24 ans,0.18
+2020,Saskatchewan,Les deux sexes,15 à 24 ans,0.27
+2015,Saskatchewan,Les deux sexes,25 ans et plus,0.22
+2016,Saskatchewan,Les deux sexes,25 ans et plus,0.22
+2017,Saskatchewan,Les deux sexes,25 ans et plus,0.25
+2018,Saskatchewan,Les deux sexes,25 ans et plus,0.25
+2019,Saskatchewan,Les deux sexes,25 ans et plus,0.23
+2020,Saskatchewan,Les deux sexes,25 ans et plus,0.26
+2015,Saskatchewan,Les deux sexes,25 à 44 ans,0.29
+2016,Saskatchewan,Les deux sexes,25 à 44 ans,0.28
+2017,Saskatchewan,Les deux sexes,25 à 44 ans,0.33
+2018,Saskatchewan,Les deux sexes,25 à 44 ans,0.33
+2019,Saskatchewan,Les deux sexes,25 à 44 ans,0.31
+2020,Saskatchewan,Les deux sexes,25 à 44 ans,0.34
+2015,Saskatchewan,Les deux sexes,45 ans et plus,
+2016,Saskatchewan,Les deux sexes,45 ans et plus,0.18
+2017,Saskatchewan,Les deux sexes,45 ans et plus,0.21
+2018,Saskatchewan,Les deux sexes,45 ans et plus,0.2
+2019,Saskatchewan,Les deux sexes,45 ans et plus,0.18
+2020,Saskatchewan,Les deux sexes,45 ans et plus,0.19
+2015,Saskatchewan,Les deux sexes,25 à 54 ans,0.28
+2016,Saskatchewan,Les deux sexes,25 à 54 ans,0.29
+2017,Saskatchewan,Les deux sexes,25 à 54 ans,0.32
+2018,Saskatchewan,Les deux sexes,25 à 54 ans,0.34
+2019,Saskatchewan,Les deux sexes,25 à 54 ans,0.31
+2020,Saskatchewan,Les deux sexes,25 à 54 ans,0.33
+2015,Saskatchewan,Les deux sexes,55 ans et plus,
+2016,Saskatchewan,Les deux sexes,55 ans et plus,
+2017,Saskatchewan,Les deux sexes,55 ans et plus,
+2018,Saskatchewan,Les deux sexes,55 ans et plus,
+2019,Saskatchewan,Les deux sexes,55 ans et plus,
+2020,Saskatchewan,Les deux sexes,55 ans et plus,
+2015,Saskatchewan,Les deux sexes,55 à 64 ans,
+2016,Saskatchewan,Les deux sexes,55 à 64 ans,
+2017,Saskatchewan,Les deux sexes,55 à 64 ans,
+2018,Saskatchewan,Les deux sexes,55 à 64 ans,
+2019,Saskatchewan,Les deux sexes,55 à 64 ans,
+2020,Saskatchewan,Les deux sexes,55 à 64 ans,
+2015,Saskatchewan,Les deux sexes,65 ans et plus,
+2016,Saskatchewan,Les deux sexes,65 ans et plus,
+2017,Saskatchewan,Les deux sexes,65 ans et plus,
+2018,Saskatchewan,Les deux sexes,65 ans et plus,
+2019,Saskatchewan,Les deux sexes,65 ans et plus,
+2020,Saskatchewan,Les deux sexes,65 ans et plus,
+2015,Saskatchewan,Hommes,15 ans et plus,
+2016,Saskatchewan,Hommes,15 ans et plus,0.25
+2017,Saskatchewan,Hommes,15 ans et plus,0.26
+2018,Saskatchewan,Hommes,15 ans et plus,0.25
+2019,Saskatchewan,Hommes,15 ans et plus,0.23
+2020,Saskatchewan,Hommes,15 ans et plus,0.31
+2015,Saskatchewan,Hommes,15 à 24 ans,
+2016,Saskatchewan,Hommes,15 à 24 ans,
+2017,Saskatchewan,Hommes,15 à 24 ans,
+2018,Saskatchewan,Hommes,15 à 24 ans,
+2019,Saskatchewan,Hommes,15 à 24 ans,
+2020,Saskatchewan,Hommes,15 à 24 ans,
+2015,Saskatchewan,Hommes,25 ans et plus,
+2016,Saskatchewan,Hommes,25 ans et plus,
+2017,Saskatchewan,Hommes,25 ans et plus,
+2018,Saskatchewan,Hommes,25 ans et plus,0.3
+2019,Saskatchewan,Hommes,25 ans et plus,0.27
+2020,Saskatchewan,Hommes,25 ans et plus,0.31
+2015,Saskatchewan,Hommes,25 à 44 ans,
+2016,Saskatchewan,Hommes,25 à 44 ans,
+2017,Saskatchewan,Hommes,25 à 44 ans,
+2018,Saskatchewan,Hommes,25 à 44 ans,
+2019,Saskatchewan,Hommes,25 à 44 ans,
+2020,Saskatchewan,Hommes,25 à 44 ans,
+2015,Saskatchewan,Hommes,45 ans et plus,
+2016,Saskatchewan,Hommes,45 ans et plus,
+2017,Saskatchewan,Hommes,45 ans et plus,
+2018,Saskatchewan,Hommes,45 ans et plus,
+2019,Saskatchewan,Hommes,45 ans et plus,
+2020,Saskatchewan,Hommes,45 ans et plus,
+2015,Saskatchewan,Hommes,25 à 54 ans,
+2016,Saskatchewan,Hommes,25 à 54 ans,
+2017,Saskatchewan,Hommes,25 à 54 ans,
+2018,Saskatchewan,Hommes,25 à 54 ans,
+2019,Saskatchewan,Hommes,25 à 54 ans,
+2020,Saskatchewan,Hommes,25 à 54 ans,0.51
+2015,Saskatchewan,Hommes,55 ans et plus,
+2016,Saskatchewan,Hommes,55 ans et plus,
+2017,Saskatchewan,Hommes,55 ans et plus,
+2018,Saskatchewan,Hommes,55 ans et plus,
+2019,Saskatchewan,Hommes,55 ans et plus,
+2020,Saskatchewan,Hommes,55 ans et plus,
+2015,Saskatchewan,Hommes,55 à 64 ans,
+2016,Saskatchewan,Hommes,55 à 64 ans,
+2017,Saskatchewan,Hommes,55 à 64 ans,
+2018,Saskatchewan,Hommes,55 à 64 ans,
+2019,Saskatchewan,Hommes,55 à 64 ans,
+2020,Saskatchewan,Hommes,55 à 64 ans,
+2015,Saskatchewan,Hommes,65 ans et plus,
+2016,Saskatchewan,Hommes,65 ans et plus,
+2017,Saskatchewan,Hommes,65 ans et plus,
+2018,Saskatchewan,Hommes,65 ans et plus,
+2019,Saskatchewan,Hommes,65 ans et plus,
+2020,Saskatchewan,Hommes,65 ans et plus,
+2015,Saskatchewan,Femmes,15 ans et plus,0.19
+2016,Saskatchewan,Femmes,15 ans et plus,0.19
+2017,Saskatchewan,Femmes,15 ans et plus,0.23
+2018,Saskatchewan,Femmes,15 ans et plus,0.22
+2019,Saskatchewan,Femmes,15 ans et plus,0.21
+2020,Saskatchewan,Femmes,15 ans et plus,0.23
+2015,Saskatchewan,Femmes,15 à 24 ans,
+2016,Saskatchewan,Femmes,15 à 24 ans,
+2017,Saskatchewan,Femmes,15 à 24 ans,0.21
+2018,Saskatchewan,Femmes,15 à 24 ans,0.21
+2019,Saskatchewan,Femmes,15 à 24 ans,0.19
+2020,Saskatchewan,Femmes,15 à 24 ans,0.25
+2015,Saskatchewan,Femmes,25 ans et plus,0.19
+2016,Saskatchewan,Femmes,25 ans et plus,0.2
+2017,Saskatchewan,Femmes,25 ans et plus,0.24
+2018,Saskatchewan,Femmes,25 ans et plus,0.23
+2019,Saskatchewan,Femmes,25 ans et plus,0.22
+2020,Saskatchewan,Femmes,25 ans et plus,0.22
+2015,Saskatchewan,Femmes,25 à 44 ans,0.23
+2016,Saskatchewan,Femmes,25 à 44 ans,0.23
+2017,Saskatchewan,Femmes,25 à 44 ans,0.28
+2018,Saskatchewan,Femmes,25 à 44 ans,0.28
+2019,Saskatchewan,Femmes,25 à 44 ans,0.26
+2020,Saskatchewan,Femmes,25 à 44 ans,0.26
+2015,Saskatchewan,Femmes,45 ans et plus,
+2016,Saskatchewan,Femmes,45 ans et plus,0.17
+2017,Saskatchewan,Femmes,45 ans et plus,0.19
+2018,Saskatchewan,Femmes,45 ans et plus,0.19
+2019,Saskatchewan,Femmes,45 ans et plus,0.18
+2020,Saskatchewan,Femmes,45 ans et plus,
+2015,Saskatchewan,Femmes,25 à 54 ans,0.23
+2016,Saskatchewan,Femmes,25 à 54 ans,0.24
+2017,Saskatchewan,Femmes,25 à 54 ans,0.28
+2018,Saskatchewan,Femmes,25 à 54 ans,0.28
+2019,Saskatchewan,Femmes,25 à 54 ans,0.26
+2020,Saskatchewan,Femmes,25 à 54 ans,0.26
+2015,Saskatchewan,Femmes,55 ans et plus,
+2016,Saskatchewan,Femmes,55 ans et plus,
+2017,Saskatchewan,Femmes,55 ans et plus,
+2018,Saskatchewan,Femmes,55 ans et plus,
+2019,Saskatchewan,Femmes,55 ans et plus,
+2020,Saskatchewan,Femmes,55 ans et plus,
+2015,Saskatchewan,Femmes,55 à 64 ans,
+2016,Saskatchewan,Femmes,55 à 64 ans,
+2017,Saskatchewan,Femmes,55 à 64 ans,
+2018,Saskatchewan,Femmes,55 à 64 ans,
+2019,Saskatchewan,Femmes,55 à 64 ans,
+2020,Saskatchewan,Femmes,55 à 64 ans,
+2015,Saskatchewan,Femmes,65 ans et plus,
+2016,Saskatchewan,Femmes,65 ans et plus,
+2017,Saskatchewan,Femmes,65 ans et plus,
+2018,Saskatchewan,Femmes,65 ans et plus,
+2019,Saskatchewan,Femmes,65 ans et plus,
+2020,Saskatchewan,Femmes,65 ans et plus,
+2015,Alberta,Les deux sexes,15 ans et plus,0.2
+2016,Alberta,Les deux sexes,15 ans et plus,0.27
+2017,Alberta,Les deux sexes,15 ans et plus,0.26
+2018,Alberta,Les deux sexes,15 ans et plus,0.25
+2019,Alberta,Les deux sexes,15 ans et plus,0.23
+2020,Alberta,Les deux sexes,15 ans et plus,0.28
+2015,Alberta,Les deux sexes,15 à 24 ans,0.18
+2016,Alberta,Les deux sexes,15 à 24 ans,0.2
+2017,Alberta,Les deux sexes,15 à 24 ans,0.22
+2018,Alberta,Les deux sexes,15 à 24 ans,0.23
+2019,Alberta,Les deux sexes,15 à 24 ans,0.2
+2020,Alberta,Les deux sexes,15 à 24 ans,0.23
+2015,Alberta,Les deux sexes,25 ans et plus,0.21
+2016,Alberta,Les deux sexes,25 ans et plus,0.3
+2017,Alberta,Les deux sexes,25 ans et plus,0.28
+2018,Alberta,Les deux sexes,25 ans et plus,0.26
+2019,Alberta,Les deux sexes,25 ans et plus,0.24
+2020,Alberta,Les deux sexes,25 ans et plus,0.3
+2015,Alberta,Les deux sexes,25 à 44 ans,0.25
+2016,Alberta,Les deux sexes,25 à 44 ans,0.33
+2017,Alberta,Les deux sexes,25 à 44 ans,0.31
+2018,Alberta,Les deux sexes,25 à 44 ans,0.29
+2019,Alberta,Les deux sexes,25 à 44 ans,0.27
+2020,Alberta,Les deux sexes,25 à 44 ans,0.32
+2015,Alberta,Les deux sexes,45 ans et plus,0.19
+2016,Alberta,Les deux sexes,45 ans et plus,0.27
+2017,Alberta,Les deux sexes,45 ans et plus,0.26
+2018,Alberta,Les deux sexes,45 ans et plus,0.23
+2019,Alberta,Les deux sexes,45 ans et plus,0.22
+2020,Alberta,Les deux sexes,45 ans et plus,0.27
+2015,Alberta,Les deux sexes,25 à 54 ans,0.25
+2016,Alberta,Les deux sexes,25 à 54 ans,0.34
+2017,Alberta,Les deux sexes,25 à 54 ans,0.33
+2018,Alberta,Les deux sexes,25 à 54 ans,0.31
+2019,Alberta,Les deux sexes,25 à 54 ans,0.27
+2020,Alberta,Les deux sexes,25 à 54 ans,0.33
+2015,Alberta,Les deux sexes,55 ans et plus,
+2016,Alberta,Les deux sexes,55 ans et plus,0.22
+2017,Alberta,Les deux sexes,55 ans et plus,0.2
+2018,Alberta,Les deux sexes,55 ans et plus,0.17
+2019,Alberta,Les deux sexes,55 ans et plus,0.18
+2020,Alberta,Les deux sexes,55 ans et plus,
+2015,Alberta,Les deux sexes,55 à 64 ans,
+2016,Alberta,Les deux sexes,55 à 64 ans,
+2017,Alberta,Les deux sexes,55 à 64 ans,0.26
+2018,Alberta,Les deux sexes,55 à 64 ans,
+2019,Alberta,Les deux sexes,55 à 64 ans,0.24
+2020,Alberta,Les deux sexes,55 à 64 ans,
+2015,Alberta,Les deux sexes,65 ans et plus,
+2016,Alberta,Les deux sexes,65 ans et plus,
+2017,Alberta,Les deux sexes,65 ans et plus,
+2018,Alberta,Les deux sexes,65 ans et plus,
+2019,Alberta,Les deux sexes,65 ans et plus,
+2020,Alberta,Les deux sexes,65 ans et plus,
+2015,Alberta,Hommes,15 ans et plus,0.25
+2016,Alberta,Hommes,15 ans et plus,0.34
+2017,Alberta,Hommes,15 ans et plus,0.31
+2018,Alberta,Hommes,15 ans et plus,0.29
+2019,Alberta,Hommes,15 ans et plus,0.28
+2020,Alberta,Hommes,15 ans et plus,0.32
+2015,Alberta,Hommes,15 à 24 ans,
+2016,Alberta,Hommes,15 à 24 ans,0.22
+2017,Alberta,Hommes,15 à 24 ans,
+2018,Alberta,Hommes,15 à 24 ans,
+2019,Alberta,Hommes,15 à 24 ans,0.22
+2020,Alberta,Hommes,15 à 24 ans,0.22
+2015,Alberta,Hommes,25 ans et plus,
+2016,Alberta,Hommes,25 ans et plus,0.42
+2017,Alberta,Hommes,25 ans et plus,0.37
+2018,Alberta,Hommes,25 ans et plus,0.33
+2019,Alberta,Hommes,25 ans et plus,0.32
+2020,Alberta,Hommes,25 ans et plus,0.38
+2015,Alberta,Hommes,25 à 44 ans,
+2016,Alberta,Hommes,25 à 44 ans,
+2017,Alberta,Hommes,25 à 44 ans,
+2018,Alberta,Hommes,25 à 44 ans,
+2019,Alberta,Hommes,25 à 44 ans,
+2020,Alberta,Hommes,25 à 44 ans,0.46
+2015,Alberta,Hommes,45 ans et plus,
+2016,Alberta,Hommes,45 ans et plus,
+2017,Alberta,Hommes,45 ans et plus,
+2018,Alberta,Hommes,45 ans et plus,
+2019,Alberta,Hommes,45 ans et plus,
+2020,Alberta,Hommes,45 ans et plus,
+2015,Alberta,Hommes,25 à 54 ans,
+2016,Alberta,Hommes,25 à 54 ans,0.56
+2017,Alberta,Hommes,25 à 54 ans,
+2018,Alberta,Hommes,25 à 54 ans,0.45
+2019,Alberta,Hommes,25 à 54 ans,
+2020,Alberta,Hommes,25 à 54 ans,0.47
+2015,Alberta,Hommes,55 ans et plus,
+2016,Alberta,Hommes,55 ans et plus,
+2017,Alberta,Hommes,55 ans et plus,
+2018,Alberta,Hommes,55 ans et plus,
+2019,Alberta,Hommes,55 ans et plus,
+2020,Alberta,Hommes,55 ans et plus,
+2015,Alberta,Hommes,55 à 64 ans,
+2016,Alberta,Hommes,55 à 64 ans,
+2017,Alberta,Hommes,55 à 64 ans,
+2018,Alberta,Hommes,55 à 64 ans,
+2019,Alberta,Hommes,55 à 64 ans,
+2020,Alberta,Hommes,55 à 64 ans,
+2015,Alberta,Hommes,65 ans et plus,
+2016,Alberta,Hommes,65 ans et plus,
+2017,Alberta,Hommes,65 ans et plus,
+2018,Alberta,Hommes,65 ans et plus,
+2019,Alberta,Hommes,65 ans et plus,
+2020,Alberta,Hommes,65 ans et plus,
+2015,Alberta,Femmes,15 ans et plus,0.18
+2016,Alberta,Femmes,15 ans et plus,0.23
+2017,Alberta,Femmes,15 ans et plus,0.24
+2018,Alberta,Femmes,15 ans et plus,0.23
+2019,Alberta,Femmes,15 ans et plus,0.21
+2020,Alberta,Femmes,15 ans et plus,0.26
+2015,Alberta,Femmes,15 à 24 ans,0.17
+2016,Alberta,Femmes,15 à 24 ans,0.18
+2017,Alberta,Femmes,15 à 24 ans,0.22
+2018,Alberta,Femmes,15 à 24 ans,0.22
+2019,Alberta,Femmes,15 à 24 ans,0.19
+2020,Alberta,Femmes,15 à 24 ans,0.24
+2015,Alberta,Femmes,25 ans et plus,0.19
+2016,Alberta,Femmes,25 ans et plus,0.25
+2017,Alberta,Femmes,25 ans et plus,0.25
+2018,Alberta,Femmes,25 ans et plus,0.23
+2019,Alberta,Femmes,25 ans et plus,0.21
+2020,Alberta,Femmes,25 ans et plus,0.27
+2015,Alberta,Femmes,25 à 44 ans,0.21
+2016,Alberta,Femmes,25 à 44 ans,0.27
+2017,Alberta,Femmes,25 à 44 ans,0.26
+2018,Alberta,Femmes,25 à 44 ans,0.25
+2019,Alberta,Femmes,25 à 44 ans,0.23
+2020,Alberta,Femmes,25 à 44 ans,0.28
+2015,Alberta,Femmes,45 ans et plus,
+2016,Alberta,Femmes,45 ans et plus,0.23
+2017,Alberta,Femmes,45 ans et plus,0.24
+2018,Alberta,Femmes,45 ans et plus,0.21
+2019,Alberta,Femmes,45 ans et plus,0.2
+2020,Alberta,Femmes,45 ans et plus,0.25
+2015,Alberta,Femmes,25 à 54 ans,0.21
+2016,Alberta,Femmes,25 à 54 ans,0.28
+2017,Alberta,Femmes,25 à 54 ans,0.27
+2018,Alberta,Femmes,25 à 54 ans,0.26
+2019,Alberta,Femmes,25 à 54 ans,0.24
+2020,Alberta,Femmes,25 à 54 ans,0.28
+2015,Alberta,Femmes,55 ans et plus,
+2016,Alberta,Femmes,55 ans et plus,
+2017,Alberta,Femmes,55 ans et plus,
+2018,Alberta,Femmes,55 ans et plus,
+2019,Alberta,Femmes,55 ans et plus,
+2020,Alberta,Femmes,55 ans et plus,
+2015,Alberta,Femmes,55 à 64 ans,
+2016,Alberta,Femmes,55 à 64 ans,
+2017,Alberta,Femmes,55 à 64 ans,
+2018,Alberta,Femmes,55 à 64 ans,
+2019,Alberta,Femmes,55 à 64 ans,
+2020,Alberta,Femmes,55 à 64 ans,
+2015,Alberta,Femmes,65 ans et plus,
+2016,Alberta,Femmes,65 ans et plus,
+2017,Alberta,Femmes,65 ans et plus,
+2018,Alberta,Femmes,65 ans et plus,
+2019,Alberta,Femmes,65 ans et plus,
+2020,Alberta,Femmes,65 ans et plus,
+2015,Colombie-Britannique,Les deux sexes,15 ans et plus,0.24
+2016,Colombie-Britannique,Les deux sexes,15 ans et plus,0.22
+2017,Colombie-Britannique,Les deux sexes,15 ans et plus,0.21
+2018,Colombie-Britannique,Les deux sexes,15 ans et plus,0.18
+2019,Colombie-Britannique,Les deux sexes,15 ans et plus,0.16
+2020,Colombie-Britannique,Les deux sexes,15 ans et plus,0.21
+2015,Colombie-Britannique,Les deux sexes,15 à 24 ans,0.21
+2016,Colombie-Britannique,Les deux sexes,15 à 24 ans,0.17
+2017,Colombie-Britannique,Les deux sexes,15 à 24 ans,0.17
+2018,Colombie-Britannique,Les deux sexes,15 à 24 ans,0.12
+2019,Colombie-Britannique,Les deux sexes,15 à 24 ans,0.13
+2020,Colombie-Britannique,Les deux sexes,15 à 24 ans,0.17
+2015,Colombie-Britannique,Les deux sexes,25 ans et plus,0.26
+2016,Colombie-Britannique,Les deux sexes,25 ans et plus,0.24
+2017,Colombie-Britannique,Les deux sexes,25 ans et plus,0.22
+2018,Colombie-Britannique,Les deux sexes,25 ans et plus,0.2
+2019,Colombie-Britannique,Les deux sexes,25 ans et plus,0.18
+2020,Colombie-Britannique,Les deux sexes,25 ans et plus,0.23
+2015,Colombie-Britannique,Les deux sexes,25 à 44 ans,0.29
+2016,Colombie-Britannique,Les deux sexes,25 à 44 ans,0.26
+2017,Colombie-Britannique,Les deux sexes,25 à 44 ans,0.27
+2018,Colombie-Britannique,Les deux sexes,25 à 44 ans,0.24
+2019,Colombie-Britannique,Les deux sexes,25 à 44 ans,0.2
+2020,Colombie-Britannique,Les deux sexes,25 à 44 ans,0.25
+2015,Colombie-Britannique,Les deux sexes,45 ans et plus,0.24
+2016,Colombie-Britannique,Les deux sexes,45 ans et plus,0.22
+2017,Colombie-Britannique,Les deux sexes,45 ans et plus,0.19
+2018,Colombie-Britannique,Les deux sexes,45 ans et plus,0.17
+2019,Colombie-Britannique,Les deux sexes,45 ans et plus,0.16
+2020,Colombie-Britannique,Les deux sexes,45 ans et plus,0.21
+2015,Colombie-Britannique,Les deux sexes,25 à 54 ans,0.31
+2016,Colombie-Britannique,Les deux sexes,25 à 54 ans,0.28
+2017,Colombie-Britannique,Les deux sexes,25 à 54 ans,0.27
+2018,Colombie-Britannique,Les deux sexes,25 à 54 ans,0.24
+2019,Colombie-Britannique,Les deux sexes,25 à 54 ans,0.21
+2020,Colombie-Britannique,Les deux sexes,25 à 54 ans,0.27
+2015,Colombie-Britannique,Les deux sexes,55 ans et plus,0.16
+2016,Colombie-Britannique,Les deux sexes,55 ans et plus,0.17
+2017,Colombie-Britannique,Les deux sexes,55 ans et plus,0.15
+2018,Colombie-Britannique,Les deux sexes,55 ans et plus,0.13
+2019,Colombie-Britannique,Les deux sexes,55 ans et plus,0.12
+2020,Colombie-Britannique,Les deux sexes,55 ans et plus,0.17
+2015,Colombie-Britannique,Les deux sexes,55 à 64 ans,
+2016,Colombie-Britannique,Les deux sexes,55 à 64 ans,0.22
+2017,Colombie-Britannique,Les deux sexes,55 à 64 ans,0.19
+2018,Colombie-Britannique,Les deux sexes,55 à 64 ans,0.17
+2019,Colombie-Britannique,Les deux sexes,55 à 64 ans,
+2020,Colombie-Britannique,Les deux sexes,55 à 64 ans,
+2015,Colombie-Britannique,Les deux sexes,65 ans et plus,
+2016,Colombie-Britannique,Les deux sexes,65 ans et plus,
+2017,Colombie-Britannique,Les deux sexes,65 ans et plus,
+2018,Colombie-Britannique,Les deux sexes,65 ans et plus,
+2019,Colombie-Britannique,Les deux sexes,65 ans et plus,
+2020,Colombie-Britannique,Les deux sexes,65 ans et plus,
+2015,Colombie-Britannique,Hommes,15 ans et plus,0.28
+2016,Colombie-Britannique,Hommes,15 ans et plus,0.25
+2017,Colombie-Britannique,Hommes,15 ans et plus,0.24
+2018,Colombie-Britannique,Hommes,15 ans et plus,0.21
+2019,Colombie-Britannique,Hommes,15 ans et plus,0.19
+2020,Colombie-Britannique,Hommes,15 ans et plus,0.27
+2015,Colombie-Britannique,Hommes,15 à 24 ans,0.2
+2016,Colombie-Britannique,Hommes,15 à 24 ans,
+2017,Colombie-Britannique,Hommes,15 à 24 ans,
+2018,Colombie-Britannique,Hommes,15 à 24 ans,
+2019,Colombie-Britannique,Hommes,15 à 24 ans,
+2020,Colombie-Britannique,Hommes,15 à 24 ans,
+2015,Colombie-Britannique,Hommes,25 ans et plus,0.34
+2016,Colombie-Britannique,Hommes,25 ans et plus,0.3
+2017,Colombie-Britannique,Hommes,25 ans et plus,0.29
+2018,Colombie-Britannique,Hommes,25 ans et plus,0.27
+2019,Colombie-Britannique,Hommes,25 ans et plus,0.23
+2020,Colombie-Britannique,Hommes,25 ans et plus,0.32
+2015,Colombie-Britannique,Hommes,25 à 44 ans,
+2016,Colombie-Britannique,Hommes,25 à 44 ans,
+2017,Colombie-Britannique,Hommes,25 à 44 ans,0.39
+2018,Colombie-Britannique,Hommes,25 à 44 ans,
+2019,Colombie-Britannique,Hommes,25 à 44 ans,
+2020,Colombie-Britannique,Hommes,25 à 44 ans,
+2015,Colombie-Britannique,Hommes,45 ans et plus,
+2016,Colombie-Britannique,Hommes,45 ans et plus,0.26
+2017,Colombie-Britannique,Hommes,45 ans et plus,0.23
+2018,Colombie-Britannique,Hommes,45 ans et plus,0.21
+2019,Colombie-Britannique,Hommes,45 ans et plus,0.2
+2020,Colombie-Britannique,Hommes,45 ans et plus,
+2015,Colombie-Britannique,Hommes,25 à 54 ans,0.47
+2016,Colombie-Britannique,Hommes,25 à 54 ans,0.39
+2017,Colombie-Britannique,Hommes,25 à 54 ans,0.39
+2018,Colombie-Britannique,Hommes,25 à 54 ans,0.37
+2019,Colombie-Britannique,Hommes,25 à 54 ans,0.31
+2020,Colombie-Britannique,Hommes,25 à 54 ans,0.43
+2015,Colombie-Britannique,Hommes,55 ans et plus,
+2016,Colombie-Britannique,Hommes,55 ans et plus,
+2017,Colombie-Britannique,Hommes,55 ans et plus,
+2018,Colombie-Britannique,Hommes,55 ans et plus,
+2019,Colombie-Britannique,Hommes,55 ans et plus,
+2020,Colombie-Britannique,Hommes,55 ans et plus,
+2015,Colombie-Britannique,Hommes,55 à 64 ans,
+2016,Colombie-Britannique,Hommes,55 à 64 ans,
+2017,Colombie-Britannique,Hommes,55 à 64 ans,
+2018,Colombie-Britannique,Hommes,55 à 64 ans,
+2019,Colombie-Britannique,Hommes,55 à 64 ans,
+2020,Colombie-Britannique,Hommes,55 à 64 ans,
+2015,Colombie-Britannique,Hommes,65 ans et plus,
+2016,Colombie-Britannique,Hommes,65 ans et plus,
+2017,Colombie-Britannique,Hommes,65 ans et plus,
+2018,Colombie-Britannique,Hommes,65 ans et plus,
+2019,Colombie-Britannique,Hommes,65 ans et plus,
+2020,Colombie-Britannique,Hommes,65 ans et plus,
+2015,Colombie-Britannique,Femmes,15 ans et plus,0.22
+2016,Colombie-Britannique,Femmes,15 ans et plus,0.2
+2017,Colombie-Britannique,Femmes,15 ans et plus,0.19
+2018,Colombie-Britannique,Femmes,15 ans et plus,0.16
+2019,Colombie-Britannique,Femmes,15 ans et plus,0.15
+2020,Colombie-Britannique,Femmes,15 ans et plus,0.18
+2015,Colombie-Britannique,Femmes,15 à 24 ans,0.21
+2016,Colombie-Britannique,Femmes,15 à 24 ans,0.17
+2017,Colombie-Britannique,Femmes,15 à 24 ans,0.17
+2018,Colombie-Britannique,Femmes,15 à 24 ans,0.12
+2019,Colombie-Britannique,Femmes,15 à 24 ans,0.13
+2020,Colombie-Britannique,Femmes,15 à 24 ans,0.18
+2015,Colombie-Britannique,Femmes,25 ans et plus,0.23
+2016,Colombie-Britannique,Femmes,25 ans et plus,0.21
+2017,Colombie-Britannique,Femmes,25 ans et plus,0.2
+2018,Colombie-Britannique,Femmes,25 ans et plus,0.17
+2019,Colombie-Britannique,Femmes,25 ans et plus,0.15
+2020,Colombie-Britannique,Femmes,25 ans et plus,0.18
+2015,Colombie-Britannique,Femmes,25 à 44 ans,0.23
+2016,Colombie-Britannique,Femmes,25 à 44 ans,0.22
+2017,Colombie-Britannique,Femmes,25 à 44 ans,0.23
+2018,Colombie-Britannique,Femmes,25 à 44 ans,0.2
+2019,Colombie-Britannique,Femmes,25 à 44 ans,0.17
+2020,Colombie-Britannique,Femmes,25 à 44 ans,0.2
+2015,Colombie-Britannique,Femmes,45 ans et plus,0.22
+2016,Colombie-Britannique,Femmes,45 ans et plus,0.2
+2017,Colombie-Britannique,Femmes,45 ans et plus,0.17
+2018,Colombie-Britannique,Femmes,45 ans et plus,0.15
+2019,Colombie-Britannique,Femmes,45 ans et plus,0.14
+2020,Colombie-Britannique,Femmes,45 ans et plus,0.17
+2015,Colombie-Britannique,Femmes,25 à 54 ans,0.26
+2016,Colombie-Britannique,Femmes,25 à 54 ans,0.24
+2017,Colombie-Britannique,Femmes,25 à 54 ans,0.23
+2018,Colombie-Britannique,Femmes,25 à 54 ans,0.2
+2019,Colombie-Britannique,Femmes,25 à 54 ans,0.18
+2020,Colombie-Britannique,Femmes,25 à 54 ans,0.21
+2015,Colombie-Britannique,Femmes,55 ans et plus,
+2016,Colombie-Britannique,Femmes,55 ans et plus,
+2017,Colombie-Britannique,Femmes,55 ans et plus,
+2018,Colombie-Britannique,Femmes,55 ans et plus,
+2019,Colombie-Britannique,Femmes,55 ans et plus,
+2020,Colombie-Britannique,Femmes,55 ans et plus,
+2015,Colombie-Britannique,Femmes,55 à 64 ans,
+2016,Colombie-Britannique,Femmes,55 à 64 ans,
+2017,Colombie-Britannique,Femmes,55 à 64 ans,
+2018,Colombie-Britannique,Femmes,55 à 64 ans,
+2019,Colombie-Britannique,Femmes,55 à 64 ans,
+2020,Colombie-Britannique,Femmes,55 à 64 ans,
+2015,Colombie-Britannique,Femmes,65 ans et plus,
+2016,Colombie-Britannique,Femmes,65 ans et plus,
+2017,Colombie-Britannique,Femmes,65 ans et plus,
+2018,Colombie-Britannique,Femmes,65 ans et plus,
+2019,Colombie-Britannique,Femmes,65 ans et plus,
+2020,Colombie-Britannique,Femmes,65 ans et plus,
