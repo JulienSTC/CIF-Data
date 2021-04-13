@@ -1,17 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.Alberta,84,2
+data.Alberta,111,3
 data.Atlantic,120,1
-data.British Columbia,204,3
-data.Canada,204,3
-data.Manitoba,84,2
-data.New Brunswick,84,2
-data.Newfoundland and Labrador,84,2
+data.British Columbia,231,4
+data.Canada,231,4
+data.Manitoba,111,3
+data.New Brunswick,111,3
+data.Newfoundland and Labrador,111,3
 data.Northwest Territories,1,1
-data.Nova Scotia,84,2
+data.Nova Scotia,111,3
 data.Nunavut,1,1
-data.Ontario,204,3
+data.Ontario,231,4
 data.Prairies,120,1
-data.Prince Edward Island,84,2
-data.Quebec,204,3
-data.Saskatchewan,84,2
+data.Prince Edward Island,111,3
+data.Quebec,231,4
+data.Saskatchewan,111,3
 data.Yukon,1,1

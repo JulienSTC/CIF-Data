@@ -2,9 +2,10 @@ Disaggregation,Number of indicators,Number of values
 Age group,4,17
 Area,1,2
 data.Activity group,1,5
+data.Age group,1,9
 data.Age,3,32
-data.Geography,3,16
-data.Sex,3,6
+data.Geography,4,16
+data.Sex,4,6
 Demand characteristics,1,7
 Demographic characteristics,1,8
 Energy Savings,1,2
