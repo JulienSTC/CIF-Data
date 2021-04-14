@@ -34,7 +34,7 @@ loading: Chargement
 loading_map: Chargement de la carte
 map: Carte
 national_metadata: Métadonnées nationales
-national_metadata_blurb: La section ci-dessous fournit une description de l'indicateur ainsi que l'ambition canadienne correspondante.
+national_metadata_blurb: La section ci-dessous fournit une description de l'indicateur.
 no_data_hint: Aucune option disponible en raison des filtres ci-dessus
 select_all: Tout sélectionner
 series: Séries
