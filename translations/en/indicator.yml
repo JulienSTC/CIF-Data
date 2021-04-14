@@ -54,7 +54,7 @@ loading: Loading
 loading_map: Loading map
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: National Metadata
-national_metadata_blurb: The table below contains a description of the indicator and the corresponding Canadian ambition.
+national_metadata_blurb: The table below contains more information regarding the indicator.
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Global Metadata
 global_metadata_blurb: This table provides information on metadata for SDG
