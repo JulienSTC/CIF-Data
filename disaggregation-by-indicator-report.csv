@@ -18,7 +18,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-1-1,Region,1
 #6-3-1,Sector,1
 #7-1-1,Energy Savings,1
-#7-2-1,"Geography, Fuel type, Demand characteristics, Unit of measure",4
+#7-1-2,"Geography, Fuel type, Demand characteristics, Unit of measure",4
 #7-3-1,"Geography, Type of electricity generation",2
 #8-1-1,"data.Geography, data.Sex, data.Age",3
 #8-3-1,"Geography, Age group, Sex",3
