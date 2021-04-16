@@ -15,6 +15,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-1,"Geography, Age group, Sex, Demographic characteristics",4
 #4-2-1,"Geography, Age group, Sex, Educational attainment level",4
 #5-2-1,"data.Geography, data.Sex, data.Age, data.Activity group",4
+#5-3-1,Group,1
 #6-1-1,Region,1
 #6-3-1,Sector,1
 #7-1-1,Energy Savings,1
