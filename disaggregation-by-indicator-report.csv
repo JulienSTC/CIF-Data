@@ -14,6 +14,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3-1,"data.Geography, data.Sex, data.Grade, data.Type of e-cigarettes",4
 #3-4-1,"data.Geography, data.Sex, data.Age group, data.Measures",4
 #3-5-1,"data.Geography, data.Age, data.Sex",3
+#3-7-1,"data.Geography, data.Sex, data.Age group",3
 #4-1-1,"Geography, Age group, Sex, Demographic characteristics",4
 #4-2-1,"Geography, Age group, Sex, Educational attainment level",4
 #5-3-1,"data.Geography, data.Activity group, data.Age, data.Sex",4
