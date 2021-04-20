@@ -4,7 +4,7 @@ Year,data.Geography,data.Fuel Type,Value
 2021,data.British Columbia,data.All fuel types,1177
 2021,data.British Columbia,data.Electric,1172
 2021,data.British Columbia,data.Hydrogen,4
-2021,data.British Columbia,data.Liquefied Natural Gas (LNG),1
+2021,data.British Columbia,data.Liquefied Natural Gas,1
 2021,data.Manitoba,data.All fuel types,65
 2021,data.Manitoba,data.Electric,65
 2021,data.New Brunswick,data.All fuel types,130
@@ -17,13 +17,13 @@ Year,data.Geography,data.Fuel Type,Value
 2021,data.Northwest Territories,data.Electric,1
 2021,data.Ontario,data.All fuel types,1758
 2021,data.Ontario,data.Electric,1757
-2021,data.Ontario,data.Liquefied Natural Gas (LNG),1
+2021,data.Ontario,data.Liquefied Natural Gas,1
 2021,data.Prince Edward Island,data.All fuel types,41
 2021,data.Prince Edward Island,data.Electric,41
 2021,data.Quebec,data.All fuel types,2825
 2021,data.Quebec,data.Electric,2820
 2021,data.Quebec,data.Hydrogen,2
-2021,data.Quebec,data.Liquefied Natural Gas (LNG),3
+2021,data.Quebec,data.Liquefied Natural Gas,3
 2021,data.Saskatchewan,data.All fuel types,69
 2021,data.Saskatchewan,data.Electric,69
 2021,data.Yukon,data.All fuel types,6
@@ -31,4 +31,4 @@ Year,data.Geography,data.Fuel Type,Value
 2021,data.Canada,data.All fuel types,6443
 2021,data.Canada,data.Electric,6432
 2021,data.Canada,data.Hydrogen,6
-2021,data.Canada,data.Liquefied Natural Gas (LNG),5
+2021,data.Canada,data.Liquefied Natural Gas,5
