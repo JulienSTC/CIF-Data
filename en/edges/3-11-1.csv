@@ -1,4 +1,4 @@
 From,To
-Geography,data.Age at time of death
-data.Age at time of death,Sex
-Sex,data.Leading causes of death (ICD-10)
+Geography,Age at time of death
+Age at time of death,Sex
+Sex,Leading causes of death
