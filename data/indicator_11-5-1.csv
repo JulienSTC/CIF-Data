@@ -17,18 +17,18 @@ Year,data.Geography,data.Type of commute,Value
 2016,"data.Saint John, New Brunswick",data.Active transport,5.4
 2016,data.Quebec,data.Public transit,13.7
 2016,data.Quebec,data.Active transport,7.1
-2016,"data.Montréal, Quebec",data.Public transit,22.3
-2016,"data.Montréal, Quebec",data.Active transport,7.2
+2016,"data.Montreal, Quebec",data.Public transit,22.3
+2016,"data.Montreal, Quebec",data.Active transport,7.2
 2016,"data.Ottawa - Gatineau (Quebec part), Quebec",data.Public transit,14.5
 2016,"data.Ottawa - Gatineau (Quebec part), Quebec",data.Active transport,6
-2016,"data.Québec, Quebec",data.Public transit,11.1
-2016,"data.Québec, Quebec",data.Active transport,7.6
+2016,"data.Quebec, Quebec",data.Public transit,11.1
+2016,"data.Quebec, Quebec",data.Active transport,7.6
 2016,"data.Saguenay, Quebec",data.Public transit,2.2
 2016,"data.Saguenay, Quebec",data.Active transport,4.3
 2016,"data.Sherbrooke, Quebec",data.Public transit,4.2
 2016,"data.Sherbrooke, Quebec",data.Active transport,6.3
-2016,"data.Trois-Rivières, Quebec",data.Public transit,2.3
-2016,"data.Trois-Rivières, Quebec",data.Active transport,5.3
+2016,"data.Trois-Rivieres, Quebec",data.Public transit,2.3
+2016,"data.Trois-Rivieres, Quebec",data.Active transport,5.3
 2016,data.Ontario,data.Public transit,14.6
 2016,data.Ontario,data.Active transport,6.5
 2016,"data.Barrie, Ontario",data.Public transit,4.3
