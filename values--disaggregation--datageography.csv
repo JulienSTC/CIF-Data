@@ -20,7 +20,8 @@ data.Canada,658,14
 "data.London, Ontario",3,2
 data.Manitoba,191,13
 "data.Moncton, New Brunswick",3,2
-"data.Montr�al, Quebec",3,2
+"data.Montr�al, Quebec",1,1
+"data.Montreal, Quebec",2,1
 data.New Brunswick,191,13
 data.Newfoundland and Labrador,191,13
 data.Northwest Territories,17,7
@@ -33,7 +34,8 @@ data.Ontario,312,14
 "data.Peterborough, Ontario",3,2
 data.Prairies,120,1
 data.Prince Edward Island,191,13
-"data.Qu�bec, Quebec",3,2
+"data.Qu�bec, Quebec",1,1
+"data.Quebec, Quebec",2,1
 data.Quebec,313,14
 "data.Regina, Saskatchewan",3,2
 "data.Saguenay, Quebec",3,2
@@ -46,7 +48,8 @@ data.Saskatchewan,191,13
 "data.Thunder Bay, Ontario",3,2
 "data.Toronto, Ontario",3,2
 "data.Total, Organisation for Economic Co-operation and Development (OECD)",1,1
-"data.Trois-Rivi�res, Quebec",3,2
+"data.Trois-Rivieres, Quebec",2,1
+"data.Trois-Rivi�res, Quebec",1,1
 "data.Vancouver, British Columbia",3,2
 "data.Victoria, British Columbia",3,2
 "data.Windsor, Ontario",3,2
