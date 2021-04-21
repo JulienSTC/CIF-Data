@@ -1,54 +1,54 @@
 Value,Disaggregation combinations using this value,Number of indicators
-"data.Abbotsford - Mission, British Columbia",1,1
-data.Alberta,189,12
+"data.Abbotsford - Mission, British Columbia",3,2
+data.Alberta,191,13
 data.Atlantic,120,1
-"data.Barrie, Ontario",1,1
-"data.Belleville, Ontario",1,1
-"data.Brantford, Ontario",1,1
-data.British Columbia,311,13
-"data.Calgary, Alberta",1,1
+"data.Barrie, Ontario",3,2
+"data.Belleville, Ontario",3,2
+"data.Brantford, Ontario",3,2
+data.British Columbia,313,14
+"data.Calgary, Alberta",3,2
 data.Canada,658,14
-"data.Edmonton, Alberta",1,1
-"data.Greater Sudbury / Grand Sudbury, Ontario",1,1
-"data.Guelph, Ontario",1,1
-"data.Halifax, Nova Scotia",1,1
-"data.Hamilton, Ontario",1,1
-"data.Kelowna, British Columbia",1,1
-"data.Kingston, Ontario",1,1
-"data.Kitchener - Cambridge - Waterloo, Ontario",1,1
-"data.Lethbridge, Alberta",1,1
-"data.London, Ontario",1,1
-data.Manitoba,189,12
-"data.Moncton, New Brunswick",1,1
-"data.Montr�al, Quebec",1,1
-data.New Brunswick,189,12
-data.Newfoundland and Labrador,189,12
-data.Northwest Territories,15,6
-data.Nova Scotia,189,12
-data.Nunavut,13,5
-data.Ontario,310,13
-"data.Oshawa, Ontario",1,1
-"data.Ottawa - Gatineau (Ontario part), Ontario",1,1
-"data.Ottawa - Gatineau (Quebec part), Quebec",1,1
-"data.Peterborough, Ontario",1,1
+"data.Edmonton, Alberta",3,2
+"data.Greater Sudbury / Grand Sudbury, Ontario",3,2
+"data.Guelph, Ontario",3,2
+"data.Halifax, Nova Scotia",3,2
+"data.Hamilton, Ontario",3,2
+"data.Kelowna, British Columbia",3,2
+"data.Kingston, Ontario",3,2
+"data.Kitchener - Cambridge - Waterloo, Ontario",3,2
+"data.Lethbridge, Alberta",3,2
+"data.London, Ontario",3,2
+data.Manitoba,191,13
+"data.Moncton, New Brunswick",3,2
+"data.Montr�al, Quebec",3,2
+data.New Brunswick,191,13
+data.Newfoundland and Labrador,191,13
+data.Northwest Territories,17,7
+data.Nova Scotia,191,13
+data.Nunavut,15,6
+data.Ontario,312,14
+"data.Oshawa, Ontario",3,2
+"data.Ottawa - Gatineau (Ontario part), Ontario",3,2
+"data.Ottawa - Gatineau (Quebec part), Quebec",3,2
+"data.Peterborough, Ontario",3,2
 data.Prairies,120,1
-data.Prince Edward Island,189,12
-"data.Qu�bec, Quebec",1,1
-data.Quebec,311,13
-"data.Regina, Saskatchewan",1,1
-"data.Saguenay, Quebec",1,1
-"data.Saint John, New Brunswick",1,1
-data.Saskatchewan,189,12
-"data.Saskatoon, Saskatchewan",1,1
-"data.Sherbrooke, Quebec",1,1
-"data.St. Catharines - Niagara, Ontario",1,1
-"data.St. John's, Newfoundland and Labrador",1,1
-"data.Thunder Bay, Ontario",1,1
-"data.Toronto, Ontario",1,1
+data.Prince Edward Island,191,13
+"data.Qu�bec, Quebec",3,2
+data.Quebec,313,14
+"data.Regina, Saskatchewan",3,2
+"data.Saguenay, Quebec",3,2
+"data.Saint John, New Brunswick",3,2
+data.Saskatchewan,191,13
+"data.Saskatoon, Saskatchewan",3,2
+"data.Sherbrooke, Quebec",3,2
+"data.St. Catharines - Niagara, Ontario",3,2
+"data.St. John's, Newfoundland and Labrador",3,2
+"data.Thunder Bay, Ontario",3,2
+"data.Toronto, Ontario",3,2
 "data.Total, Organisation for Economic Co-operation and Development (OECD)",1,1
-"data.Trois-Rivi�res, Quebec",1,1
-"data.Vancouver, British Columbia",1,1
-"data.Victoria, British Columbia",1,1
-"data.Windsor, Ontario",1,1
-"data.Winnipeg, Manitoba",1,1
-data.Yukon,15,6
+"data.Trois-Rivi�res, Quebec",3,2
+"data.Vancouver, British Columbia",3,2
+"data.Victoria, British Columbia",3,2
+"data.Windsor, Ontario",3,2
+"data.Winnipeg, Manitoba",3,2
+data.Yukon,17,7
