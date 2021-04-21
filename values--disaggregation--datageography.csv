@@ -1,18 +1,54 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.Alberta,188,11
+"data.Abbotsford - Mission, British Columbia",1,1
+data.Alberta,189,12
 data.Atlantic,120,1
-data.British Columbia,310,12
+"data.Barrie, Ontario",1,1
+"data.Belleville, Ontario",1,1
+"data.Brantford, Ontario",1,1
+data.British Columbia,311,13
+"data.Calgary, Alberta",1,1
 data.Canada,658,14
-data.Manitoba,188,11
-data.New Brunswick,188,11
-data.Newfoundland and Labrador,188,11
-data.Northwest Territories,14,5
-data.Nova Scotia,188,11
-data.Nunavut,12,4
-data.Ontario,309,12
+"data.Edmonton, Alberta",1,1
+"data.Greater Sudbury / Grand Sudbury, Ontario",1,1
+"data.Guelph, Ontario",1,1
+"data.Halifax, Nova Scotia",1,1
+"data.Hamilton, Ontario",1,1
+"data.Kelowna, British Columbia",1,1
+"data.Kingston, Ontario",1,1
+"data.Kitchener - Cambridge - Waterloo, Ontario",1,1
+"data.Lethbridge, Alberta",1,1
+"data.London, Ontario",1,1
+data.Manitoba,189,12
+"data.Moncton, New Brunswick",1,1
+"data.Montr�al, Quebec",1,1
+data.New Brunswick,189,12
+data.Newfoundland and Labrador,189,12
+data.Northwest Territories,15,6
+data.Nova Scotia,189,12
+data.Nunavut,13,5
+data.Ontario,310,13
+"data.Oshawa, Ontario",1,1
+"data.Ottawa - Gatineau (Ontario part), Ontario",1,1
+"data.Ottawa - Gatineau (Quebec part), Quebec",1,1
+"data.Peterborough, Ontario",1,1
 data.Prairies,120,1
-data.Prince Edward Island,188,11
-data.Quebec,310,12
-data.Saskatchewan,188,11
+data.Prince Edward Island,189,12
+"data.Qu�bec, Quebec",1,1
+data.Quebec,311,13
+"data.Regina, Saskatchewan",1,1
+"data.Saguenay, Quebec",1,1
+"data.Saint John, New Brunswick",1,1
+data.Saskatchewan,189,12
+"data.Saskatoon, Saskatchewan",1,1
+"data.Sherbrooke, Quebec",1,1
+"data.St. Catharines - Niagara, Ontario",1,1
+"data.St. John's, Newfoundland and Labrador",1,1
+"data.Thunder Bay, Ontario",1,1
+"data.Toronto, Ontario",1,1
 "data.Total, Organisation for Economic Co-operation and Development (OECD)",1,1
-data.Yukon,14,5
+"data.Trois-Rivi�res, Quebec",1,1
+"data.Vancouver, British Columbia",1,1
+"data.Victoria, British Columbia",1,1
+"data.Windsor, Ontario",1,1
+"data.Winnipeg, Manitoba",1,1
+data.Yukon,15,6
