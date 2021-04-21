@@ -1,18 +1,18 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.Alberta,185,10
+data.Alberta,186,11
 data.Atlantic,120,1
-data.British Columbia,307,11
-data.Canada,655,13
-data.Manitoba,185,10
-data.New Brunswick,185,10
-data.Newfoundland and Labrador,185,10
-data.Northwest Territories,11,4
-data.Nova Scotia,185,10
-data.Nunavut,9,3
-data.Ontario,306,11
+data.British Columbia,308,12
+data.Canada,656,14
+data.Manitoba,186,11
+data.New Brunswick,186,11
+data.Newfoundland and Labrador,186,11
+data.Northwest Territories,12,5
+data.Nova Scotia,186,11
+data.Nunavut,10,4
+data.Ontario,307,12
 data.Prairies,120,1
-data.Prince Edward Island,185,10
-data.Quebec,307,11
-data.Saskatchewan,185,10
+data.Prince Edward Island,186,11
+data.Quebec,308,12
+data.Saskatchewan,186,11
 "data.Total, Organisation for Economic Co-operation and Development (OECD)",1,1
-data.Yukon,11,4
+data.Yukon,12,5
