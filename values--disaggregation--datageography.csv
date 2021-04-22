@@ -1,11 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
 "data.Abbotsford - Mission, British Columbia",3,2
-data.Alberta,191,13
+data.Alberta,192,14
 data.Atlantic,120,1
 "data.Barrie, Ontario",3,2
 "data.Belleville, Ontario",3,2
 "data.Brantford, Ontario",3,2
-data.British Columbia,313,14
+data.British Columbia,314,15
 "data.Calgary, Alberta",3,2
 data.Canada,658,14
 "data.Edmonton, Alberta",3,2
@@ -18,29 +18,31 @@ data.Canada,658,14
 "data.Kitchener - Cambridge - Waterloo, Ontario",3,2
 "data.Lethbridge, Alberta",3,2
 "data.London, Ontario",3,2
-data.Manitoba,191,13
+data.Manitoba,192,14
 "data.Moncton, New Brunswick",3,2
 "data.Montr�al, Quebec",1,1
 "data.Montreal, Quebec",2,1
-data.New Brunswick,191,13
-data.Newfoundland and Labrador,191,13
-data.Northwest Territories,17,7
-data.Nova Scotia,191,13
-data.Nunavut,15,6
-data.Ontario,312,14
+data.National marine,1,1
+data.National terrestrial,1,1
+data.New Brunswick,192,14
+data.Newfoundland and Labrador,192,14
+data.Northwest Territories,18,8
+data.Nova Scotia,192,14
+data.Nunavut,16,7
+data.Ontario,313,15
 "data.Oshawa, Ontario",3,2
 "data.Ottawa - Gatineau (Ontario part), Ontario",3,2
 "data.Ottawa - Gatineau (Quebec part), Quebec",3,2
 "data.Peterborough, Ontario",3,2
 data.Prairies,120,1
-data.Prince Edward Island,191,13
+data.Prince Edward Island,192,14
 "data.Qu�bec, Quebec",1,1
 "data.Quebec, Quebec",2,1
-data.Quebec,313,14
+data.Quebec,314,15
 "data.Regina, Saskatchewan",3,2
 "data.Saguenay, Quebec",3,2
 "data.Saint John, New Brunswick",3,2
-data.Saskatchewan,191,13
+data.Saskatchewan,192,14
 "data.Saskatoon, Saskatchewan",3,2
 "data.Sherbrooke, Quebec",3,2
 "data.St. Catharines - Niagara, Ontario",3,2
@@ -54,4 +56,4 @@ data.Saskatchewan,191,13
 "data.Victoria, British Columbia",3,2
 "data.Windsor, Ontario",3,2
 "data.Winnipeg, Manitoba",3,2
-data.Yukon,17,7
+data.Yukon,18,8
