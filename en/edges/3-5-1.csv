@@ -1,3 +1,3 @@
 From,To
-Geography,Age
-Age,Sex
+data.Geography,data.Age
+data.Age,data.Sex
