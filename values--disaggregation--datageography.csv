@@ -1,13 +1,13 @@
 Value,Disaggregation combinations using this value,Number of indicators
 "data.Abbotsford - Mission, British Columbia",3,2
-data.Alberta,332,17
+data.Alberta,321,16
 data.Atlantic,120,1
 "data.Barrie, Ontario",3,2
 "data.Belleville, Ontario",3,2
 "data.Brantford, Ontario",3,2
-data.British Columbia,454,18
+data.British Columbia,443,17
 "data.Calgary, Alberta",3,2
-data.Canada,859,17
+data.Canada,787,16
 "data.Edmonton, Alberta",3,2
 "data.Greater Sudbury / Grand Sudbury, Ontario",3,2
 "data.Guelph, Ontario",3,2
@@ -18,31 +18,31 @@ data.Canada,859,17
 "data.Kitchener - Cambridge - Waterloo, Ontario",3,2
 "data.Lethbridge, Alberta",3,2
 "data.London, Ontario",3,2
-data.Manitoba,332,17
+data.Manitoba,321,16
 "data.Moncton, New Brunswick",3,2
 "data.Montr�al, Quebec",1,1
 "data.Montreal, Quebec",2,1
 data.National marine,1,1
 data.National terrestrial,1,1
-data.New Brunswick,332,17
-data.Newfoundland and Labrador,332,17
-data.Northwest Territories,158,11
-data.Nova Scotia,332,17
-data.Nunavut,156,10
-data.Ontario,453,18
+data.New Brunswick,321,16
+data.Newfoundland and Labrador,321,16
+data.Northwest Territories,147,10
+data.Nova Scotia,321,16
+data.Nunavut,145,9
+data.Ontario,442,17
 "data.Oshawa, Ontario",3,2
 "data.Ottawa - Gatineau (Ontario part), Ontario",3,2
 "data.Ottawa - Gatineau (Quebec part), Quebec",3,2
 "data.Peterborough, Ontario",3,2
 data.Prairies,120,1
-data.Prince Edward Island,332,17
+data.Prince Edward Island,321,16
 "data.Qu�bec, Quebec",1,1
 "data.Quebec, Quebec",2,1
-data.Quebec,454,18
+data.Quebec,443,17
 "data.Regina, Saskatchewan",3,2
 "data.Saguenay, Quebec",3,2
 "data.Saint John, New Brunswick",3,2
-data.Saskatchewan,332,17
+data.Saskatchewan,321,16
 "data.Saskatoon, Saskatchewan",3,2
 "data.Sherbrooke, Quebec",3,2
 "data.St. Catharines - Niagara, Ontario",3,2
@@ -56,4 +56,4 @@ data.Saskatchewan,332,17
 "data.Victoria, British Columbia",3,2
 "data.Windsor, Ontario",3,2
 "data.Winnipeg, Manitoba",3,2
-data.Yukon,158,11
+data.Yukon,147,10
