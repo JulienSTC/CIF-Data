@@ -3,7 +3,7 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,data.Pertussis,data.by 2 years of age,data.All children,75.8
 2017,data.Canada,data.Tetanus,data.by 2 years of age,data.All children,75.8
 2017,data.Canada,data.Polio,data.by 2 years of age,data.All children,90.7
-2017,data.Canada,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,73.4
+2017,data.Canada,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,73.4
 2017,data.Canada,data.Measles,data.by 2 years of age,data.All children,90.2
 2017,data.Canada,data.Mumps,data.by 2 years of age,data.All children,89.9
 2017,data.Canada,data.Rubella,data.by 2 years of age,data.All children,90
@@ -16,7 +16,7 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,data.Pertussis,data.by 2 years of age,data.Male,74.1
 2017,data.Canada,data.Tetanus,data.by 2 years of age,data.Male,74.1
 2017,data.Canada,data.Polio,data.by 2 years of age,data.Male,90
-2017,data.Canada,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.Male,72.1
+2017,data.Canada,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.Male,72.1
 2017,data.Canada,data.Measles,data.by 2 years of age,data.Male,88.9
 2017,data.Canada,data.Mumps,data.by 2 years of age,data.Male,88.8
 2017,data.Canada,data.Rubella,data.by 2 years of age,data.Male,88.8
@@ -29,7 +29,7 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,data.Pertussis,data.by 2 years of age,data.Female,77.5
 2017,data.Canada,data.Tetanus,data.by 2 years of age,data.Female,77.5
 2017,data.Canada,data.Polio,data.by 2 years of age,data.Female,91.4
-2017,data.Canada,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.Female,74.7
+2017,data.Canada,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.Female,74.7
 2017,data.Canada,data.Measles,data.by 2 years of age,data.Female,91.6
 2017,data.Canada,data.Mumps,data.by 2 years of age,data.Female,91.1
 2017,data.Canada,data.Rubella,data.by 2 years of age,data.Female,91.1
@@ -42,7 +42,7 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,data.Pertussis,data.by 7 years of age,data.All children,80.5
 2017,data.Canada,data.Tetanus,data.by 7 years of age,data.All children,80.5
 2017,data.Canada,data.Polio,data.by 7 years of age,data.All children,92.3
-2017,data.Canada,data.Haemophilus influenzae type B (Hib),data.by 7 years of age,data.All children,83.9
+2017,data.Canada,data.Haemophilus influenzaeÂ type B (Hib),data.by 7 years of age,data.All children,83.9
 2017,data.Canada,data.Measles,data.by 7 years of age,data.All children,87
 2017,data.Canada,data.Mumps,data.by 7 years of age,data.All children,86.4
 2017,data.Canada,data.Rubella,data.by 7 years of age,data.All children,94.5
@@ -50,7 +50,7 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,data.Pertussis,data.by 7 years of age,data.Male,76.4
 2017,data.Canada,data.Tetanus,data.by 7 years of age,data.Male,76.4
 2017,data.Canada,data.Polio,data.by 7 years of age,data.Male,91.7
-2017,data.Canada,data.Haemophilus influenzae type B (Hib),data.by 7 years of age,data.Male,83.8
+2017,data.Canada,data.Haemophilus influenzaeÂ type B (Hib),data.by 7 years of age,data.Male,83.8
 2017,data.Canada,data.Measles,data.by 7 years of age,data.Male,86.5
 2017,data.Canada,data.Mumps,data.by 7 years of age,data.Male,86.5
 2017,data.Canada,data.Rubella,data.by 7 years of age,data.Male,93.8
@@ -58,7 +58,7 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,data.Pertussis,data.by 7 years of age,data.Female,85.5
 2017,data.Canada,data.Tetanus,data.by 7 years of age,data.Female,85.5
 2017,data.Canada,data.Polio,data.by 7 years of age,data.Female,93
-2017,data.Canada,data.Haemophilus influenzae type B (Hib),data.by 7 years of age,data.Female,84.1
+2017,data.Canada,data.Haemophilus influenzaeÂ type B (Hib),data.by 7 years of age,data.Female,84.1
 2017,data.Canada,data.Measles,data.by 7 years of age,data.Female,87.9
 2017,data.Canada,data.Mumps,data.by 7 years of age,data.Female,86.7
 2017,data.Canada,data.Rubella,data.by 7 years of age,data.Female,95.8
@@ -73,79 +73,79 @@ Year,data.Geography,data.Selected diseases,data.Age,data.Sex,Value
 2017,data.Canada,"data.Diphtheria, Tetanus, acellular Pertussis (Tdap) booster",data.by 17 years of age,data.Female,90.7
 2017,data.Newfoundland and Labrador,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,88.9
 2017,data.Newfoundland and Labrador,data.Polio,data.by 2 years of age,data.All children,96.9
-2017,data.Newfoundland and Labrador,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,87.7
+2017,data.Newfoundland and Labrador,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,87.7
 2017,data.Newfoundland and Labrador,data.Measles,data.by 2 years of age,data.All children,96.9
 2017,data.Newfoundland and Labrador,data.Mumps,data.by 2 years of age,data.All children,96.9
 2017,data.Newfoundland and Labrador,data.Rubella,data.by 2 years of age,data.All children,96.9
 2017,data.Prince Edward Island,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,81.2
 2017,data.Prince Edward Island,data.Polio,data.by 2 years of age,data.All children,93.9
-2017,data.Prince Edward Island,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,79.8
+2017,data.Prince Edward Island,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,79.8
 2017,data.Prince Edward Island,data.Measles,data.by 2 years of age,data.All children,93.2
 2017,data.Prince Edward Island,data.Mumps,data.by 2 years of age,data.All children,92.6
 2017,data.Prince Edward Island,data.Rubella,data.by 2 years of age,data.All children,92.6
 2017,data.Nova Scotia,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,73.8
 2017,data.Nova Scotia,data.Polio,data.by 2 years of age,data.All children,93.5
-2017,data.Nova Scotia,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,68.5
+2017,data.Nova Scotia,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,68.5
 2017,data.Nova Scotia,data.Measles,data.by 2 years of age,data.All children,87.1
 2017,data.Nova Scotia,data.Mumps,data.by 2 years of age,data.All children,86.8
 2017,data.Nova Scotia,data.Rubella,data.by 2 years of age,data.All children,86.8
 2017,data.New Brunswick,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,75.5
 2017,data.New Brunswick,data.Polio,data.by 2 years of age,data.All children,90.1
-2017,data.New Brunswick,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,74.7
+2017,data.New Brunswick,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,74.7
 2017,data.New Brunswick,data.Measles,data.by 2 years of age,data.All children,92
 2017,data.New Brunswick,data.Mumps,data.by 2 years of age,data.All children,92
 2017,data.New Brunswick,data.Rubella,data.by 2 years of age,data.All children,92
 2017,data.Quebec,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,73.7
 2017,data.Quebec,data.Polio,data.by 2 years of age,data.All children,90.9
-2017,data.Quebec,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,71.3
+2017,data.Quebec,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,71.3
 2017,data.Quebec,data.Measles,data.by 2 years of age,data.All children,91
 2017,data.Quebec,data.Mumps,data.by 2 years of age,data.All children,90.5
 2017,data.Quebec,data.Rubella,data.by 2 years of age,data.All children,90.5
 2017,data.Ontario,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,75.7
 2017,data.Ontario,data.Polio,data.by 2 years of age,data.All children,91
-2017,data.Ontario,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,72.9
+2017,data.Ontario,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,72.9
 2017,data.Ontario,data.Measles,data.by 2 years of age,data.All children,90.9
 2017,data.Ontario,data.Mumps,data.by 2 years of age,data.All children,90.5
 2017,data.Ontario,data.Rubella,data.by 2 years of age,data.All children,90.5
 2017,data.Manitoba,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,67.5
 2017,data.Manitoba,data.Polio,data.by 2 years of age,data.All children,85.6
-2017,data.Manitoba,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,62.2
+2017,data.Manitoba,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,62.2
 2017,data.Manitoba,data.Measles,data.by 2 years of age,data.All children,86.1
 2017,data.Manitoba,data.Mumps,data.by 2 years of age,data.All children,85.9
 2017,data.Manitoba,data.Rubella,data.by 2 years of age,data.All children,86.2
 2017,data.Saskatchewan,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,78.6
 2017,data.Saskatchewan,data.Polio,data.by 2 years of age,data.All children,90
-2017,data.Saskatchewan,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,75.1
+2017,data.Saskatchewan,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,75.1
 2017,data.Saskatchewan,data.Measles,data.by 2 years of age,data.All children,89.5
 2017,data.Saskatchewan,data.Mumps,data.by 2 years of age,data.All children,89.5
 2017,data.Saskatchewan,data.Rubella,data.by 2 years of age,data.All children,89.5
 2017,data.Alberta,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,79.9
 2017,data.Alberta,data.Polio,data.by 2 years of age,data.All children,93
-2017,data.Alberta,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,79
+2017,data.Alberta,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,79
 2017,data.Alberta,data.Measles,data.by 2 years of age,data.All children,91.7
 2017,data.Alberta,data.Mumps,data.by 2 years of age,data.All children,91.4
 2017,data.Alberta,data.Rubella,data.by 2 years of age,data.All children,91.4
 2017,data.British Columbia,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,76.6
 2017,data.British Columbia,data.Polio,data.by 2 years of age,data.All children,87.5
-2017,data.British Columbia,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,74.4
+2017,data.British Columbia,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,74.4
 2017,data.British Columbia,data.Measles,data.by 2 years of age,data.All children,86.1
 2017,data.British Columbia,data.Mumps,data.by 2 years of age,data.All children,86.1
 2017,data.British Columbia,data.Rubella,data.by 2 years of age,data.All children,86.1
 2017,data.Yukon,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,70.7
 2017,data.Yukon,data.Polio,data.by 2 years of age,data.All children,93.7
-2017,data.Yukon,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,69.3
+2017,data.Yukon,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,69.3
 2017,data.Yukon,data.Measles,data.by 2 years of age,data.All children,91
 2017,data.Yukon,data.Mumps,data.by 2 years of age,data.All children,91
 2017,data.Yukon,data.Rubella,data.by 2 years of age,data.All children,91
 2017,data.Northwest Territories,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,76.7
 2017,data.Northwest Territories,data.Polio,data.by 2 years of age,data.All children,91.1
-2017,data.Northwest Territories,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,75.5
+2017,data.Northwest Territories,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,75.5
 2017,data.Northwest Territories,data.Measles,data.by 2 years of age,data.All children,91.8
 2017,data.Northwest Territories,data.Mumps,data.by 2 years of age,data.All children,91.8
 2017,data.Northwest Territories,data.Rubella,data.by 2 years of age,data.All children,91.8
 2017,data.Nunavut,"data.Diphtheria, Pertussis, and tetanus",data.by 2 years of age,data.All children,63.8
 2017,data.Nunavut,data.Polio,data.by 2 years of age,data.All children,82.1
-2017,data.Nunavut,data.Haemophilus influenzae type B (Hib),data.by 2 years of age,data.All children,57.2
+2017,data.Nunavut,data.Haemophilus influenzaeÂ type B (Hib),data.by 2 years of age,data.All children,57.2
 2017,data.Nunavut,data.Measles,data.by 2 years of age,data.All children,88.7
 2017,data.Nunavut,data.Mumps,data.by 2 years of age,data.All children,88.7
 2017,data.Nunavut,data.Rubella,data.by 2 years of age,data.All children,88.7
