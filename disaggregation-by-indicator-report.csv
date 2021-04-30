@@ -31,7 +31,6 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-1,"data.Geography, data.Age, data.Sex",3
 #3-6-1,"data.Geography, data.Sex, data.Age group",3
 #3-7-1,"data.Geography, data.Sex, data.Age group",3
-#3-8-1,"data.Geography, data.Age, data.Sex, data.Selected diseases",4
 #4-1-1,"Geography, Age group, Sex, Demographic characteristics",4
 #4-2-1,"Geography, Educational attainment level, Age group, Sex",4
 #5-1-1,"data.Geography, data.Selected demographic characteristics, data.Gender",3
