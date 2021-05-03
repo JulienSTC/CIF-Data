@@ -419,6 +419,10 @@ Deaths or hospitalizations: Deaths or hospitalizations
 Hospitalizations: Hospitalizations
 Deaths: Deaths
 ## 15-6-1
+Unit: Unit
+Region: Region
+Land use: Land use
+Water quality: Water quality
 Percentage: Percentage
 Number: Number
 National: National
