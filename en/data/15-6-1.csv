@@ -1,4 +1,4 @@
-Year,data.Unit,data.Region,data.Land use,data.Water quality,Value
+Year,Unit,Region,Land use,Water quality,Value
 2016-2018,Percentage,National,Agriculture,Excellent,0
 2016-2018,Percentage,National,Agriculture,Good,6
 2016-2018,Percentage,National,Agriculture,Fair,9
