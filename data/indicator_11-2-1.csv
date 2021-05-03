@@ -1,7 +1,88 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,data.Selected housing vulnerable populations,data.Living with housing problems,data.Statistics,VALUE
+2018,data.All households,data.Living in unaffordable housing,data.Percentage of households,22
+2018,data.All households,data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",21
+2018,data.All households,data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",22
+2018,data.All households,data.Living in unsuitable housing,data.Percentage of households,5.1
+2018,data.All households,data.Living in unsuitable housing,"data.Low 95% confidence interval, percentage of households",4.7
+2018,data.All households,data.Living in unsuitable housing,"data.High 95% confidence interval, percentage of households",5.4
+2018,data.All households,data.Living in inadequate housing,data.Percentage of households,7.1
+2018,data.All households,data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",6.8
+2018,data.All households,data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",7.5
+2018,data.All households,data.Living in core housing need,data.Percentage of households,11.6
+2018,data.All households,data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",11.2
+2018,data.All households,data.Living in core housing need,"data.High 95% confidence interval, percentage of households",12
+2018,"data.Total, lone-parent family households",data.Living in unaffordable housing,data.Percentage of households,28
+2018,"data.Total, lone-parent family households",data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",25
+2018,"data.Total, lone-parent family households",data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",30
+2018,"data.Total, lone-parent family households",data.Living in unsuitable housing,data.Percentage of households,9.4
+2018,"data.Total, lone-parent family households",data.Living in unsuitable housing,"data.Low 95% confidence interval, percentage of households",7.9
+2018,"data.Total, lone-parent family households",data.Living in unsuitable housing,"data.High 95% confidence interval, percentage of households",11.1
+2018,"data.Total, lone-parent family households",data.Living in inadequate housing,data.Percentage of households,10.8
+2018,"data.Total, lone-parent family households",data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",9.4
+2018,"data.Total, lone-parent family households",data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",12.4
+2018,"data.Total, lone-parent family households",data.Living in core housing need,data.Percentage of households,22
+2018,"data.Total, lone-parent family households",data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",19.6
+2018,"data.Total, lone-parent family households",data.Living in core housing need,"data.High 95% confidence interval, percentage of households",24
+2018,data.Lone-parent family households whose reference person is male,data.Living in unaffordable housing,data.Percentage of households,25
+2018,data.Lone-parent family households whose reference person is male,data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",20
+2018,data.Lone-parent family households whose reference person is male,data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",30
+2018,data.Lone-parent family households whose reference person is male,data.Living in unsuitable housing,data.Percentage of households,8
+2018,data.Lone-parent family households whose reference person is male,data.Living in unsuitable housing,"data.Low 95% confidence interval, percentage of households",5.4
+2018,data.Lone-parent family households whose reference person is male,data.Living in unsuitable housing,"data.High 95% confidence interval, percentage of households",11.7
+2018,data.Lone-parent family households whose reference person is male,data.Living in inadequate housing,data.Percentage of households,8.5
+2018,data.Lone-parent family households whose reference person is male,data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",6.2
+2018,data.Lone-parent family households whose reference person is male,data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",11.5
+2018,data.Lone-parent family households whose reference person is male,data.Living in core housing need,data.Percentage of households,15.8
+2018,data.Lone-parent family households whose reference person is male,data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",11.8
+2018,data.Lone-parent family households whose reference person is male,data.Living in core housing need,"data.High 95% confidence interval, percentage of households",21
+2018,data.Lone-parent family households whose reference person is female,data.Living in unaffordable housing,data.Percentage of households,29
+2018,data.Lone-parent family households whose reference person is female,data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",26
+2018,data.Lone-parent family households whose reference person is female,data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",31
+2018,data.Lone-parent family households whose reference person is female,data.Living in unsuitable housing,data.Percentage of households,9.9
+2018,data.Lone-parent family households whose reference person is female,data.Living in unsuitable housing,"data.Low 95% confidence interval, percentage of households",8.2
+2018,data.Lone-parent family households whose reference person is female,data.Living in unsuitable housing,"data.High 95% confidence interval, percentage of households",11.9
+2018,data.Lone-parent family households whose reference person is female,data.Living in inadequate housing,data.Percentage of households,11.7
+2018,data.Lone-parent family households whose reference person is female,data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",10
+2018,data.Lone-parent family households whose reference person is female,data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",13.6
+2018,data.Lone-parent family households whose reference person is female,data.Living in core housing need,data.Percentage of households,24
+2018,data.Lone-parent family households whose reference person is female,data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",21
+2018,data.Lone-parent family households whose reference person is female,data.Living in core housing need,"data.High 95% confidence interval, percentage of households",26
+2018,"data.Total, one person households",data.Living in unaffordable housing,data.Percentage of households,38
+2018,"data.Total, one person households",data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",37
+2018,"data.Total, one person households",data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",39
+2018,"data.Total, one person households",data.Living in inadequate housing,data.Percentage of households,8.3
+2018,"data.Total, one person households",data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",7.6
+2018,"data.Total, one person households",data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",9
+2018,"data.Total, one person households",data.Living in core housing need,data.Percentage of households,22
+2018,"data.Total, one person households",data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",21
+2018,"data.Total, one person households",data.Living in core housing need,"data.High 95% confidence interval, percentage of households",23
+2018,data.Men living alone,data.Living in unaffordable housing,data.Percentage of households,35
+2018,data.Men living alone,data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",33
+2018,data.Men living alone,data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",37
+2018,data.Men living alone,data.Living in inadequate housing,data.Percentage of households,8.5
+2018,data.Men living alone,data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",7.5
+2018,data.Men living alone,data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",9.7
+2018,data.Men living alone,data.Living in core housing need,data.Percentage of households,21
+2018,data.Men living alone,data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",19
+2018,data.Men living alone,data.Living in core housing need,"data.High 95% confidence interval, percentage of households",22
+2018,data.Women living alone,data.Living in unaffordable housing,data.Percentage of households,40
+2018,data.Women living alone,data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",38
+2018,data.Women living alone,data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",41
+2018,data.Women living alone,data.Living in inadequate housing,data.Percentage of households,8.1
+2018,data.Women living alone,data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",7.2
+2018,data.Women living alone,data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",9.1
+2018,data.Women living alone,data.Living in core housing need,data.Percentage of households,24
+2018,data.Women living alone,data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",22
+2018,data.Women living alone,data.Living in core housing need,"data.High 95% confidence interval, percentage of households",25
+2018,data.Reference person who experienced homelessness,data.Living in unaffordable housing,data.Percentage of households,38
+2018,data.Reference person who experienced homelessness,data.Living in unaffordable housing,"data.Low 95% confidence interval, percentage of households",34
+2018,data.Reference person who experienced homelessness,data.Living in unaffordable housing,"data.High 95% confidence interval, percentage of households",42
+2018,data.Reference person who experienced homelessness,data.Living in unsuitable housing,data.Percentage of households,6.8
+2018,data.Reference person who experienced homelessness,data.Living in unsuitable housing,"data.Low 95% confidence interval, percentage of households",5.1
+2018,data.Reference person who experienced homelessness,data.Living in unsuitable housing,"data.High 95% confidence interval, percentage of households",9.1
+2018,data.Reference person who experienced homelessness,data.Living in inadequate housing,data.Percentage of households,18.8
+2018,data.Reference person who experienced homelessness,data.Living in inadequate housing,"data.Low 95% confidence interval, percentage of households",15.8
+2018,data.Reference person who experienced homelessness,data.Living in inadequate housing,"data.High 95% confidence interval, percentage of households",22
+2018,data.Reference person who experienced homelessness,data.Living in core housing need,data.Percentage of households,34
+2018,data.Reference person who experienced homelessness,data.Living in core housing need,"data.Low 95% confidence interval, percentage of households",30
+2018,data.Reference person who experienced homelessness,data.Living in core housing need,"data.High 95% confidence interval, percentage of households",37
