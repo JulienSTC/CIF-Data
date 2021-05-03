@@ -1,13 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
 "data.Abbotsford - Mission, British Columbia",3,2
-data.Alberta,758,21
-data.Alberta ,13,1
+data.Alberta,771,22
 data.Atlantic,120,1
 "data.Barrie, Ontario",3,2
 "data.Belleville, Ontario",3,2
 "data.Brantford, Ontario",3,2
-data.British Columbia,880,22
-data.British Columbia ,13,1
+data.British Columbia,893,23
 "data.Calgary, Alberta",3,2
 data.Canada,1310,23
 "data.Edmonton, Alberta",3,2
@@ -20,41 +18,31 @@ data.Canada,1310,23
 "data.Kitchener - Cambridge - Waterloo, Ontario",3,2
 "data.Lethbridge, Alberta",3,2
 "data.London, Ontario",3,2
-data.Manitoba,758,21
-data.Manitoba ,13,1
+data.Manitoba,771,22
 "data.Moncton, New Brunswick",3,2
 "data.Montr�al, Quebec",1,1
 "data.Montreal, Quebec",2,1
 data.National marine,1,1
 data.National terrestrial,1,1
-data.New Brunswick,758,21
-data.New Brunswick ,13,1
-data.Newfoundland and Labrador,758,21
-data.Newfoundland and Labrador ,13,1
-data.Northwest Territories,407,13
-data.Northwest Territories ,13,1
-data.Nova Scotia,758,21
-data.Nova Scotia ,13,1
-data.Nunavut,405,12
-data.Nunavut ,13,1
-data.Ontario,879,22
-data.Ontario ,13,1
+data.New Brunswick,771,22
+data.Newfoundland and Labrador,771,22
+data.Northwest Territories,420,14
+data.Nova Scotia,771,22
+data.Nunavut,418,13
+data.Ontario,892,23
 "data.Oshawa, Ontario",3,2
 "data.Ottawa - Gatineau (Ontario part), Ontario",3,2
 "data.Ottawa - Gatineau (Quebec part), Quebec",3,2
 "data.Peterborough, Ontario",3,2
 data.Prairies,120,1
-data.Prince Edward Island,758,21
-data.Prince Edward Island ,13,1
+data.Prince Edward Island,771,22
 "data.Qu�bec, Quebec",1,1
 "data.Quebec, Quebec",2,1
-data.Quebec,880,22
-data.Quebec ,13,1
+data.Quebec,893,23
 "data.Regina, Saskatchewan",3,2
 "data.Saguenay, Quebec",3,2
 "data.Saint John, New Brunswick",3,2
-data.Saskatchewan,758,21
-data.Saskatchewan ,13,1
+data.Saskatchewan,771,22
 "data.Saskatoon, Saskatchewan",3,2
 "data.Sherbrooke, Quebec",3,2
 "data.St. Catharines - Niagara, Ontario",3,2
@@ -69,5 +57,4 @@ data.Territories,45,1
 "data.Victoria, British Columbia",3,2
 "data.Windsor, Ontario",3,2
 "data.Winnipeg, Manitoba",3,2
-data.Yukon,407,13
-data.Yukon ,13,1
+data.Yukon,420,14
