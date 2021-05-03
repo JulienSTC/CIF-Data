@@ -1,1 +1,35 @@
-Year,Value
+Year,data.Event type,Value
+2010,data.Earthquake,1
+2010,data.Flood,7
+2010,data.Hurricane / Typhoon / Tropical Storm,2
+2010,data.Storm - Unspecified / Other,1
+2010,data.Storm Surge,1
+2010,data.Storms and Severe Thunderstorms,2
+2010,data.Tornado,3
+2010,data.Wildfire,5
+2010,data.Winter Storm,1
+2011,data.Flood,7
+2011,data.Hurricane / Typhoon / Tropical Storm,1
+2011,data.Tornado,1
+2011,data.Wildfire,5
+2012,data.Flood,6
+2012,data.Wildfire,10
+2013,data.Flood,4
+2013,data.Storms and Severe Thunderstorms,1
+2013,data.Winter Storm,3
+2014,data.Flood,5
+2014,data.Hurricane / Typhoon / Tropical Storm,1
+2014,data.Wildfire,2
+2015,data.Flood,3
+2015,data.Storm - Unspecified / Other,1
+2015,data.Storms and Severe Thunderstorms,6
+2015,data.Tornado,1
+2015,data.Wildfire,2
+2015,data.Winter Storm,1
+2016,data.Flood,7
+2016,data.Landslide,1
+2016,data.Storm - Unspecified / Other,4
+2016,data.Storms and Severe Thunderstorms,7
+2016,data.Tornado,1
+2016,data.Wildfire,5
+2016,data.Winter Storm,3
