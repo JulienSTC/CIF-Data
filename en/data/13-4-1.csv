@@ -1,35 +1,51 @@
-Year,Event type,Value
-2010,Earthquake,1
-2010,Flood,7
-2010,Hurricane / Typhoon / Tropical Storm,2
-2010,Storm - Unspecified / Other,1
-2010,Storm Surge,1
-2010,Storms and Severe Thunderstorms,2
-2010,Tornado,3
-2010,Wildfire,5
-2010,Winter Storm,1
-2011,Flood,7
-2011,Hurricane / Typhoon / Tropical Storm,1
-2011,Tornado,1
-2011,Wildfire,5
-2012,Flood,6
-2012,Wildfire,10
-2013,Flood,4
-2013,Storms and Severe Thunderstorms,1
-2013,Winter Storm,3
-2014,Flood,5
-2014,Hurricane / Typhoon / Tropical Storm,1
-2014,Wildfire,2
-2015,Flood,3
-2015,Storm - Unspecified / Other,1
-2015,Storms and Severe Thunderstorms,6
-2015,Tornado,1
-2015,Wildfire,2
-2015,Winter Storm,1
-2016,Flood,7
-2016,Landslide,1
-2016,Storm - Unspecified / Other,4
-2016,Storms and Severe Thunderstorms,7
-2016,Tornado,1
-2016,Wildfire,5
-2016,Winter Storm,3
+Year,data.Event Type,data.Event sub-type,Value
+2010,data.Biological,data.Epidemic,1
+2010,data.Geological,Earthquake,1
+2010,data.Meteorological - Hydrological,Flood,7
+2010,data.Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,2
+2010,data.Meteorological - Hydrological,Storm - Unspecified / Other,1
+2010,data.Meteorological - Hydrological,Storm Surge,1
+2010,data.Meteorological - Hydrological,Storms and Severe Thunderstorms,2
+2010,data.Meteorological - Hydrological,Tornado,3
+2010,data.Meteorological - Hydrological,Wildfire,5
+2010,data.Meteorological - Hydrological,Winter Storm,1
+2011,data.Meteorological - Hydrological,Flood,7
+2011,data.Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,1
+2011,data.Meteorological - Hydrological,Tornado,1
+2011,data.Meteorological - Hydrological,Wildfire,5
+2012,data.Biological,data.Epidemic,1
+2012,data.Meteorological - Hydrological,Flood,6
+2012,data.Meteorological - Hydrological,Wildfire,10
+2013,data.Meteorological - Hydrological,Flood,4
+2013,data.Meteorological - Hydrological,Storms and Severe Thunderstorms,1
+2013,data.Meteorological - Hydrological,Winter Storm,3
+2014,data.Meteorological - Hydrological,Flood,5
+2014,data.Meteorological - Hydrological,Hurricane / Typhoon / Tropical Storm,1
+2014,data.Meteorological - Hydrological,Wildfire,2
+2015,data.Meteorological - Hydrological,Flood,3
+2015,data.Meteorological - Hydrological,Storm - Unspecified / Other,1
+2015,data.Meteorological - Hydrological,Storms and Severe Thunderstorms,6
+2015,data.Meteorological - Hydrological,Tornado,1
+2015,data.Meteorological - Hydrological,Wildfire,2
+2015,data.Meteorological - Hydrological,Winter Storm,1
+2016,data.Biological,data.Epidemic,1
+2016,data.Geological,Landslide,1
+2016,data.Meteorological - Hydrological,Flood,7
+2016,data.Meteorological - Hydrological,Storm - Unspecified / Other,4
+2016,data.Meteorological - Hydrological,Storms and Severe Thunderstorms,7
+2016,data.Meteorological - Hydrological,Tornado,1
+2016,data.Meteorological - Hydrological,Wildfire,5
+2016,data.Meteorological - Hydrological,Winter Storm,3
+2017,data.Meteorological - Hydrological,Flood,3
+2017,data.Meteorological - Hydrological,Storms and Severe Thunderstorms,1
+2017,data.Meteorological - Hydrological,Wildfire,1
+2017,data.Meteorological - Hydrological,Winter Storm,3
+2018,data.Meteorological - Hydrological,Flood,3
+2018,data.Meteorological - Hydrological,data.Heat Event,1
+2018,data.Meteorological - Hydrological,Storm - Unspecified / Other,1
+2018,data.Meteorological - Hydrological,Storms and Severe Thunderstorms,3
+2018,data.Meteorological - Hydrological,Tornado,1
+2018,data.Meteorological - Hydrological,Wildfire,2
+2018,data.Meteorological - Hydrological,Winter Storm,1
+2019,data.Meteorological - Hydrological,Flood,2
+2019,data.Meteorological - Hydrological,Winter Storm,2
