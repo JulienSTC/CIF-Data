@@ -491,6 +491,12 @@ Tornado: Tornado
 Wildfire: Wildfire
 Winter Storm: Winter Storm
 Landslide: Landslide
+Biological: Biological
+Geological: Geological
+Meteorological - Hydrological: Meteorological - Hydrological
+Epidemic: Epidemic
+Heat Event: Heat Event
+Event sub-type: Event sub-type
 ## 16_7-1
 Institutions: Institutions
 Police: Police
